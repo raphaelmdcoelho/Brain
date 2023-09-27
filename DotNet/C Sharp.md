@@ -5,14 +5,14 @@
 3. Implicit global using directive.
 4. Nondesteutive mutation for anonymous rypes using ***with*** Keyword.
 
-```
+```csharp
 var a1 = { a = 1, b = 2 };
 Var a2 = a1 with { c = 3 };
 ```
 
 5. New desconstruction  syntax:
 
-```
+```csharp
 var point = (3, 5);
 double x = 0;
 (x, double y) = point;
@@ -21,7 +21,7 @@ double x = 0;
 6. Field initializers and parameterless constructors in structs.
 7. Record struct:
 
-```
+```csharp
 record struct Point (int x, int y);
 ```
 
@@ -32,31 +32,31 @@ record struct Point (int x, int y);
 	4. A lambda expression can specify a return type:
 	5. Now it's possible to apply attributes to lambda expressions:
 
-```
+```csharp
 var result = () => "Hello world!";
 ```
 
-```
+```csharp
 var square = (int x) => x * x;
 ```
 
-```
+```csharp
 var sqr = int (int x) => x * x;
 ```
 
-```
+```csharp
 Action a = [Description("test")] () => {};
 ```
 
 9. Nested property pattern:
 	1. Old version:
 	2. New version:
-```
+```csharp
 var obj = new Uri("https://...");
 if(obj is Uri { Scheme.Lenght: 5 })...
 ```
 
-```
+```csharp
 if (obj is Uri { Scheme: { Lenght: 5}})...
 ```
 
@@ -69,7 +69,7 @@ if (obj is Uri { Scheme: { Lenght: 5}})...
 	1. A property can be declared using the ***init*** keyword instead of ***set***.
 	2. It creates a immutable read-only type that can be populated via an object initializer instead of a constructor.
 	3. It allows nondestructive mutation when used in records.
-```
+```csharp
 public string Text { get; init; }
 
 var text1 = new Class { Text = "Message" };
@@ -80,7 +80,7 @@ var text2 = text1 with { OtherProperty = value }
 		1. It's a class that word good with immutable data.
 		2. Allows nondestructive mutation.
 		3. With records is possible to eliminate the properties boilerplate.
-```
+```csharp
 record Point 
 {  
 	public Point (double x, double y) => (X, Y) = (x, y);   
@@ -89,13 +89,13 @@ record Point
 }
 ```
 
-```
+```csharp
 record Point (double X, double Y);
 ```
 
 4. Pattern-matching improviments:
 	1. Operators can apper in patters.
-```
+```csharp
 string GetWeightCategory (decimal bmi) => bmi Switch
 {
 	<= 18.5m => "underweight",

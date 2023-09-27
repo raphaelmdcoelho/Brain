@@ -2,7 +2,7 @@ The reduce() method of Array instances executes a user-supplied "reducer" callba
 
 #### Examples
 
-```
+```javascript
 [].reduce((a, v , i) => 
    (
    {...a, [columns[i]: v]}
