@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "db02e98fc8df8c06",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb6b8aa01ea100aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b88eda7218ade592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Bun/Bun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7af021cb5042fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/eval().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f501c95a313c50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a425ad60c5e23b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Bun/Bun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b483c3c6788dbc0c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8574ee9e521c14f3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c168088dfce0d745",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b60914a835f4f2bf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b9a84e0463870bb0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ed46b21319fbd9fd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "48e3de04a032d61c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Javascript/eval().md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0e9d2ff48f6d5a69",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Javascript/eval().md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc1f846e10f61973",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Javascript/eval().md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f7af021cb5042fe8",
+  "lastOpenFiles": [
+    "Container/Podman/Podman.md",
+    "Javascript/Bun/File IO.md",
+    "Javascript/Bun/Bun.md",
+    "Container/Podman",
+    "Javascript/Bun/Server.md",
+    "Database/Sqlite/Sqlite.md",
+    "Javascript/Javascript.md",
+    "Python/Python.md",
+    "Javascript/Bun",
+    "Math/Power.md",
+    "Math/Root.md",
+    "Markup language/LaTex.md",
+    "BASH/For statement.md",
+    "Javascript/Node/CommonJs.md",
+    "BASH/Bash.md",
+    "BASH/While statment.md",
+    "BASH/Sleep.md",
+    "BASH/Scripts in parallel.md",
+    "BASH/Redirection.md",
+    "BASH/Pipe.md",
+    "BASH/If statment.md",
+    "BASH/BASH Shortcuts.md",
+    "BASH/Alias.md",
+    "Computing/End-Of-File.md",
+    "Computing/Tree/Tree.md",
+    "Computing/Tree/Binary tree.md",
+    "Console/REPL.md",
+    "Console/Console.md",
+    "Math",
+    "Computing/Tree",
+    "Daily Notes/September2023",
+    "Daily Notes",
+    "Database/Concepts/SQL",
+    "Javascript/Tests",
+    "Python",
+    "Markup language",
+    "Linux/Images/Permissions information.png",
+    "Linux/Images/Linux permissions.png"
+  ]
+}
