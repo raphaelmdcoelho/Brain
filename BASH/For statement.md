@@ -1,8 +1,8 @@
-```
+```bash
 for l in ./files/*.txt; do echo "message"; done
 ```
 
-```
+```bash
 #!/bin/bash
 for f in *
 	do 

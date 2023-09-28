@@ -11,8 +11,12 @@
             "id": "215135a7de75b47a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/SSH keys.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/SSH keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/SSH keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/SSH keys.md"
+              }
             }
           }
         ]
@@ -139,5 +148,35 @@
     }
   },
   "active": "215135a7de75b47a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Linux/Linux.md",
+    "GIT/GIT Stash.md",
+    "GIT/GIT Rebase.md",
+    "GIT/GIT Revert.md",
+    "GIT/GIT.md",
+    "GIT/GIT Bisect.md",
+    "BASH/While statment.md",
+    "BASH/Sleep.md",
+    "BASH/Scripts in parallel.md",
+    "BASH/Redirection.md",
+    "BASH/Pipe.md",
+    "BASH/If statment.md",
+    "BASH/For statement.md",
+    "BASH/BASH Shortcuts.md",
+    "BASH/Bash.md",
+    "BASH/Alias.md",
+    "Computing/End-Of-File.md",
+    "Computing/Tree/Tree.md",
+    "Computing/Tree/Binary tree.md",
+    "Console/REPL.md",
+    "Console/Console.md",
+    "Console/Command-line program.md",
+    "Container/Podman/Podman.md",
+    "Container/Docker/WORKDIR.md",
+    "Container/Docker/VOLUME.md",
+    "Container/Docker/USER.md",
+    "Projects/AZ204EXAM",
+    "Projects/PDI2023",
+    "Projects"
+  ]
 }

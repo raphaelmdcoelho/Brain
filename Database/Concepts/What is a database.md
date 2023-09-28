@@ -1,14 +1,14 @@
 ## How to create a database-like file through javascript
 
 - Create a file called, database.mjs, with the following content:
-```
+```javascript
 export var users = [
 { "Name": "..."},
 ...
 ]
 ```
 - Then using the Node [[REPL]] the following command:
-```
+```javascript
 db = await import('./files/users.mjs')
 ```
 - Then would be possible to use ```console.table(db.users)``` to display a table through the json file.
@@ -18,7 +18,7 @@ db = await import('./files/users.mjs')
 
 e.g:
 
-```
+```javascript
 module.exports = class Square { constructor(a) { this.a = a }}
 
 const circle = require('./circle.js');
@@ -28,7 +28,7 @@ const circle = require('./circle.js');
 
 e.g:
 
-```
+```javascript
 // addTwo.mjs
 function addTwo(num) {
   return num + 2;
@@ -37,7 +37,7 @@ function addTwo(num) {
 export { addTwo };
 ```
 
-```
+```javascript
 // app.mjs
 import { addTwo } from './addTwo.mjs';
 
@@ -49,19 +49,19 @@ Note: The export default syntax **allows you to export a single value from a mo
 
 So Node.js will treat <mark>.cjs</mark> files as CommonJS modules and <mark>.mjs</mark> files as ECMAScript modules and it will treat <mark>.js</mark> files as whatever the default module system for the project is, which is CommonJS unless package.json says:
 
-```
+```javascript
 "type": "module"
 ```
 
 ### "Operations":
 
 ***INSERT***
-```
+```javascript
 db.users.push({})
 ```
 
 ***SELECT***
-```
+```javascript
 let result = db.users.filter(user => user.name === 'Name')
 
 console.table(result) 
@@ -70,7 +70,7 @@ console.table(result)
 ### Javascript statment methods
 
 ***SELECT***
-```
+```javascript
 export const select = (columns, result) => {
     switch(columns) {
         case '*':
@@ -95,7 +95,7 @@ export const select = (columns, result) => {
 - [[Array.prototype.reduce]]
 
 ****FROM***
-```
+```javascript
 export const from = (table, conditions) => {
     if (conditions === undefined) {
         if(database[table]) {
@@ -112,7 +112,7 @@ export const from = (table, conditions) => {
 - [[eval()]]
 
 ***ORDER BY***
-```
+```javascript
 export const orderBy = (column, order, result) => {
     return result.sort((a, b) => {
         let compare = 0
@@ -127,7 +127,7 @@ export const orderBy = (column, order, result) => {
 ```
 
 **INSERT**
-```
+```javascript
 export const insert = (table, values) => {
     const id = from(table).length + 1
     from(table).push({
@@ -139,7 +139,7 @@ export const insert = (table, values) => {
 ```
 
 ***DELETE***
-```
+```javascript
 export const deleteFrom = (table, conditions) => {
     let counter = 0
     from(table, conditions).forEach(row => {

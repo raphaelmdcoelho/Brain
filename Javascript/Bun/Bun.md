@@ -10,7 +10,7 @@
 ## Package
 
 - Add a package
-```
+```javascript
 bun add package
 ```
 
@@ -27,11 +27,11 @@ bun add package
 .env content:
 FOO=hello
 #### Variables can also be set via the command line:
-```
+```javascript
 FOO=hello Bun run dev
 ```
 #### Programatically
-```
+```javascript
 process.env.FOO = "hello";
 ```
 - dotenv is no longer needed anymore,because Bun reads .env automatically.

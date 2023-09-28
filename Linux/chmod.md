@@ -1,6 +1,6 @@
 - chmod stands for "change mode"
 - To list the permissions for a file is possible to use the following command:
-```
+```bash
 ls -l
 ```
 
@@ -22,7 +22,7 @@ ls -l
 
 ## Changing permissions
 
-```
+```bash
 chmod [who][+,-,=][permissions] filename
 ```
 
@@ -38,7 +38,7 @@ chmod [who][+,-,=][permissions] filename
 - The next one is the permission symbol (r, w, x).
 - The next one is the file name.
 	- e.g:
-```
+```bash
 chmod u+r test.txt
 
 chmod u+rwx test.txt
