@@ -1,7 +1,7 @@
 
 ### Concepts
 
-* Its calculation can be achived trough the factor calculation.
+* Its calculation can be achieved trough the factor calculation.
 ### Properties 
 
 * $\sqrt{2^6}$ = $\sqrt{2^2*2^2*2^2}$ = $\sqrt{8}$ ***OR*** 6 ÷ 2 = $\sqrt{2^3}$
