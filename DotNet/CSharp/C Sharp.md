@@ -3,14 +3,14 @@
 1. File-scoped namespaces.
 2. Global using directive.
 3. Implicit global using directive.
-4. Nondesteutive mutation for anonymous rypes using ***with*** Keyword.
+4. Nondesteutive mutation for anonymous types using ***with*** Keyword.
 
 ```csharp
 var a1 = { a = 1, b = 2 };
 Var a2 = a1 with { c = 3 };
 ```
 
-5. New desconstruction  syntax:
+5. New deconstruction  syntax:
 
 ```csharp
 var point = (3, 5);

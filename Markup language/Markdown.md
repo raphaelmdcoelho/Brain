@@ -12,6 +12,7 @@
 - to subscript a text it's possible to use the cyrcumflex symbol ^subscript^ or Using HTML like <sup> 2 </sup>
 - To create emotional is possible to use semicollumn like :smile: or copy and paste 😁.
 
-#markup 
+#markdown
+
 
 

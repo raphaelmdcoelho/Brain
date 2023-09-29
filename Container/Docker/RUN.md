@@ -4,4 +4,4 @@ Two ways to be expressed:
 - RUN command
 - RUN ["executable", "parameter"]
 
-#docker 
+#docker #container 

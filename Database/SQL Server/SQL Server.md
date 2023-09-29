@@ -3,4 +3,4 @@
 - [[Bulk Insert]]
 - [[SELECT tips]]
 
-#sqlserver 
+#sqlserver #database 
