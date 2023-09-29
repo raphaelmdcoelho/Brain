@@ -3,4 +3,4 @@
 SELECT CONCAT('''', column_name, '''', ',') FROM table_name;
 ```
 
-#sqlserver 
+#sqlserver #database 

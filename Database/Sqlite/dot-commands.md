@@ -6,4 +6,4 @@
 - .import FILE TABLE ==> *import a data from a file into a table*
 - .tables ?TABLE?
 
-#sqlite
+#sqlite #database 

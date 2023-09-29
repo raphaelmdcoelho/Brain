@@ -34,6 +34,6 @@ select * from tbl1;*
 
 - [[dot-commands]]
 
-#sqlite 
+#sqlite #database 
 
 
