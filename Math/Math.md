@@ -1,5 +1,7 @@
 
 * [[Power]]
 * [[Root]]
+* [[Calculus]]
+* 
 
 #math
