@@ -1,0 +1,1 @@
+* [[XClip]] => work with os clipboard.
