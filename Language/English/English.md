@@ -2,6 +2,15 @@
 
 ## Vocabulary
 
--[[House vocabulary]]
+- [[House vocabulary]]
+
+## Tenses
+
+* [[Simple Present]]
+* [[Simple Past]]
+* [[Future tense]]
+
+
+
 
 #english 

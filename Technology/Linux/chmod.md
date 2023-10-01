@@ -22,6 +22,7 @@ ls -l
 
 ## Changing permissions
 
+
 ```bash
 chmod [who][+,-,=][permissions] filename
 ```
@@ -38,6 +39,7 @@ chmod [who][+,-,=][permissions] filename
 - The next one is the permission symbol (r, w, x).
 - The next one is the file name.
 	- e.g:
+
 ```bash
 chmod u+r test.txt
 
