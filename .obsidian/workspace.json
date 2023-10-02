@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f091cb51bf63a617",
+        "id": "11e95c4821a527c2",
         "type": "tabs",
         "children": [
           {
-            "id": "215135a7de75b47a",
+            "id": "7d2d4f501fbcf52d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/SSH keys.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a457040ca64fc6ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "Linux/SSH keys.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -147,36 +148,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "215135a7de75b47a",
+  "active": "7d2d4f501fbcf52d",
   "lastOpenFiles": [
-    "Linux/Linux.md",
-    "GIT/GIT Stash.md",
-    "GIT/GIT Rebase.md",
-    "GIT/GIT Revert.md",
-    "GIT/GIT.md",
-    "GIT/GIT Bisect.md",
-    "BASH/While statment.md",
-    "BASH/Sleep.md",
-    "BASH/Scripts in parallel.md",
-    "BASH/Redirection.md",
-    "BASH/Pipe.md",
-    "BASH/If statment.md",
-    "BASH/For statement.md",
-    "BASH/BASH Shortcuts.md",
-    "BASH/Bash.md",
-    "BASH/Alias.md",
-    "Computing/End-Of-File.md",
-    "Computing/Tree/Tree.md",
-    "Computing/Tree/Binary tree.md",
-    "Console/REPL.md",
-    "Console/Console.md",
-    "Console/Command-line program.md",
-    "Container/Podman/Podman.md",
-    "Container/Docker/WORKDIR.md",
-    "Container/Docker/VOLUME.md",
-    "Container/Docker/USER.md",
-    "Projects/AZ204EXAM",
-    "Projects/PDI2023",
-    "Projects"
+    "Technology/BASH/AWK/Two-way I O.md",
+    "Technology/BASH/AWK/Multi-Line Records.md",
+    "Technology/BASH/AWK/Field Separators.md",
+    "Technology/BASH/AWK/Built-in Functions.md",
+    "Technology/BASH/AWK/Advanced Control Flow.md",
+    "Technology/Python/Python.md",
+    "Technology/Python",
+    "Technology/Markup language/LaTex.md",
+    "Technology/Markup language/Markdown.md",
+    "Technology/Markup language",
+    "Technology/Linux/Images/Linux permissions.png",
+    "Technology/Linux/Kernel/Namespaces.md",
+    "Technology/Linux/Images/Permissions information.png",
+    "Technology/Linux/SSH keys.md",
+    "Technology/Linux/Linux.md",
+    "Technology/Linux/Kernel",
+    "Technology/Linux/Linux Users.md",
+    "Technology/Linux/Images",
+    "Technology/Linux/cronjob.md",
+    "Technology/Linux/chmod.md",
+    "Technology/Linux/chroot.md",
+    "Technology/Linux/chown.md",
+    "Technology/Linux",
+    "Technology/Console/REPL.md",
+    "Technology/Console/Console.md",
+    "Technology/Console/Command-line program.md",
+    "Technology/Console",
+    "Technology/Computing/Tree/Tree.md",
+    "Technology/Computing/Tree/Binary tree.md",
+    "Technology/Computing/Tree",
+    "Technology/Computing/Images/Pasted image 20230930214946.png",
+    "Technology/Computing/Images",
+    "Technology/Javascript/String/String.prototype.split().md",
+    "Technology/Javascript/String/String.md",
+    "Technology/Javascript/Tests/Jest.md",
+    "Technology/Javascript/Object/Object.md",
+    "Technology/Javascript/Node/Node.md",
+    "Technology/Javascript/String",
+    "Technology/Javascript/Tests",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230909.png",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230700.png",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20230928231013.png",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230916.png",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230801.png",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230546.png",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230308.png",
+    "Projects/PDI 2023/PDI 2023.canvas",
+    "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas",
+    "Untitled.canvas"
   ]
 }

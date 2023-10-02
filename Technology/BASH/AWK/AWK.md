@@ -178,15 +178,24 @@ $ echo "This is a text" | awk '{print $1}'
 
 <hr>
 
-1. **Built-in Functions**: `awk` has a wide range of built-in functions for string manipulation, mathematical calculations, and more.
+### [[Built-in Functions]]
+
+<hr>
+
+### [[Two-way I O]]
+
+<hr>
+### [[Field Separators]]
+
+<hr>
+
+### [[Advanced Control Flow]]
+
+<hr>
     
-4. **Two-way I/O**: Besides reading from files and stdout, `awk` can also write to files and execute shell commands.
-    
-5. **Field Separators**: You can use multiple field separators or even regular expressions as field separators.
-    
-6. **Advanced Control Flow**: While `awk`'s syntax is simple, you can construct fairly complex control flows using `if`, `else`, `while`, `for`, etc.
-    
-7. **Multi-Line Records**: `awk` can handle records that span multiple lines, which is handy for dealing with data formats like XML or JSON.
+### [[Multi-Line Records]]
+
+<hr>
     
 8. **Internationalization and Localization**: `awk` supports string collation, formatting, and other locale-specific operations.
     
