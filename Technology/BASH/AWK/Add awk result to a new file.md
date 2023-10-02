@@ -9,3 +9,5 @@ $ awk '{ print $1 > "output.txt"}' input.txt
 ```
 
 **Note**: The second option can provide more control, if the output need some kind of conditionals.
+
+#bash 

@@ -197,12 +197,18 @@ $ echo "This is a text" | awk '{print $1}'
 
 <hr>
     
-8. **Internationalization and Localization**: `awk` supports string collation, formatting, and other locale-specific operations.
+### [[Internationalization and Localization]]
+
+<hr>
+  
+### [[Debugging and Profiling]]
+
+<hr>
     
-9. **Debugging and Profiling**: Some versions of `awk`, like `gawk`, come with debugging and profiling tools to help you optimize your scripts.
-    
-10. **In-Place Editing**: Though not a native `awk` feature, some people use `awk` in combination with `sed` or other tools to perform in-place file editing.
-    
-11. **Networking**: With GNU `awk` (gawk), you can even perform basic networking tasks like opening sockets.
+### [[In-Place Editing]]
+
+<hr>
+
+### [[Networking]]
 
 #bash
