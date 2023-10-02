@@ -37,7 +37,7 @@ It's a branch of computer science that make possible the creation of systems tha
 * [[NumPy]]
 * [[Scikit-Learn]]
 * [[PyCaret]]
-* [[PyTouch]]
+* [[PyTorch]]
 * [[Keras]]
 * [[Hugging Face]]
 * [[Tensor Flow]]
