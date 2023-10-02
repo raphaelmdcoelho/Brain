@@ -211,4 +211,4 @@ $ echo "This is a text" | awk '{print $1}'
 
 ### [[Networking]]
 
-#bash
+#bash #awk

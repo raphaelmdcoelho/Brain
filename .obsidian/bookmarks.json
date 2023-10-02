@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1696276141123,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/User-Defined Functions.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Add awk result to a new file.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Advanced Control Flow.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Associative arrays.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/AWK.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Built-in Functions.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Built-in Variables.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Debugging and Profiling.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Dynamic Regular Expressions.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Execute multiple blocks or files.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Field Separators.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/In-Place Editing.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Internationalization and Localization.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Multi-Line Records.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Networking.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Special Blocks.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696276135781,
+          "path": "Technology/BASH/AWK/Two-way I O.md"
+        }
+      ],
+      "title": "AWK"
+    }
+  ]
+}
