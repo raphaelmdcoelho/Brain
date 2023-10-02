@@ -27,4 +27,4 @@ sunil sales
 satvik purchase
 ```
 
-#bash 
+#bash #awk

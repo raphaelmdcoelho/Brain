@@ -1,3 +1,3 @@
 Dynamic Regular Expressions in `awk` allow you to use variables as patterns in your regular expression matching. This flexibility can be especially useful when you need to generate or change the pattern at runtime.
 
-#bash 
+#bash #awk
