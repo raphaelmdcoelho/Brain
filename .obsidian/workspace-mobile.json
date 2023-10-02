@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cb6b8aa01ea100aa",
+        "id": "c626c79e945aed79",
         "type": "tabs",
         "children": [
           {
-            "id": "b88eda7218ade592",
+            "id": "c3ca430b7ce4bc87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Bun/Bun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7af021cb5042fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/eval().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f501c95a313c50a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Power.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a425ad60c5e23b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Bun/Bun.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Javascript/eval().md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Javascript/eval().md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -150,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Javascript/eval().md"
-          }
+          "state": {}
         }
       }
     ],
@@ -168,8 +123,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7af021cb5042fe8",
+  "active": "c3ca430b7ce4bc87",
   "lastOpenFiles": [
+    "Technology/BASH/AWK/AWK.md",
+    "Technology/BASH/AWK/Two-way I O.md",
+    "Technology/BASH/AWK/Multi-Line Records.md",
+    "Two-way I/O.md",
+    "Technology/BASH/AWK/Field Separators.md",
+    "Technology/BASH/AWK/Built-in Functions.md",
+    "Technology/BASH/AWK/Advanced Control Flow.md",
+    "Two-way I",
+    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
+    "Technology/BASH/AWK/User-Defined Functions.md",
+    "Technology/BASH/AWK/Associative arrays.md",
+    "Technology/BASH/AWK/Add awk result to a new file.md",
+    "Technology/BASH/AWK/Execute multiple blocks or files.md",
+    "Technology/BASH/AWK/Special Blocks.md",
+    "Technology/BASH/AWK/Built-in Variables.md",
+    "Math/Power.md",
     "Container/Podman/Podman.md",
     "Javascript/Bun/File IO.md",
     "Javascript/Bun/Bun.md",
@@ -179,25 +150,10 @@
     "Javascript/Javascript.md",
     "Python/Python.md",
     "Javascript/Bun",
-    "Math/Power.md",
     "Math/Root.md",
     "Markup language/LaTex.md",
     "BASH/For statement.md",
     "Javascript/Node/CommonJs.md",
-    "BASH/Bash.md",
-    "BASH/While statment.md",
-    "BASH/Sleep.md",
-    "BASH/Scripts in parallel.md",
-    "BASH/Redirection.md",
-    "BASH/Pipe.md",
-    "BASH/If statment.md",
-    "BASH/BASH Shortcuts.md",
-    "BASH/Alias.md",
-    "Computing/End-Of-File.md",
-    "Computing/Tree/Tree.md",
-    "Computing/Tree/Binary tree.md",
-    "Console/REPL.md",
-    "Console/Console.md",
     "Math",
     "Computing/Tree",
     "Daily Notes/September2023",
@@ -205,7 +161,6 @@
     "Database/Concepts/SQL",
     "Javascript/Tests",
     "Python",
-    "Markup language",
     "Linux/Images/Permissions information.png",
     "Linux/Images/Linux permissions.png"
   ]
