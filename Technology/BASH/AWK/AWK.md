@@ -185,7 +185,7 @@ $ echo "This is a text" | awk '{print $1}'
 ### [[Two-way I O]]
 
 <hr>
-### [[ Field Separators]]
+### [[Field Separators]]
 
 <hr>
 
