@@ -32,6 +32,6 @@ BEGIN {
 }
 ```
 
-Back [[AWK]]
+Back [[Technology/BASH/AWK/AWK]]
 
 #bash #awk
