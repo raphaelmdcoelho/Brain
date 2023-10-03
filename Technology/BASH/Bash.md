@@ -17,6 +17,7 @@
 * [[Environment Variable]]
 * [[grep]]
 * [[head & tail]]
+* [[bc calculator]]
 
 - [[BASH Shortcuts]]
 
