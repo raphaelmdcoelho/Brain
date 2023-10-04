@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11e95c4821a527c2",
+        "id": "f398721abeb99c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2d4f501fbcf52d",
+            "id": "7020b4f8a81b5f75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Posts/AWK.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Posts/AWK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Posts/AWK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Posts/AWK.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,44 +149,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d2d4f501fbcf52d",
+  "active": "7020b4f8a81b5f75",
   "lastOpenFiles": [
-    "Technology/BASH/AWK/AWK.md",
+    "Rust - Fundamentals - Control flow using if.md",
+    "Technology/Rust/Rust.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Println macro.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Functions.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Data Types.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Variables.md",
+    "Technology/Rust/Fundamentals",
+    "Technology/Rusty/Rusty - Fundamentals.md",
+    "Technology/Python/Python - Strings.md",
+    "Technology/Python/Python - Type Conversion.md",
+    "Technology/BASH/AWK/Field Separators.md",
+    "Technology/Python/Python.md",
+    "Technology/Tests/XUnit/XUnit.md",
+    "Technology/Python/Python - Variables.md",
+    "Technology/Python/Notebooks/Jupyter.md",
+    "Technology/Python/Notebooks/Notebooks.md",
+    "Technology/Python/Notebooks",
+    "Technology/Javascript/Node/npm.md",
+    "Books",
+    "Technology/Rust",
+    "Technology/Tests/XUnit",
+    "Technology/Tests",
+    "Obsidian.md",
     "Projects/Posts/AWK.md",
-    "Projects/Posts",
     "Brain.zip",
+    "Technology/BASH/AWK/AWK.md",
+    "Projects/Posts",
     "Technology/Tools/Postman",
     "Technology/Tools",
     "Technology/DotNet/Database/EntityFramework/Entity Framework.md",
     "Technology/DotNet/Database/EntityFramework/IEntityTypeConfiguration.md",
     "Technology/DotNet/Database/EntityFramework/In-Memory Database.md",
-    "Technology/DotNet/Database",
     "Technology/DotNet/DotNet.md",
     "Technology/DotNet/Asynchronous/Task.md",
     "Technology/DotNet/Asynchronous/Asynchronous.md",
-    "Technology/DotNet/Asynchronous",
     "Technology/DotNet/LinQ.md",
-    "Technology/DotNet/Intermediate Language.md",
-    "Technology/DotNet/CLR.md",
-    "Technology/DotNet/DI/IServiceCollection.md",
-    "Technology/DotNet/DI/Dependency Injection.md",
-    "Technology/DotNet/CSharp/Concepts.md",
-    "Technology/DotNet/CSharp/C Sharp.md",
-    "Technology/DotNet/Configuration/IConfiguration.md",
-    "Technology/DotNet/Configuration/Configuration.md",
-    "Technology/DotNet/Collections/Collections.md",
-    "Technology/DotNet/Collections/IEnumerable.md",
-    "Technology/DotNet/Collections",
-    "Technology/DotNet/Configuration",
-    "Technology/DotNet/DI",
-    "Technology/DotNet/Database/EntityFramework",
-    "Technology/BASH/AWK/Two-way I O.md",
-    "Test_vault/test.md",
-    "Technology/BASH/AWK/Special Blocks.md",
-    "Technology/BASH/AWK/Built-in Variables.md",
-    "Technology/BASH/AWK/User-Defined Functions.md",
-    "Technology/BASH/AWK/Networking.md",
-    "Technology/BASH/AWK/Multi-Line Records.md",
     "Technology/Linux/Images/Linux permissions.png",
     "Technology/Linux/Images/Permissions information.png",
     "Technology/Computing/Images/Pasted image 20230930214946.png",
