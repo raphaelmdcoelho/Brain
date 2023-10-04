@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -149,9 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7020b4f8a81b5f75",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
-    "Rust - Fundamentals - Control flow using if.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Control flow using if.md",
     "Technology/Rust/Rust.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Println macro.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Functions.md",
