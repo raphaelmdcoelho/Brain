@@ -2,5 +2,11 @@
 2. [[C Sharp]] is one of the languages supported by DotNet.
 3. [[CLR]] is a runtime for dotnet applications.
 4. [[LinQ]]
+5. [[Entity Framework]]
+6. [[Dependency Injection]]
+7. [[Configuration]]
+8. [[Collections]]
+9. [[Asynchronous]]
+
 
 #dotnet

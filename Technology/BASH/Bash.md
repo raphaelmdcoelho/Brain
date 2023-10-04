@@ -13,10 +13,11 @@
 * Through the [[Sleep]] keyword is possible to stop a script by a given time.
 * The [[clip]] keyword copy a content to the clipboard.
 * [[Arithmetic]]
-* [[AWK]]
+* [[Technology/BASH/AWK/AWK]]
 * [[Environment Variable]]
 * [[grep]]
 * [[head & tail]]
+* [[bc calculator]]
 
 - [[BASH Shortcuts]]
 
