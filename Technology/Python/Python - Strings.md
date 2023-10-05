@@ -15,4 +15,21 @@ print(message[:]) # clone the string
 print(message[1:-1])
 ```
 
+```python
+first = 'John'
+last = 'Smith'
+msg = f'{first} {last}'
+```
+
+```python
+len("text")
+"".upper()
+"".lower()
+"".find('p')
+"".replace('p', 't')
+"text" in message
+
+# Note: function as alone, method are from objects.
+```
+
 #python 
