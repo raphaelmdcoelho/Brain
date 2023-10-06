@@ -26,4 +26,12 @@
 
 <hr>
 
+### [[Rust - Fundamentals - Repetition using loops]]
+
+<hr>
+
+### [[Rust - Tools instalation]]
+
+<hr>
+
 #rust
