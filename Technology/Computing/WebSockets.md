@@ -123,3 +123,5 @@ const text = document.querySelector('input').value
 socket.emit('message', text)
 }
 ```
+
+#computing 

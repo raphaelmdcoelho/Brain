@@ -3,9 +3,9 @@
 
 #### Bun APIs
 
-- [[Server]]
-* [[File IO API]]
-* [[SQLite API]]
+- [[BUN - Server]]
+* [[BUN - File IO]]
+* [[BUN - SQLite API]]
 
 ## Package
 
@@ -39,3 +39,5 @@ process.env.FOO = "hello";
 #### Read environment variables 
 - process.env.VAR
 - Bun.env.VAR
+
+#bun #javascript 
