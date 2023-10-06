@@ -148,12 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dc99b1709a29699",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
     "Technology/BASH/Bash.md",
     "Technology/BASH/AWK/AWK.md",
     "Technology/BASH/bc calculator.md",
-    "Bash functions.md",
+    "Technology/BASH/Bash functions.md",
     "Technology/BASH/Redirection.md",
     "Technology/Computing/Protocols/OpenID.md",
     "Technology/Computing/Standards/OAUTH 2.0.md",
