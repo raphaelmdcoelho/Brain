@@ -16,4 +16,4 @@
 ***Others***
 - Cypress is a good tool to run E2E tests.
 
-#javascript 
+#test #javascript 

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "ai",
+      "query": "git",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -18,28 +18,42 @@
       "query": "awk",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 2382635
       }
     },
     {
       "query": "bash",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11495881
       }
     },
     {
       "query": "container",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10733311
       }
     },
     {
-      "query": "",
+      "query": "python",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "rust",
+      "color": {
+        "a": 1,
+        "rgb": 8345104
+      }
+    },
+    {
+      "query": "database",
+      "color": {
+        "a": 1,
+        "rgb": 6627360
       }
     }
   ],
@@ -49,10 +63,10 @@
   "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 1.29947916666667,
   "collapse-forces": false,
-  "centerStrength": 0.567708333333333,
-  "repelStrength": 10.9375,
-  "linkStrength": 0.541666666666667,
+  "centerStrength": 0.624740124740125,
+  "repelStrength": 10.4989604989605,
+  "linkStrength": 0.591476091476092,
   "linkDistance": 30,
-  "scale": 0.22920135941749364,
+  "scale": 0.22920135941749395,
   "close": true
 }
