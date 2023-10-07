@@ -93,7 +93,7 @@ satvik 80000
 
 <hr>
 
-### [[Built-in Variables]]
+* [[Built-in Variables]]
 
 <hr>
 
@@ -142,15 +142,15 @@ square of 6 is 36
 
 <hr>
 
-### [[Special Blocks]]
+* [[Special Blocks]]
 
 <hr>
 
-### [[Execute multiple blocks or files]]
+* [[Execute multiple blocks or files]]
 
 <hr>
 
-### [[Add awk result to a new file]]
+* [[Add awk result to a new file]]
 
 <hr>
 
@@ -164,51 +164,28 @@ $ echo "This is a text" | awk '{print $1}'
 
 <hr>
 
-### [[Associative arrays]]
+* [[Associative arrays]]
 
-<hr>
+* [[User-Defined Functions]]
 
-### [[User-Defined Functions]]
+* [[Dynamic Regular Expressions]]
 
+* [[Built-in Functions]]
 
-<hr>
+* [[Two-way I O]]
 
-### [[Dynamic Regular Expressions]]
+* [[Field Separators]]
 
+* [[Advanced Control Flow]]
 
-<hr>
+* [[Multi-Line Records]]
 
-### [[Built-in Functions]]
+* [[Internationalization and Localization]]
 
-<hr>
+* [[Debugging and Profiling]]
 
-### [[Two-way I O]]
+* [[In-Place Editing]]
 
-<hr>
-### [[Field Separators]]
-
-<hr>
-
-### [[Advanced Control Flow]]
-
-<hr>
-    
-### [[Multi-Line Records]]
-
-<hr>
-    
-### [[Internationalization and Localization]]
-
-<hr>
-  
-### [[Debugging and Profiling]]
-
-<hr>
-    
-### [[In-Place Editing]]
-
-<hr>
-
-### [[Networking]]
+* [[Networking]]
 
 #bash #awk

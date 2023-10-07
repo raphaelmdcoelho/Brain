@@ -1,3 +1,3 @@
-- git [[GIT Revert]] "hash"
+- git revert "hash"
 
 #git 
