@@ -1,4 +1,3 @@
-
 ### Concepts
 
 ```python
@@ -11,40 +10,24 @@ print('*' * 10*) # '*' * 10 is a expression, because PRODUCES A VALUE
 
 <hr>
 
-### [[Python - Variables]]
+* [[Python - Variables]]
 
-<hr>
+* [[Python - Type Conversion]]
 
-### [[Python - Type Conversion]]
+* [[Python - Strings]]
 
-<hr>
+* [[Python - Math Functions]]
 
-### [[Python - Strings]]
+* [[Python - If Statments]]
 
-<hr>
+* [[Python - Logical Operators]]
 
-### [[Python - Math Functions]]
+* [[Python - Comparison Operators]]
 
-<hr>
+* [[Python - While Loops]]
 
-### [[Python - If Statments]]
+* [[Python - For Loops]]
 
-<hr>
-
-### [[Python - Logical Operators]]
-
-<hr>
-
-### [[Python - Comparison Operators]]
-
-<hr>
-
-### [[Python - While Loops]]
-
-<hr>
-
-### [[Python - For Loops]]
-
-<hr>
+* [[Python - Lists]]
 
 #python

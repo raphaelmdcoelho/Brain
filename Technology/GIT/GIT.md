@@ -1,32 +1,39 @@
 ## <mark>Commands</mark>
 
-### Rebase
 
-### [[GIT - Rebase]]
-
-<hr>
-### [[GIT - Commit]]
+* [[GIT - Rebase]]
 
 <hr>
-### [[GIT - Configuration]]
+
+* [[Git - Commit]]
 
 <hr>
-### [[GIT - Revert]]
+
+* [[GIT - Configuration]]
 
 <hr>
-### [[GIT - Log]]
+
+* [[Git - Revert]]
 
 <hr>
-### [[GIT - Stash]]
+
+* [[Git - Log]]
 
 <hr>
-### [[GIT - Branch]]
+
+* [[Git - Stash]]
 
 <hr>
-### [[GIT - Bisect]]
+
+* [[GIT - Branch]]
 
 <hr>
-### [[GIT - Clean]]
+
+* [[Git - Bisect]]
+
+<hr>
+
+* [[GIT - Clean]]
 
 <hr>
 
