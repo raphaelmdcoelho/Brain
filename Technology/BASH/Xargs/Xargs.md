@@ -1,0 +1,12 @@
+
+`xargs` is a command-line utility that reads items from standard input (or from a provided file) and executes a given command using those items as arguments. The items are typically separated by whitespace or newline characters.
+
+```bash
+find . -name "*.txt" | xargs rm
+
+grep -rl "apple" . | xargs wc -l
+
+cat users.txt | awk '{print $1}' | xargs -I {} usermod -aG developers {}
+```
+
+#bash 

@@ -1,0 +1,3 @@
+* [[Azure Functions]]
+
+#azure #cloud

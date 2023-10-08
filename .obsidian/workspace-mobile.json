@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/BASH/bc calculator.md",
+                "file": "Technology/BASH/Bash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "ed46b21319fbd9fd",
@@ -94,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Technology/BASH/bc calculator.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Technology/BASH/bc calculator.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Technology/BASH/bc calculator.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -140,44 +135,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c168088dfce0d745",
+  "active": "c3ca430b7ce4bc87",
   "lastOpenFiles": [
+    "Technology/BASH/Bash.md",
+    "Technology/BASH/Test Command.md",
+    "Technology/BASH/Bash functions.md",
+    "Technology/BASH/bc calculator.md",
+    "Technology/BASH/head & tail.md",
+    "Technology/BASH/grep.md",
+    "Technology/BASH/Environment Variable.md",
     "Technology/BASH/AWK/AWK.md",
     "Technology/BASH/AWK/Two-way I O.md",
-    "Technology/BASH/Bash.md",
-    "Technology/BASH/bc calculator.md",
-    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
-    "Technology/BASH/AWK/Built-in Functions.md",
-    "Technology/BASH/AWK/User-Defined Functions.md",
-    "Technology/Console/REPL.md",
-    "Technology/BASH/AWK/Multi-Line Records.md",
-    "Two-way I/O.md",
-    "Technology/BASH/AWK/Field Separators.md",
-    "Technology/BASH/AWK/Advanced Control Flow.md",
-    "Two-way I",
-    "Technology/BASH/AWK/Associative arrays.md",
-    "Technology/BASH/AWK/Add awk result to a new file.md",
     "Technology/BASH/AWK/Execute multiple blocks or files.md",
     "Technology/BASH/AWK/Special Blocks.md",
+    "Technology/BASH/Command Channing.md",
+    "Technology/BASH/Xargs/Xargs.md",
+    "Technology/BASH/Pipe.md",
+    "Technology/BASH/While statment.md",
+    "Technology/BASH/Alias.md",
+    "Technology/BASH/If statment.md",
+    "Technology/BASH/For statement.md",
+    "Technology/BASH/Redirection.md",
+    "Technology/BASH/Sleep.md",
+    "Technology/BASH/Xargs",
+    "Technology/Javascript/Rxjs",
+    "Technology/BASH/AWK/User-Defined Functions.md",
+    "Technology/BASH/AWK/Associative arrays.md",
+    "Technology/BASH/AWK/Add awk result to a new file.md",
     "Technology/BASH/AWK/Built-in Variables.md",
-    "Math/Power.md",
-    "Container/Podman/Podman.md",
-    "Javascript/Bun/File IO.md",
-    "Javascript/Bun/Bun.md",
+    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
+    "Technology/BASH/AWK/Built-in Functions.md",
+    "Two-way I",
     "Container/Podman",
-    "Javascript/Bun/Server.md",
-    "Database/Sqlite/Sqlite.md",
-    "Javascript/Javascript.md",
-    "Python/Python.md",
     "Javascript/Bun",
-    "Math/Root.md",
     "Math",
     "Computing/Tree",
     "Daily Notes/September2023",
     "Daily Notes",
     "Database/Concepts/SQL",
-    "Javascript/Tests",
-    "Python",
     "Linux/Images/Permissions information.png",
     "Linux/Images/Linux permissions.png"
   ]

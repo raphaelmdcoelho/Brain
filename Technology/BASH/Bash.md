@@ -41,7 +41,7 @@ The [[Pipe]] allows to make a output of a command connects with e input of anoth
 
 ### Script in parallel
 
-To run [[Scripts in parallel]] it's possible to use the & or && operators.
+To run [[Command Channing]] it's possible to use the & or && operators.
 
 <hr>
 
@@ -99,6 +99,17 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 <hr>
 
+### Test command
+
+* [[Test Command]]
+
+<hr>
+
+### Xargs
+
+* [[Xargs]]
+
+<hr>
 ### Bash Shortcuts
 
 - [[BASH Shortcuts]]

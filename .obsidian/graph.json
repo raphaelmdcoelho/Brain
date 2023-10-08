@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "git",
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 1.29947916666667,
   "collapse-forces": false,
-  "centerStrength": 0.624740124740125,
-  "repelStrength": 10.4989604989605,
-  "linkStrength": 0.591476091476092,
+  "centerStrength": 0.58503125,
+  "repelStrength": 12.86125,
+  "linkStrength": 0.78809375,
   "linkDistance": 30,
-  "scale": 0.22920135941749395,
+  "scale": 0.24559615310533067,
   "close": true
 }
