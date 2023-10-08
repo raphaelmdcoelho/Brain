@@ -37,6 +37,14 @@
 
 <hr>
 
+* [[GIT - Merge]]
+
+<hr>
+
+* [[GIT - Checkout]]
+
+<hr>
+
 ## <mark>Tools</mark>
 
 * [[gitk]]
