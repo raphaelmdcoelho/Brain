@@ -12,6 +12,6 @@
 
 ***Tests***
 
-- [[Jest]]
+- [[Technology/Javascript/Tests/Jest]]
 
 #javascript 

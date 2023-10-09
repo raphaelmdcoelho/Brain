@@ -81,6 +81,11 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 <hr>
 
+### Sed
+
+[[Sed]]
+
+<hr>
 ### Head and tail
 
 [[head & tail]] are a command line utility used to manipulates files to get a specific content of it.
