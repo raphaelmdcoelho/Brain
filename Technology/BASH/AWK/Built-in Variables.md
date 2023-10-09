@@ -52,6 +52,7 @@ $ awk '{print NF, $0}' employee.txt
 <hr>
 
 **Use of NF built-int variables (Get field values by position dynamically)**
+❗️
 ```bash
 $ awk '{print $(NF-1), $NF}' employee.txt
 ```
@@ -72,6 +73,7 @@ purchase 80000
 <hr>
 
 **Use of NR built-in variables (Get rows by a specific range)**
+❗️
 ```bash
 $ awk 'NR==3, NR==6 {print NR, $0}' employee.txt
 ```
@@ -99,6 +101,7 @@ $
 <hr>
 
 **To count the lines in a file**
+❗️
 ```bash
 $awk 'END {print NR}' employee.txt
 ```

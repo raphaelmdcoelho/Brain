@@ -11,8 +11,12 @@
             "id": "c3ca430b7ce4bc87",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/DotNet/CSharp/CSharp8.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/BASH/Bash.md",
+                "file": "Technology/BASH/AWK/AWK.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Technology/DotNet/CSharp/CSharp8.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Technology/DotNet/CSharp/CSharp8.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Technology/DotNet/CSharp/CSharp8.md"
+          }
         }
       }
     ],
@@ -137,42 +145,42 @@
   },
   "active": "c3ca430b7ce4bc87",
   "lastOpenFiles": [
-    "Technology/BASH/Bash.md",
-    "Technology/BASH/Test Command.md",
-    "Technology/BASH/Bash functions.md",
-    "Technology/BASH/bc calculator.md",
-    "Technology/BASH/head & tail.md",
-    "Technology/BASH/grep.md",
-    "Technology/BASH/Environment Variable.md",
+    "Technology/Markup language/HTML.md",
+    "Technology/Markup language/Markup languages.md",
+    "Technology/Markup language/Markdown.md",
+    "Technology/Markup language/LaTex.md",
+    "Technology/DotNet/CSharp/CSharp4.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
+    "Technology/DotNet/CSharp/CSharp5.md",
+    "Technology/DotNet/CSharp/CSharp6.md",
+    "Technology/DotNet/CSharp/CSharp8.md",
+    "Technology/DotNet/CSharp/CSharp9.md",
+    "Technology/DotNet/CSharp/CSharp10.md",
+    "Technology/DotNet/CSharp/CSharp7.md",
+    "Technology/Tests/XUnit/XUnit.md",
+    "Technology/Tests/Jest/Jest.md",
+    "Technology/Tests/Jest",
+    "Technology/DotNet/DotNet.md",
+    "Technology/DotNet/CSharp/Concepts.md",
+    "Technology/C/C.md",
+    "Technology/BASH/Sed.md",
     "Technology/BASH/AWK/AWK.md",
-    "Technology/BASH/AWK/Two-way I O.md",
-    "Technology/BASH/AWK/Execute multiple blocks or files.md",
-    "Technology/BASH/AWK/Special Blocks.md",
-    "Technology/BASH/Command Channing.md",
-    "Technology/BASH/Xargs/Xargs.md",
-    "Technology/BASH/Pipe.md",
-    "Technology/BASH/While statment.md",
-    "Technology/BASH/Alias.md",
-    "Technology/BASH/If statment.md",
-    "Technology/BASH/For statement.md",
-    "Technology/BASH/Redirection.md",
-    "Technology/BASH/Sleep.md",
+    "Technology/BASH/AWK/Built-in Variables.md",
+    "Technology/Computing/End-Of-File.md",
+    "Technology/BASH/Bash.md",
+    "Projects/Posts/AWK.md",
+    "Technology/DotNet/Libraries/Autofac/Autofac.md",
+    "Technology/BASH/Bash functions.md",
+    "Technology/BASH/grep.md",
+    "Technology/DotNet/Libraries/Autofac",
+    "Technology/DotNet/Libraries/Bogus",
+    "Technology/DotNet/Libraries",
     "Technology/BASH/Xargs",
     "Technology/Javascript/Rxjs",
-    "Technology/BASH/AWK/User-Defined Functions.md",
-    "Technology/BASH/AWK/Associative arrays.md",
-    "Technology/BASH/AWK/Add awk result to a new file.md",
-    "Technology/BASH/AWK/Built-in Variables.md",
-    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
-    "Technology/BASH/AWK/Built-in Functions.md",
     "Two-way I",
     "Container/Podman",
     "Javascript/Bun",
     "Math",
-    "Computing/Tree",
-    "Daily Notes/September2023",
-    "Daily Notes",
-    "Database/Concepts/SQL",
     "Linux/Images/Permissions information.png",
     "Linux/Images/Linux permissions.png"
   ]
