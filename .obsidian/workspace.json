@@ -11,20 +11,15 @@
             "id": "1dc99b1709a29699",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0d29320b079f8c97",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/GIT/git reset.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/GIT/git reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/GIT/git reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/GIT/git reset.md"
+              }
             }
           },
           {
@@ -157,8 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d29320b079f8c97",
+  "active": "1dc99b1709a29699",
   "lastOpenFiles": [
+    "Technology/GIT/git reset.md",
+    "Technology/GIT/Staging Index.md",
+    "Technology/GIT/Commit history.md",
+    "Technology/GIT/GIT - Tree.md",
+    "Technology/GIT/GIT.md",
+    "Technology/GIT/Working Directory.md",
+    "Technology/GIT/Images/03 (8).svg",
     "Obsidian.md",
     "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
     "Technology/DotNet/ORM/EntityFramework/In-Memory Database.md",
@@ -189,13 +195,6 @@
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Repetition using loops.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Functions.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Println macro.md",
-    "Technology/Rust/Fundamentals/Rust - Fundamentals - Data Types.md",
-    "Technology/Rust/Fundamentals/Rust - Fundamentals - Control flow using if.md",
-    "Technology/Python/Notebooks/Notebooks.md",
-    "Technology/Linux/Kernel/Namespaces.md",
-    "Technology/Python/Notebooks/Jupyter.md",
-    "Technology/Linux/Images/Permissions information.png",
-    "Technology/Javascript/Tests/Jest.md",
     "Technology/DotNet/ORM/EntityFramework",
     "Technology/DotNet/ORM/Dapper",
     "Technology/DotNet/Libraries/Bogus",
