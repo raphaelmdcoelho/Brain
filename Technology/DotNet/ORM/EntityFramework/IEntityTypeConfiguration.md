@@ -19,4 +19,4 @@ public class EntityConfiguration : IEntityTypeConfiguration<Entity>
 }
 ```
 
-#dotnet #csharp 
+#dotnet #csharp #orm 
