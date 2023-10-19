@@ -1,5 +1,10 @@
 ## <mark>Commands</mark>
 
+Git's internal state management systems is called Git's **"three trees"**. Trees may be a misnomer, as they are not strictly traditional tree data-structures. They are, however, node and pointer-based data structures that Git uses to track a timeline of edits.
+
+* [[GIT - Tree]]
+
+<hr>
 
 * [[GIT - Rebase]]
 
@@ -41,7 +46,11 @@
 
 <hr>
 
-* [[GIT - Checkout]]
+* [[git checkout]]
+
+<hr>
+
+* [[git reset]]
 
 <hr>
 
