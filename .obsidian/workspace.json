@@ -11,12 +11,8 @@
             "id": "1dc99b1709a29699",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/GIT/git reset.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/GIT/git reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/GIT/git reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/GIT/git reset.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,53 +151,53 @@
   },
   "active": "1dc99b1709a29699",
   "lastOpenFiles": [
+    "Technology/AI/Notebooks/model-example1.csv",
+    "Technology/AI/Notebooks/model-example1.ipynb",
+    "Projects/PDI 2023/PDI 2023.md",
+    "Technology/AI/Machine Learning.md",
+    "Technology/AI/Notebooks/template.csv",
+    "Technology/AI/Notebooks/hello-world.ipynb",
+    "Technology/AI/Notebooks",
+    "Technology/AI/Tools/MatPlotLib.md",
+    "Technology/AI/Tools/Pandas.md",
+    "Technology/AI/Tools/PyCaret.md",
+    "Technology/AI/Tools/Scikit-Learn.md",
+    "Technology/AI/Tools/Tensor Flow.md",
+    "Technology/AI/Tools/NumPy.md",
+    "Technology/AI/Tools/Keras.md",
+    "Technology/AI/Tools/Hugging Face.md",
+    "Technology/AI/Tools/PyTorch/PyTorch.md",
+    "Technology/AI/Artificial Intelligence.md",
+    "Technology/AI/Neural Networks.md",
+    "Technology/AI/Tensors.md",
+    "Math/Matrices/matrices.md",
+    "Math/Matrices/vectors.md",
+    "Math/Matrices/scalars.md",
+    "Math/Algebra/Equations and Inequalities.md",
+    "Math/Algebra/Algebra.md",
+    "Projects/Personal Blog.md",
+    "Projects/Exam AZ-204.md",
+    "Projects/Posts/AWK.md",
+    "Math/Matrices",
+    "Projects/PDI 2023/PDI 2023.canvas",
+    "Technology/AI/Images/Pasted image 20230929214541.png",
+    "Technology/AI/Tools/PyTorch",
+    "Technology/Console/REPL.md",
     "Technology/GIT/git reset.md",
-    "Technology/GIT/Staging Index.md",
-    "Technology/GIT/Commit history.md",
-    "Technology/GIT/GIT - Tree.md",
-    "Technology/GIT/GIT.md",
-    "Technology/GIT/Working Directory.md",
+    "Technology/BASH/AWK/AWK.md",
+    "Brain.zip",
+    "Technology/Tests/Unittest",
+    "Technology/GIT/Images/Pasted image 20231017225839.png",
+    "Technology/GIT/Images/Pasted image 20231017225728.png",
+    "Technology/GIT/Images/Pasted image 20231017225513.png",
     "Technology/GIT/Images/03 (8).svg",
-    "Obsidian.md",
+    "Technology/DotNet/ORM/EntityFramework",
+    "Technology/DotNet/ORM/Dapper",
     "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
-    "Technology/DotNet/ORM/EntityFramework/In-Memory Database.md",
-    "Technology/DotNet/ORM/EntityFramework/IEntityTypeConfiguration.md",
-    "Technology/DotNet/ORM/EntityFramework/Entity Framework.md",
-    "Technology/DotNet/ORM/Dapper/Dapper.md",
-    "Technology/DotNet/Libraries/Bogus/Bogus.md",
-    "Technology/DotNet/Libraries/Autofac/Autofac.md",
-    "Technology/Frontend/Styles/CSS/CSS.md",
-    "Technology/Database/Concepts/SQL/SQL.md",
-    "Technology/Database/Concepts/SQL/Images",
     "Technology/Computing/Design Patterns/Images/Pasted image 20230928231013.png",
-    "Technology/Container/Docker/Examples/Sql database container.md",
     "Technology/Computing/Design Patterns/Images/Pasted image 20230928230916.png",
     "Technology/Computing/Design Patterns/Images/Pasted image 20230928230700.png",
     "Technology/Computing/Design Patterns/Images/Pasted image 20230928230909.png",
-    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230801.png",
-    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230308.png",
-    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230546.png",
-    "Technology/Computing/Design Patterns/Images/Pasted image 20230928230138.png",
-    "Technology/Tools/VIM/VIM.md",
-    "Technology/Tools/Postman/Postman.md",
-    "Technology/Servers/NGINX/NGINX.md",
-    "Technology/Tests/XUnit/XUnit.md",
-    "Technology/Tests/Unittest/Unittest.md",
-    "Technology/Rust/Fundamentals/Rust - Fundamentals - Variables.md",
-    "Technology/Tests/Jest/Jest.md",
-    "Technology/Rust/Fundamentals/Rust - Fundamentals - Repetition using loops.md",
-    "Technology/Rust/Fundamentals/Rust - Fundamentals - Functions.md",
-    "Technology/Rust/Fundamentals/Rust - Fundamentals - Println macro.md",
-    "Technology/DotNet/ORM/EntityFramework",
-    "Technology/DotNet/ORM/Dapper",
-    "Technology/DotNet/Libraries/Bogus",
-    "Technology/DotNet/Libraries/Autofac",
-    "Technology/Frontend/Styles/CSS",
-    "Technology/Database/Concepts/SQL",
-    "Technology/Container/Docker/Examples",
-    "Technology/Computing/Design Patterns/Images",
-    "Technology/Tools/VIM",
-    "Projects/PDI 2023/PDI 2023.canvas",
     "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas",
     "Untitled.canvas"
   ]

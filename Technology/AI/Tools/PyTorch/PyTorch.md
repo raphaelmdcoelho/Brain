@@ -2,6 +2,15 @@
 * It's facilitates high performance parallel computing on a GPU.
 * It's supports **dynamic computation graph**.
 
+<hr>
+
+### Concepts
+
+* [[Tensors]]
+
+<hr>
+### Example of usage
+
 ```python
 import touch
 
@@ -55,4 +64,4 @@ print(f"And my prediction is... {y_pred}")
 
 ![[Pasted image 20230929214541.png]]
 
-#ai 
+#ai #python 

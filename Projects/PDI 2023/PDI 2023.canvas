@@ -2,7 +2,7 @@
 	"nodes":[
 		{"type":"file","file":"Technology/AI/Artificial Intelligence.md","id":"688c87688753d7a8","x":-280,"y":-440,"width":400,"height":900},
 		{"type":"file","file":"Technology/AI/Tools/Tensor Flow.md","id":"dcfcd74cc6a93b7d","x":200,"y":-440,"width":400,"height":400},
-		{"type":"file","file":"Technology/AI/Tools/PyTorch.md","id":"f05b9ec78f18f882","x":200,"y":60,"width":400,"height":400}
+		{"type":"file","file":"Technology/AI/Tools/PyTorch/PyTorch.md","id":"f05b9ec78f18f882","x":200,"y":60,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"a27b29724bc91c37","fromNode":"688c87688753d7a8","fromSide":"bottom","toNode":"dcfcd74cc6a93b7d","toSide":"top"},
