@@ -23,12 +23,12 @@ It's a branch of computer science that make possible the creation of systems tha
 
 ### Data structures
 
+* [[Tensors]]
 ### Data manipulation
 
 ### Data science
 
-### Machine learning
-
+[[Machine Learning]]
 ### Deep learning
 
 # Essential AI tools and packages
