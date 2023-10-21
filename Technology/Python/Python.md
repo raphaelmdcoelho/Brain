@@ -30,4 +30,16 @@ print('*' * 10*) # '*' * 10 is a expression, because PRODUCES A VALUE
 
 * [[Python - Lists]]
 
+* [[Python - Tuples]]
+
+* [[Python - Unpacking]] 
+
+* [[Python - Dictionaries]]
+
+* [[Python - Functions]]
+
+* [[Python - Classes]]
+
+* [[Python - Exceptions]] 
+
 #python
