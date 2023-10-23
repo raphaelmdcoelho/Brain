@@ -1,3 +1,5 @@
-* [[GERMAN Vocabulary]]
+* [[GERMAN - Vocabulary]]
+
+* [[GERMAN - Verbs]]
 
 #german

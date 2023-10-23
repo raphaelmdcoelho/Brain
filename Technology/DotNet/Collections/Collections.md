@@ -1,3 +1,4 @@
 * [[IEnumerable]]
+* [[IIterator]]
 
 #dotnet #csharp 
