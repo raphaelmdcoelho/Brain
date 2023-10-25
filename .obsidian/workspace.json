@@ -11,8 +11,12 @@
             "id": "1dc99b1709a29699",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Python/Python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/Python/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/Python/Python.md"
+              }
             }
           },
           {
@@ -151,6 +158,25 @@
   },
   "active": "1dc99b1709a29699",
   "lastOpenFiles": [
+    "Technology/AI/Tools/Pandas.md",
+    "Technology/Python/Python.md",
+    "Technology/Pipelines/Pipelines.md",
+    "Technology/Pipelines",
+    "Technology/Cloud/Google Cloud/Google Cloud.md",
+    "Technology/Cloud/Google Cloud",
+    "Technology/Cloud/AWS/AWS.md",
+    "Technology/Cloud/Azure/Azure.md",
+    "Technology/Cloud/AWS",
+    "Technology/Architecture/Software Architecture.md",
+    "Technology/Architecture",
+    "Technology/Computing/Network/Network.md",
+    "Technology/Computing/Network/VPN.md",
+    "Technology/Computing/Network/DNS.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
+    "Technology/DotNet/CSharp/CSharp10.md",
+    "Technology/DotNet/CSharp/CSharp9.md",
+    "Technology/DotNet/CSharp/CSharp8.md",
+    "Technology/DotNet/CSharp/CSharp7.md",
     "Technology/AI/Notebooks/model-example1.csv",
     "Technology/AI/Notebooks/model-example1.ipynb",
     "Projects/PDI 2023/PDI 2023.md",
@@ -159,7 +185,6 @@
     "Technology/AI/Notebooks/hello-world.ipynb",
     "Technology/AI/Notebooks",
     "Technology/AI/Tools/MatPlotLib.md",
-    "Technology/AI/Tools/Pandas.md",
     "Technology/AI/Tools/PyCaret.md",
     "Technology/AI/Tools/Scikit-Learn.md",
     "Technology/AI/Tools/Tensor Flow.md",
@@ -168,31 +193,13 @@
     "Technology/AI/Tools/Hugging Face.md",
     "Technology/AI/Tools/PyTorch/PyTorch.md",
     "Technology/AI/Artificial Intelligence.md",
-    "Technology/AI/Neural Networks.md",
-    "Technology/AI/Tensors.md",
-    "Math/Matrices/matrices.md",
-    "Math/Matrices/vectors.md",
-    "Math/Matrices/scalars.md",
-    "Math/Algebra/Equations and Inequalities.md",
-    "Math/Algebra/Algebra.md",
-    "Projects/Personal Blog.md",
-    "Projects/Exam AZ-204.md",
-    "Projects/Posts/AWK.md",
     "Math/Matrices",
     "Projects/PDI 2023/PDI 2023.canvas",
     "Technology/AI/Images/Pasted image 20230929214541.png",
-    "Technology/AI/Tools/PyTorch",
-    "Technology/Console/REPL.md",
-    "Technology/GIT/git reset.md",
-    "Technology/BASH/AWK/AWK.md",
-    "Brain.zip",
-    "Technology/Tests/Unittest",
     "Technology/GIT/Images/Pasted image 20231017225839.png",
     "Technology/GIT/Images/Pasted image 20231017225728.png",
     "Technology/GIT/Images/Pasted image 20231017225513.png",
     "Technology/GIT/Images/03 (8).svg",
-    "Technology/DotNet/ORM/EntityFramework",
-    "Technology/DotNet/ORM/Dapper",
     "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
     "Technology/Computing/Design Patterns/Images/Pasted image 20230928231013.png",
     "Technology/Computing/Design Patterns/Images/Pasted image 20230928230916.png",

@@ -1,2 +1,6 @@
 
+[[DNS]]
+
+[[VPN]]
+
 #computing #network
