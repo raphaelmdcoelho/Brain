@@ -1,5 +1,11 @@
 ### Concepts
 
+### read a file
+
+```python
+pd.read_excel('filepath')
+```
+
 ### AI
 ```python
 panda_ai = PandasAI(llm, verbose=True)
