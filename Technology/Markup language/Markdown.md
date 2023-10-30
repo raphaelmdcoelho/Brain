@@ -9,7 +9,7 @@
 * For italic it's just one *wildcard*.
 * For cross off it's possible to use double ~ like: ~~cross off~~.
 - To highlight a text it's possible to use doble equal symbol ==highlight== or HTML tag mark like <mark>highlight</mark>.
-- to subscript a text it's possible to use the cyrcumflex symbol ^subscript^ or Using HTML like <sup> 2 </sup>
+- to subscript a text it's possible to use the circumflex symbol ^subscript^ or Using HTML like <sup> 2 </sup>
 - To create emotional is possible to use semicollumn like :smile: or copy and paste 😁.
 
 #markdown #markup

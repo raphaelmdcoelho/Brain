@@ -4,15 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "c626c79e945aed79",
+        "id": "bc8af048e5fb929a",
         "type": "tabs",
         "children": [
           {
-            "id": "2289f39635f96305",
+            "id": "32e05dc89c5725c5",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "f5531e3877d5e2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Database/SQL Server/Merge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -133,47 +145,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2289f39635f96305",
+  "active": "32e05dc89c5725c5",
   "lastOpenFiles": [
-    "Technology/GIT/git reset.md",
+    "Technology/Database/SQL Server/Merge.md",
+    "Technology/Database/SQL Server/Bulk Insert.md",
+    "Technology/Database/SQL Server/WITH.md",
+    "Technology/Database/SQL Server/CTE.md",
+    "tar.md",
+    "Technology/DataType/DataType.md",
+    "Technology/Container/Docker/Images/docker build.md",
+    "Technology/Container/Docker/Images/docker save load.md",
+    "Technology/Container/Docker/Images/Images.md",
+    "Technology/DataType",
+    "Technology/Container/Docker/Container/docker cp.md",
+    "Technology/Container/Docker/Container/Container.md",
+    "Technology/Container/Docker/Container/docker exec.md",
+    "Technology/Container/Docker/Container/docker inspect.md",
+    "Technology/Container/Docker/Container/docker logs.md",
+    "Technology/Container/Docker/Images/docker rmi.md",
+    "Technology/Container/Docker/Images/docker push.md",
+    "Technology/Container/Docker/Images/docker images.md",
+    "Technology/Container/Docker/Images/docker pull.md",
+    "Technology/Container/Docker/Container/docker rm.md",
+    "Technology/Container/Docker/Container/docker kill.md",
+    "Technology/Container/Docker/Container/docker stop.md",
+    "Technology/Container/Docker/Container/docker start.md",
+    "Technology/Container/Docker/Container/docker restart.md",
+    "Technology/Container/Docker/Container/docker ps.md",
+    "Technology/Container/Docker/Container/docker run.md",
+    "Technology/BASH/Bash.md",
+    "Technology/Computing/Authentication",
+    "Technology/Orchestration/K8s",
+    "Technology/Orchestration",
     "Technology/GIT/Images/Pasted image 20231017225728.png",
     "Pasted image 20231017225655.png",
     "Technology/GIT/Images/Pasted image 20231017225839.png",
     "Technology/GIT/Images/Pasted image 20231017225513.png",
-    "Technology/GIT/GIT.md",
-    "Technology/DotNet/ORM/Dapper/Dapper.md",
     "Technology/DotNet/ORM/Dapper",
-    "Technology/DotNet/ORM/EntityFramework/In-Memory Database.md",
-    "Technology/DotNet/ORM/EntityFramework/IEntityTypeConfiguration.md",
-    "Technology/DotNet/ORM/EntityFramework/Entity Framework.md",
-    "Technology/C/C.md",
-    "Technology/Tests/Unittest/Unittest.md",
-    "Technology/Tests/Jest/Jest.md",
     "Technology/Tests/Unittest",
-    "Technology/GIT/GIT - Tree.md",
-    "Technology/GIT/git checkout.md",
-    "Technology/GIT/Git - Stash.md",
-    "Technology/GIT/GIT - Rebase.md",
-    "Technology/BASH/AWK/AWK.md",
-    "Technology/DotNet/CSharp/CSharp8.md",
-    "Technology/Markup language/HTML.md",
-    "Technology/Markup language/Markup languages.md",
-    "Technology/Markup language/Markdown.md",
-    "Technology/Markup language/LaTex.md",
-    "Technology/DotNet/CSharp/CSharp4.md",
-    "Technology/DotNet/CSharp/C Sharp.md",
-    "Technology/DotNet/CSharp/CSharp5.md",
-    "Technology/DotNet/CSharp/CSharp6.md",
-    "Technology/DotNet/CSharp/CSharp9.md",
-    "Technology/DotNet/CSharp/CSharp10.md",
     "Technology/Tests/Jest",
     "Technology/DotNet/Libraries/Autofac",
     "Technology/DotNet/Libraries/Bogus",
     "Technology/DotNet/Libraries",
-    "Technology/BASH/Xargs",
-    "Technology/Javascript/Rxjs",
-    "Two-way I",
-    "Container/Podman",
     "Linux/Images/Permissions information.png",
     "Linux/Images/Linux permissions.png"
   ]

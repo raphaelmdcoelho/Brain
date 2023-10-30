@@ -1,3 +1,10 @@
+### Concepts
+
+Run a container from a image.
+
+```bash
+docker run nginx
+```
 ### Entrypoint
 
 ```bash

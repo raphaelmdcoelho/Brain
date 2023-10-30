@@ -42,6 +42,9 @@ It's a branch of computer science that make possible the creation of systems tha
 * [[Hugging Face]]
 * [[Tensor Flow]]
 
+### Related subjects
+
+* [[NLP]]
 ## References
 
 * https://www.datacamp.com/blog/how-to-learn-ai?utm_source=google&utm_medium=paid_search&utm_campaignid=20454543800&utm_adgroupid=158489634891&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=671280841588&utm_targetid=dsa-2191608055412&utm_loc_interest_ms=&utm_loc_physical_ms=1001541&utm_content=DSA~blog~Artificial-Intelligence&utm_campaign=230119_1-sea~dsa~tofu-blog_2-b2c_3-row-p2_4-prc_5-na_6-na_7-le_8-pdsh-go_9-na_10-na_11-na&gclid=CjwKCAjw69moBhBgEiwAUFCx2D8C6FpKDd_eLUIGhEoAA3x16c1zspPruUwPqztH1ZSgpunqcdkQkRoCAyEQAvD_BwE
