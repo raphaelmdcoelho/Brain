@@ -125,4 +125,10 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 * [[Bash - sort]]
 
+<hr>
+
+### curl
+
+* [[bash - curl]]
+
 #bash 
