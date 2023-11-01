@@ -131,4 +131,16 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 * [[bash - curl]]
 
+<hr>
+
+### Bitwise Operator
+
+* [[Bitwise Operator]]
+
+<hr>
+
+### dos2unix
+
+* [[dos2unix]]
+
 #bash 
