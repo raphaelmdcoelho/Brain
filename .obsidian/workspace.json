@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb126282131b6f6",
+        "id": "c5b355499a15795d",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc99b1709a29699",
+            "id": "5e7f0454340206a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Others/Dot Files.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Others/Dot Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Others/Dot Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/Others/Dot Files.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,44 +148,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dc99b1709a29699",
+  "active": "5e7f0454340206a4",
   "lastOpenFiles": [
-    "Physics/Wave.md",
-    "Technology/GIT/GitHub/GITHUB - Workflows.md",
-    "Technology/GIT/GitHub/GitHub.md",
-    "Technology/GIT/Staging Index.md",
-    "Technology/GIT/GitHub",
-    "Technology/GIT/Untitled.md",
-    "Technology/Others/Dot Files.md",
-    "Technology/Others",
-    "Personal Development/Flow State/Flow State.md",
-    "Language/English/English.md",
-    "Personal Development/Flow State",
-    "Language/English/Phrasal Verbs.md",
-    "Language/English/House vocabulary.md",
-    "Language/English/Deal.md",
-    "Language/English/Tenses/Simple Present.md",
-    "Language/English/Tenses/Simple Past.md",
-    "Language/English/Tenses/Present Perfect tense.md",
-    "Language/English/Tenses/Future tense.md",
-    "Physics/Doppler effect.md",
-    "Physics/Physics.md",
-    "Physics",
-    "Technology/DataType/tar.md",
-    "Technology/DataType/DataType.md",
-    "Technology/DataType",
-    "Technology/Container/Docker/Images/Images.md",
-    "Technology/Container/Docker/Images/docker save load.md",
-    "Technology/Container/Docker/Images/docker rmi.md",
-    "Technology/Container/Docker/Images/docker push.md",
-    "Technology/Container/Docker/Images/docker pull.md",
-    "Technology/Container/Docker/Images/docker images.md",
-    "Technology/Container/Docker/Images/docker build.md",
-    "Technology/Container/Docker/Images",
-    "Technology/Orchestration/K8s",
-    "Technology/Orchestration",
-    "Technology/Computing/Authentication",
-    "Technology/AI/NPL",
+    "Technology/BASH/dos2unix.md",
+    "Technology/BASH/Bash.md",
+    "Technology/Python/Python - IO.md",
+    "Technology/Python/Python.md",
+    "Technology/Python/Libraries/Pandas.md",
+    "Technology/Python/Notebooks/Files/aggregated-functions.ipynb",
+    "Technology/Python/Notebooks/Files",
+    "Technology/Python/Notebooks/Notebooks.md",
+    "Technology/Python/Notebook",
+    "Technology/Python/Libraries",
+    "Technology/Security/Firewall.md",
+    "Technology/Tools/Excel/Excel.md",
+    "Technology/Tools/DBeaver/DBeaver.md",
+    "Technology/Tools/Excel",
+    "Technology/Security/Criptography.md",
+    "Technology/Security/Certificates.md",
+    "Technology/Security/CORS.md",
+    "Technology/Security/CORS",
+    "Technology/Security",
+    "Obsidian.md",
+    "Technology/Markup language/Markdown.md",
+    "Technology/Python/Python - Lists.md",
+    "Technology/Computing/Encoding/Character Encodings.md",
+    "Technology/Computing/Encoding/Encoding.md",
+    "Technology/Computing/Encoding",
+    "Technology/Computing/NumericSystem/Binary/Binary.md",
+    "Technology/Computing/NumericSystem/Binary/Bitwise Operator.md",
+    "Technology/Computing/NumericSystem/Binary",
+    "Technology/Computing/NumericSystem",
+    "Technology/Computing/File System/File System.md",
+    "Technology/Computing/End-Of-File.md",
+    "Technology/Python/Python - Arguments.md",
+    "Technology/Linux/SSH/SSH keys.md",
+    "Technology/Computing/Protocols/SSH.md",
+    "Technology/Linux/SSH/SSH - Agent.md",
+    "Technology/Computing/Protocols/SSH/SSH - Agent.md",
     "Technology/AI/Images/Pasted image 20231028203548.png",
     "Technology/AI/Images/Pasted image 20231028202500.png",
     "Technology/AI/Images/Pasted image 20231028201258.png",

@@ -20,8 +20,10 @@
 ***Notes***
 - When trying to access the server for the first time trough ssh key, the server will asks a password, but not the user server passaword but the password provided when createling the key.
 
+[[SSH - Agent]]
+
 ***References***
 
 - https://youtu.be/NqW-BeYRBkE
 
-#linux 
+#linux #ssh 

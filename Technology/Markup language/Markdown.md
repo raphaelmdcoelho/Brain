@@ -10,7 +10,13 @@
 * For cross off it's possible to use double ~ like: ~~cross off~~.
 - To highlight a text it's possible to use doble equal symbol ==highlight== or HTML tag mark like <mark>highlight</mark>.
 - to subscript a text it's possible to use the circumflex symbol ^subscript^ or Using HTML like <sup> 2 </sup>
-- To create emotional is possible to use semicollumn like :smile: or copy and paste 😁.
+- To create emotional is possible to use semicolon like :smile: or copy and paste 😁.
+- To create a table, it's possible to use a syntax with pipes (|) and content like following:
+	
+| header_column1 | header_column2 | header_column3 |
+|---|---|---|
+| value1 | value2 | value3 |
+| value4 | value5 ||
 
 #markdown #markup
 
