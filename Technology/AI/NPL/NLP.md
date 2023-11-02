@@ -53,4 +53,4 @@ Pragmatic analysis deals with overall communication and interpretation of langua
 **TextBlob(https://textblob.readthedocs.io/en/dev/).**
 	TextBlob is a Python library designed for processing textual data.
 
-#ai 
+#ai #npl 

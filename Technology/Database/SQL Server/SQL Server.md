@@ -10,5 +10,12 @@
 -  [[CONSTRAINT]]
 - [[UNION]]
 - [[GROUP BY]]
+- [[TRIGGER]]
+- [[STORE PROCEDURE]]
+- [[VIEW]]
+
+### Features
+
+* [[User Management]]
 
 #sqlserver #database 
