@@ -58,6 +58,38 @@ string s = $"It is {DateTime.Now.DayOfWeek} today";
 
 ### Exception filters
 
+Let you apply a condition to a catch block:
 
+```cshap
+string html;
+try
+{
+	html = await new HttpClient().GetStringAsync("http://asef");
+}
+catch (WebException ex) when (ex.Status == WebExceptionStatus.Timeout)
+{
+	...
+}
+```
+
+### Static using
+
+The using static directive lets you import all the static members of a type so that you can use those members unqualified:
+
+```csharp
+using static System.Console;
+...
+WriteLine("Hello, world");
+```
+
+### Nameof
+
+The `nameof` operator returns the name of a variable, type, or other symbol as a string. This avoids breaking code when you rename a symbol in Visual Studio.
+
+```csharp
+int capacity = 123;
+string x = nameof(capacity);
+string y = nameof(Uri.Host);
+```
 
 #csharp #dotnet
