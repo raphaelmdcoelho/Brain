@@ -2,9 +2,20 @@
 ### T-SQL
 
 * [[WITH]]
-- [[Pivot]]
-- [[Merge]]
-- [[Bulk Insert]]
-- [[SELECT tips]]
+- [[PIVOT]]
+- [[MERGE]]
+- [[BULK INSERT]]
+- [[SELECT]]
+- [[HAVING]]
+-  [[CONSTRAINT]]
+- [[UNION]]
+- [[GROUP BY]]
+- [[TRIGGER]]
+- [[STORE PROCEDURE]]
+- [[VIEW]]
+
+### Features
+
+* [[User Management]]
 
 #sqlserver #database 
