@@ -11,8 +11,12 @@
             "id": "5e7f0454340206a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Computing/Compiler/Compiler.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/Computing/Compiler/Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/Computing/Compiler/Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/Computing/Compiler/Compiler.md"
+              }
             }
           },
           {
@@ -150,42 +158,42 @@
   },
   "active": "5e7f0454340206a4",
   "lastOpenFiles": [
-    "Technology/BASH/dos2unix.md",
-    "Technology/BASH/Bash.md",
-    "Technology/Python/Python - IO.md",
-    "Technology/Python/Python.md",
-    "Technology/Python/Libraries/Pandas.md",
-    "Technology/Python/Notebooks/Files/aggregated-functions.ipynb",
-    "Technology/Python/Notebooks/Files",
-    "Technology/Python/Notebooks/Notebooks.md",
-    "Technology/Python/Notebook",
-    "Technology/Python/Libraries",
-    "Technology/Security/Firewall.md",
-    "Technology/Tools/Excel/Excel.md",
-    "Technology/Tools/DBeaver/DBeaver.md",
-    "Technology/Tools/Excel",
-    "Technology/Security/Criptography.md",
-    "Technology/Security/Certificates.md",
-    "Technology/Security/CORS.md",
-    "Technology/Security/CORS",
-    "Technology/Security",
-    "Obsidian.md",
-    "Technology/Markup language/Markdown.md",
-    "Technology/Python/Python - Lists.md",
-    "Technology/Computing/Encoding/Character Encodings.md",
-    "Technology/Computing/Encoding/Encoding.md",
-    "Technology/Computing/Encoding",
-    "Technology/Computing/NumericSystem/Binary/Binary.md",
-    "Technology/Computing/NumericSystem/Binary/Bitwise Operator.md",
-    "Technology/Computing/NumericSystem/Binary",
-    "Technology/Computing/NumericSystem",
-    "Technology/Computing/File System/File System.md",
-    "Technology/Computing/End-Of-File.md",
-    "Technology/Python/Python - Arguments.md",
-    "Technology/Linux/SSH/SSH keys.md",
-    "Technology/Computing/Protocols/SSH.md",
-    "Technology/Linux/SSH/SSH - Agent.md",
-    "Technology/Computing/Protocols/SSH/SSH - Agent.md",
+    "Technology/DotNet/CSharp/Expressions/Shift operators.md",
+    "Technology/DotNet/CSharp/Expressions/Bit by bit complement.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
+    "Technology/DotNet/CSharp/Language Basics.md",
+    "Technology/DotNet/CSharp/Expressions",
+    "Life Book/Mind/Discipline.md",
+    "Life Book/Body/Body.md",
+    "Life Book/Mind/Habits/Habits.md",
+    "Life Book/Health/Health.md",
+    "Life Book/Health/Food.md",
+    "Technology/BASH/Alias.md",
+    "Life Book/Life Book.md",
+    "Life Book/Health",
+    "Life Book/Mind/Habits",
+    "Review Calendar/Review Calendar - October.md",
+    "Life Book/Mind/Mind.md",
+    "Life Book/Mind/Books/Books - 2024.md",
+    "Life Book/Mind",
+    "Life Book/Mind/Books/Books - 2023.md",
+    "Books/2024",
+    "Books/2023",
+    "Technology/Javascript/Javascript.md",
+    "Technology/Javascript/double exclamation mark.md",
+    "Technology/Javascript/eval().md",
+    "Technology/Others/Emoji data source.md",
+    "Technology/DotNet/CSharp/CSharp8.md",
+    "Technology/DotNet/CSharp/CSharp7.md",
+    "Life Book/Personal Development/Personal Development.md",
+    "Life Book/Personal Development/Skills/Draw/Draw.md",
+    "Life Book/Personal Development/Skills/Instruments/Guitar/Guitar.md",
+    "Life Book/Personal Development/Skills/Personal Development/Time Management/Time Management.md",
+    "Life Book/Personal Development/Skills/Personal Development/Tédio.md",
+    "Life Book/Career",
+    "Life Book/Paternity",
+    "Life Book/Personal Development",
+    "Life Book/Mind",
     "Technology/AI/Images/Pasted image 20231028203548.png",
     "Technology/AI/Images/Pasted image 20231028202500.png",
     "Technology/AI/Images/Pasted image 20231028201258.png",
