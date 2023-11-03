@@ -8,9 +8,13 @@
 
 ***Methods***
 
-[[eval()]]
+* [[eval()]]
 
 ***Tests***
+
+*** Operators ***
+
+* [[double exclamation mark]]
 
 - [[Technology/Javascript/Tests/Jest]]
 

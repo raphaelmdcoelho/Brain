@@ -1,1 +1,0 @@
-#instruments #guitar #skills 

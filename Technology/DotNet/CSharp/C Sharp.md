@@ -40,4 +40,11 @@
 
 * [[Covariance and Contravariance]]
 
+<hr>
+
+### Operators
+
+* [[Bit by bit complement]]
+* [[Shift operators]]
+
 #dotnet #csharp
