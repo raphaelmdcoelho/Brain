@@ -1,0 +1,3 @@
+Mintty is a terminal emulator for Cygwin, MSYS, and MSYS2. It provides a native Windows user interface and does not require a display server. This terminal emulator is often praised for its small footprint and speed, and it has a range of features that make it attractive for use with Unix-like environments on a Windows system. These features can include things like tabs, theming, and better handling of some Unix-specific functionality that may not translate well to native Windows command-line interfaces. It aims to provide an xterm-compatible terminal emulation, which is highly desirable when using Unix-like CLI tools.
+
+#windows 
