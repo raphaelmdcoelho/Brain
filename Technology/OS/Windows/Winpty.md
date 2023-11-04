@@ -1,0 +1,3 @@
+Winpty is a Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs. The library (libwinpty) and accompanying terminal emulation (winpty-agent) are often used as an adapter for making traditional Unix command-line programs work better in terminals like Mintty that are not fully compatible with Windows Console applications. For example, interactive command-line applications that expect a Unix-like terminal will often not function as expected in a native Windows Command Prompt or PowerShell, but can work better when wrapped with winpty.
+
+#windows 

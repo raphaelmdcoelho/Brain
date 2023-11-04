@@ -16,6 +16,6 @@
 
 * [[double exclamation mark]]
 
-- [[Technology/Javascript/Tests/Jest]]
+- [[Brain/Technology/Javascript/Tests/Jest|Jest]]
 
 #javascript 

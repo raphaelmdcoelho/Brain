@@ -1,6 +1,6 @@
 ## C# 9:
 
-### Top-level statements:
+### [[Top-level statements]]:
 * Ability to run a code without a Main method and a Program class.
 * Magic args variable.
 ### Init-only setters:
