@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c5b355499a15795d",
+        "id": "ff7a3dc2bf447e78",
         "type": "tabs",
         "children": [
           {
-            "id": "5e7f0454340206a4",
+            "id": "69c846905ee27c32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Computing/Compiler/Compiler.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Computing/Compiler/Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Computing/Compiler/Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/Computing/Compiler/Compiler.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,55 +148,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e7f0454340206a4",
+  "active": "69c846905ee27c32",
   "lastOpenFiles": [
-    "Technology/DotNet/CSharp/Expressions/Shift operators.md",
-    "Technology/DotNet/CSharp/Expressions/Bit by bit complement.md",
+    "Technology/DotNet/CSharp/Concepts/Global using directive.md",
+    "Technology/DotNet/CSharp/CSharp10.md",
+    "Technology/DotNet/CSharp/Concepts/File-scoped namespaces.md",
     "Technology/DotNet/CSharp/C Sharp.md",
+    "Technology/DotNet/CSharp/Concepts/Minimal-API.md",
+    "Technology/DotNet/CSharp/Concepts/Value types.md",
+    "Value types.md",
+    "Technology/Tools/VIM/VIM - Command Mode.md",
+    "Technology/DotNet/CSharp/Concepts/Pointer types.md",
+    "Technology/DotNet/CSharp/Concepts/Generic type parameters.md",
+    "Technology/DotNet/CSharp/Concepts/Boxing Conversions.md",
+    "Technology/DotNet/CSharp/Concepts/Asynchronous/Task.md",
+    "Technology/DotNet/CSharp/Concepts/Asynchronous/Asynchronous.md",
+    "Technology/DotNet/CSharp/Concepts/Asynchronous",
+    "Boxing Conversions.md",
+    "Top-level statements.md",
+    "Technology/DotNet/CSharp/Concepts/Covariance and Contravariance.md",
+    "Technology/DotNet/CSharp/Concepts/Asynchronous.md",
     "Technology/DotNet/CSharp/Language Basics.md",
-    "Technology/DotNet/CSharp/Expressions",
-    "Life Book/Mind/Discipline.md",
-    "Life Book/Body/Body.md",
-    "Life Book/Mind/Habits/Habits.md",
-    "Life Book/Health/Health.md",
-    "Life Book/Health/Food.md",
-    "Technology/BASH/Alias.md",
-    "Life Book/Life Book.md",
-    "Life Book/Health",
-    "Life Book/Mind/Habits",
-    "Review Calendar/Review Calendar - October.md",
-    "Life Book/Mind/Mind.md",
-    "Life Book/Mind/Books/Books - 2024.md",
-    "Life Book/Mind",
-    "Life Book/Mind/Books/Books - 2023.md",
-    "Books/2024",
-    "Books/2023",
-    "Technology/Javascript/Javascript.md",
-    "Technology/Javascript/double exclamation mark.md",
-    "Technology/Javascript/eval().md",
-    "Technology/Others/Emoji data source.md",
-    "Technology/DotNet/CSharp/CSharp8.md",
-    "Technology/DotNet/CSharp/CSharp7.md",
-    "Life Book/Personal Development/Personal Development.md",
-    "Life Book/Personal Development/Skills/Draw/Draw.md",
-    "Life Book/Personal Development/Skills/Instruments/Guitar/Guitar.md",
-    "Life Book/Personal Development/Skills/Personal Development/Time Management/Time Management.md",
-    "Life Book/Personal Development/Skills/Personal Development/Tédio.md",
-    "Life Book/Career",
-    "Life Book/Paternity",
-    "Life Book/Personal Development",
-    "Life Book/Mind",
-    "Technology/AI/Images/Pasted image 20231028203548.png",
-    "Technology/AI/Images/Pasted image 20231028202500.png",
-    "Technology/AI/Images/Pasted image 20231028201258.png",
-    "Technology/AI/Images/Pasted image 20231028184712.png",
+    "Technology/Tools/Notepad++/Notepad++.md",
+    "Technology/Tools/Notepad++",
+    "Technology/Playground/Playground.md",
+    "Technology/Playground",
+    "Technology/DotNet/CSharp/Images/reference_type_02.png",
+    "Technology/DotNet/CSharp/Images/reference_type_01.png",
+    "Technology/DotNet/CSharp/Images/csharp_struct_02.png",
+    "Technology/DotNet/CSharp/Images/csharp_struct_01.png",
+    "Technology/DotNet/CSharp/Images",
+    "Technology/Tools/VIM/VIM - Normal Mode.md",
+    "Technology/Tools/VIM/VIM - Insert Model.md",
+    "Technology/OS/Linux/SSH/SSH keys.md",
+    "Technology/OS/Linux/SSH/SSH - Agent.md",
+    "Technology/OS/Linux/Images/Permissions information.png",
+    "Technology/OS/Linux/Kernel/Namespaces.md",
+    "Technology/OS/Linux/Images/Linux permissions.png",
+    "Technology/OS/Linux/SSH",
+    "Technology/OS/Linux/Linux.md",
+    "Technology/OS/Linux/Kernel",
+    "Technology/OS/Linux/Images",
+    "Technology/OS/Windows",
+    "Technology/OS/Linux",
+    "Technology/OS",
+    "Technology/Frontend/Styles/Images/Pasted image 20231104145240.png",
+    "Technology/Frontend/Styles/Images/Pasted image 20231104144655.png",
+    "Technology/Frontend/Styles/Images/Pasted image 20231104142755.png",
+    "Technology/Frontend/Styles/Images/Pasted image 20231104141656.png",
     "Projects/PDI 2023/PDI 2023.canvas",
-    "Technology/AI/Images/Pasted image 20230929214541.png",
-    "Technology/GIT/Images/Pasted image 20231017225839.png",
-    "Technology/GIT/Images/Pasted image 20231017225728.png",
-    "Technology/GIT/Images/Pasted image 20231017225513.png",
-    "Technology/GIT/Images/03 (8).svg",
-    "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
     "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas",
     "Untitled.canvas"
   ]
