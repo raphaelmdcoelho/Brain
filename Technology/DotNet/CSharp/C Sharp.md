@@ -7,6 +7,8 @@
 * [[Covariance and Contravariance]]
 * [[Top-level statements]]
 * [[Value types]]
+* [[File-scoped namespaces]]
+* [[Minimal-API]]
 ### Versions
 
 * **[[CSharp10]]**
