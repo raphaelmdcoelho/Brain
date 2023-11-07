@@ -18,6 +18,23 @@
 | value1 | value2 | value3 |
 | value4 | value5 ||
 
+* Create flowcharts, mind maps:
+
+You can create graph TD, graph LR... This will change the layout of the chart.
+
+```mermaid 
+graph LR; 
+id1((src)) --> id2((assets));
+id1((src)) --> id3((App.css)); 
+id1((src)) --> id4((App.tsx)); 
+id1((src)) --> id5((index.css));
+id1((src)) --> id6((main.tsx));
+id1((src)) --> id7((vite-env.d.ts));
+id8((public))
+di9((index.html))
+id10((package.json))
+```
+
 #markdown #markup
 
 

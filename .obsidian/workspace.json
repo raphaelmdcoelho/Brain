@@ -11,8 +11,12 @@
             "id": "69c846905ee27c32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Frontend/ReactJs/ReactJS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/Frontend/ReactJs/ReactJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/Frontend/ReactJs/ReactJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/Frontend/ReactJs/ReactJS.md"
+              }
             }
           },
           {
@@ -148,13 +156,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69c846905ee27c32",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
-    "Technology/DotNet/CSharp/Concepts/Global using directive.md",
-    "Technology/DotNet/CSharp/CSharp10.md",
-    "Technology/DotNet/CSharp/Concepts/File-scoped namespaces.md",
-    "Technology/DotNet/CSharp/C Sharp.md",
+    "Technology/Frontend/ReactJs/Images",
+    "Technology/Frontend/ReactJs/Images/Pasted image 20231107170101.png",
+    "Technology/Frontend/ReactJs/JSX.md",
+    "Technology/Frontend/ReactJs/ReactJS.md",
+    "Technology/Tools/babeljs.io.md",
+    "Obsidian.md",
+    "Technology/Markup languages/Markdown.md",
+    "Technology/Markup languages/HTML/Document Object Model.md",
+    "Technology/Markup languages/HTML/HTML.md",
+    "Technology/Markup language/Untitled",
+    "Technology/Markup languages/HTML",
     "Technology/DotNet/CSharp/Concepts/Minimal-API.md",
+    "Technology/Frontend/ReactJs",
+    "Technology/DotNet/CSharp/Concepts/Global using directive.md",
+    "Technology/DotNet/CSharp/Concepts/File-scoped namespaces.md",
+    "Brain.zip",
+    "Technology/DotNet/CSharp/CSharp10.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
     "Technology/DotNet/CSharp/Concepts/Value types.md",
     "Value types.md",
     "Technology/Tools/VIM/VIM - Command Mode.md",
@@ -169,33 +190,20 @@
     "Technology/DotNet/CSharp/Concepts/Covariance and Contravariance.md",
     "Technology/DotNet/CSharp/Concepts/Asynchronous.md",
     "Technology/DotNet/CSharp/Language Basics.md",
-    "Technology/Tools/Notepad++/Notepad++.md",
     "Technology/Tools/Notepad++",
-    "Technology/Playground/Playground.md",
     "Technology/Playground",
     "Technology/DotNet/CSharp/Images/reference_type_02.png",
     "Technology/DotNet/CSharp/Images/reference_type_01.png",
     "Technology/DotNet/CSharp/Images/csharp_struct_02.png",
     "Technology/DotNet/CSharp/Images/csharp_struct_01.png",
     "Technology/DotNet/CSharp/Images",
-    "Technology/Tools/VIM/VIM - Normal Mode.md",
-    "Technology/Tools/VIM/VIM - Insert Model.md",
-    "Technology/OS/Linux/SSH/SSH keys.md",
-    "Technology/OS/Linux/SSH/SSH - Agent.md",
     "Technology/OS/Linux/Images/Permissions information.png",
-    "Technology/OS/Linux/Kernel/Namespaces.md",
     "Technology/OS/Linux/Images/Linux permissions.png",
     "Technology/OS/Linux/SSH",
-    "Technology/OS/Linux/Linux.md",
     "Technology/OS/Linux/Kernel",
-    "Technology/OS/Linux/Images",
-    "Technology/OS/Windows",
-    "Technology/OS/Linux",
-    "Technology/OS",
     "Technology/Frontend/Styles/Images/Pasted image 20231104145240.png",
     "Technology/Frontend/Styles/Images/Pasted image 20231104144655.png",
     "Technology/Frontend/Styles/Images/Pasted image 20231104142755.png",
-    "Technology/Frontend/Styles/Images/Pasted image 20231104141656.png",
     "Projects/PDI 2023/PDI 2023.canvas",
     "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas",
     "Untitled.canvas"
