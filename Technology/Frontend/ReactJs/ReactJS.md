@@ -83,6 +83,11 @@ function Message() {
 React will renders the Virtual DOM with changes in h1 element. Then will compare with actual DOM and then will change only the h1 element in DOM.
 **Note**: Technically, the DOM is manipulated by `react-dom`. You can check in the `package.json` file.
 
-Inside `index.html` it's possible to see a reference to `main.tsx` file. There, `ReactDOM.createRoot()` will 
+Inside `index.html` it's possible to see a reference to `main.tsx` file. There, `ReactDOM.createRoot()` will renders a `React.StrictModel` inside a `root` element.
+
+
+
+
+
 #frontend #reactjs
  
