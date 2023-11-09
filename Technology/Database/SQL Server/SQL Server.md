@@ -17,5 +17,6 @@
 ### Features
 
 * [[User Management]]
+* [[Views]]
 
 #sqlserver #database 
