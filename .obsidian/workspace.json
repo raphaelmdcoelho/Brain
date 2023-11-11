@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1c52d2fc9b46fdc",
+  "active": "69c846905ee27c32",
   "lastOpenFiles": [
     "Technology/MessageBroker/Kafka/Kafka.md",
     "Technology/MessageBroker/Kafka",
@@ -194,6 +194,7 @@
     "Technology/DotNet/CSharp/Concepts/Global using directive.md",
     "Technology/DotNet/CSharp/Concepts/File-scoped namespaces.md",
     "Technology/DotNet/CSharp/CSharp10.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
     "Technology/DotNet/CSharp/Images/reference_type_02.png",
     "Technology/DotNet/CSharp/Images/reference_type_01.png",
     "Technology/DotNet/CSharp/Images/csharp_struct_02.png",
