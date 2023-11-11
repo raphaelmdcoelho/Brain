@@ -25,14 +25,14 @@
       "query": "bash",
       "color": {
         "a": 1,
-        "rgb": 11495881
+        "rgb": 65280
       }
     },
     {
       "query": "container",
       "color": {
         "a": 1,
-        "rgb": 10733311
+        "rgb": 65535
       }
     },
     {
@@ -53,20 +53,34 @@
       "query": "database",
       "color": {
         "a": 1,
-        "rgb": 6627360
+        "rgb": 6489349
+      }
+    },
+    {
+      "query": "dotnet",
+      "color": {
+        "a": 1,
+        "rgb": 5774965
+      }
+    },
+    {
+      "query": "javascript",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 0.814583333333333,
+  "nodeSizeMultiplier": 0.844646875,
   "lineSizeMultiplier": 1.29947916666667,
-  "collapse-forces": false,
-  "centerStrength": 0.59375,
+  "collapse-forces": true,
+  "centerStrength": 0.620375,
   "repelStrength": 12.3958333333333,
   "linkStrength": 0.78809375,
   "linkDistance": 30,
-  "scale": 0.2953073293724818,
+  "scale": 0.19355228445444775,
   "close": true
 }

@@ -11,8 +11,24 @@
             "id": "32e05dc89c5725c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/Functions/Functions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "107bb55021706fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Trigonometry/Trigonometry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,6 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Math/Trigonometry/Trigonometry.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,6 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Math/Trigonometry/Trigonometry.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +148,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Math/Trigonometry/Trigonometry.md"
+          }
         }
       }
     ],
@@ -145,48 +166,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32e05dc89c5725c5",
+  "active": "8574ee9e521c14f3",
   "lastOpenFiles": [
-    "Technology/Database/SQL Server/Merge.md",
-    "Technology/Database/SQL Server/Bulk Insert.md",
-    "Technology/Database/SQL Server/WITH.md",
-    "Technology/Database/SQL Server/CTE.md",
-    "tar.md",
-    "Technology/DataType/DataType.md",
-    "Technology/Container/Docker/Images/docker build.md",
-    "Technology/Container/Docker/Images/docker save load.md",
-    "Technology/Container/Docker/Images/Images.md",
+    "Math/Geometry/Circle.md",
+    "Math/Trigonometry/Trigonometry.md",
+    "Math/Functions/Functions.md",
+    "Math/Geometry/Geometry.md",
+    "Math/Geometry",
+    "Math/Calculus/Limits.md",
+    "Math/Math.md",
+    "Technology/Computing/Daemon.md",
+    "Technology/Computing/Agent/Agent.md",
+    "Technology/Computing/Computing.md",
+    "Technology/Computing/Algorithms/Algorithms.md",
+    "Technology/Computing/Authentication/Authentication.md",
+    "Technology/Computing/Compiler/Compiler.md",
+    "Technology/Computing/DataStructure/Data Structure.md",
+    "Technology/Computing/Design Patterns/Design Patterns.md",
+    "Technology/Computing/Encoding/Encoding.md",
+    "Technology/Computing/File System/File System.md",
+    "Technology/Computing/Network/Network.md",
+    "Technology/Computing/Protocols/Protocols.md",
+    "Technology/Computing/Standards/Standards.md",
+    "Technology/Computing/WebRTC.md",
+    "Technology/Computing/WebSockets.md",
+    "Technology/Computing/End-Of-File.md",
+    "Technology/Computing/Tree/Tree.md",
+    "Technology/Computing/Protocols/OpenID.md",
+    "Technology/Computing/NumericSystem/Binary/Binary.md",
+    "Technology/Computing/NumericSystem/NumericSystem.md",
+    "Technology/Computing/Agent",
+    "Technology/Computing/Daemon",
+    "Math/Trigonometry",
+    "Math/Functions",
+    "Technology/DotNet/MinimalApi",
+    "Technology/DotNet/SignalR",
     "Technology/DataType",
-    "Technology/Container/Docker/Container/docker cp.md",
-    "Technology/Container/Docker/Container/Container.md",
-    "Technology/Container/Docker/Container/docker exec.md",
-    "Technology/Container/Docker/Container/docker inspect.md",
-    "Technology/Container/Docker/Container/docker logs.md",
-    "Technology/Container/Docker/Images/docker rmi.md",
-    "Technology/Container/Docker/Images/docker push.md",
-    "Technology/Container/Docker/Images/docker images.md",
-    "Technology/Container/Docker/Images/docker pull.md",
-    "Technology/Container/Docker/Container/docker rm.md",
-    "Technology/Container/Docker/Container/docker kill.md",
-    "Technology/Container/Docker/Container/docker stop.md",
-    "Technology/Container/Docker/Container/docker start.md",
-    "Technology/Container/Docker/Container/docker restart.md",
-    "Technology/Container/Docker/Container/docker ps.md",
-    "Technology/Container/Docker/Container/docker run.md",
-    "Technology/BASH/Bash.md",
     "Technology/Computing/Authentication",
     "Technology/Orchestration/K8s",
-    "Technology/Orchestration",
     "Technology/GIT/Images/Pasted image 20231017225728.png",
     "Pasted image 20231017225655.png",
     "Technology/GIT/Images/Pasted image 20231017225839.png",
     "Technology/GIT/Images/Pasted image 20231017225513.png",
-    "Technology/DotNet/ORM/Dapper",
-    "Technology/Tests/Unittest",
-    "Technology/Tests/Jest",
-    "Technology/DotNet/Libraries/Autofac",
-    "Technology/DotNet/Libraries/Bogus",
-    "Technology/DotNet/Libraries",
     "Linux/Images/Permissions information.png",
     "Linux/Images/Linux permissions.png"
   ]
