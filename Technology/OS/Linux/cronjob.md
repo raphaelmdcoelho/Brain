@@ -2,7 +2,7 @@ Cron é um programa de utilidade para repetir tarefas numa data futura. Dar um c
 
 cron é a solução perfeita.
 
-O Cron é um [[Daemon]]. Isso significa que ele trabalha em plano de fundo para executar tarefas não-interativas. No Windows, você pode estar mais familiarizados com processos em plano de fundo com os **Serviços**.
+O Cron é um [[Technology/Computing/Daemon]]. Isso significa que ele trabalha em plano de fundo para executar tarefas não-interativas. No Windows, você pode estar mais familiarizados com processos em plano de fundo com os **Serviços**.
 
 Um arquivo Cron é sempre um arquivo de texto que contém comandos para rodar em uma hora específica. O sistema padrão do arquivo contab é **/etc/crontab** e ele fica localizado dentro do diretório crontab, que é **/etc/cron.*/**. Apenas administradores podem editar um arquivo crontab do sistema.
 

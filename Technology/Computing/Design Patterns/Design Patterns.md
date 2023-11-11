@@ -7,4 +7,4 @@
 * [[Pattern - Adapter]]
 * [[Pattern - Flyweight]]
 
-#patterns
+#patterns #computing
