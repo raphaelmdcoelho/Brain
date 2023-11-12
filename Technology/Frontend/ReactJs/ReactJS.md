@@ -85,9 +85,46 @@ React will renders the Virtual DOM with changes in h1 element. Then will compare
 
 Inside `index.html` it's possible to see a reference to `main.tsx` file. There, `ReactDOM.createRoot()` will renders a `React.StrictModel` inside a `root` element.
 
+### JSX tag particularities
 
+```typescript
+function ListGroup() {
+	return (
+	<ul className="list-group">
+	<li className="list-group-item">An Item</li>
+	</ul>
+	);
+}
 
+export default ListGroup;
+```
 
+* It's necessary use the `className` name instead of just `class`.
+* The `()` is necessary to have the JSX being created as multi-line.
+
+### Fragments
+
+A component cannot return more than one element. React will try to do something like that when rendering a element: `React.createElement('h1')`.
+
+To resolve that is possible to use a `<div>` tag surround all the component or use a `Fragment`.
+
+```typescript
+import { Fragment } fom 'react';
+
+<Fragment>
+...
+</Fragment>
+```
+
+Another way to do that:
+
+```typescript
+<>
+...
+</>
+```
+
+### Rendering Lists
 
 #frontend #reactjs
  
