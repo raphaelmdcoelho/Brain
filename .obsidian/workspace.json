@@ -11,12 +11,8 @@
             "id": "69c846905ee27c32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Frontend/ReactJs/ReactJS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Frontend/ReactJs/ReactJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Frontend/ReactJs/ReactJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/Frontend/ReactJs/ReactJS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,48 +151,48 @@
   },
   "active": "69c846905ee27c32",
   "lastOpenFiles": [
-    "Technology/Frontend/ReactJs/Redux/Redux.md",
-    "Technology/Frontend/ReactJs/ReactJS.md",
-    "Technology/Frontend/ReactJs/Redux",
-    "Math/Trigonometry/Images/Pasted image 20231111230727.png",
-    "Math/Trigonometry/Trigonometry.md",
-    "Excalidraw/Playground-test.md",
-    "Math/Trigonometry/Tangent.md",
-    "Math/Trigonometry/Secant.md",
-    "Math/Trigonometry/Images/Pasted image 20231111225132.png",
-    "Pasted image 20231111225144.png",
-    "Math/Trigonometry/Images/Pasted image 20231111222126.png",
-    "Math/Trigonometry/Images/Pasted image 20231111224853.png",
-    "Pasted image 20231111224833.png",
-    "Math/Trigonometry/Images",
-    "Math/Trigonometry/Sine.md",
-    "Math/Trigonometry/Cosine.md",
-    "Excalidraw/Drawing 2023-11-11 22.11.29.excalidraw.md",
-    "Math/Math.md",
-    "Math/Functions/Functions.md",
-    "Technology/Playground/Playground.md",
-    "Technology/Python/Libraries/Pandas.md",
+    "Technology/Tests/Cypress/Cypress.md",
+    "Technology/Tests/XUnit/XUnit.md",
+    "Technology/Tests/Unittest/Unittest.md",
+    "Technology/Tests/Jest/Jest.md",
+    "Technology/MessageBroker/RabbitMQ/RabbitMQ.md",
     "Technology/MessageBroker/Kafka/Kafka.md",
-    "Technology/MessageBroker/Kafka",
-    "Technology/MessageBroker",
-    "Technology/Container/Docker/Images/docker tag.md",
+    "Technology/Tests/Cypress",
+    "Technology/Frontend/ReactJs/React Hooks.md",
+    "Technology/MessageBroker/RabbitMQ",
+    "Technology/Frontend/ReactJs/ReactJS.md",
+    "Technology/Frontend/ReactJs/Redux/Redux.md",
+    "Technology/Frontend/ReactJs/JSX.md",
+    "Math/Trigonometry/Trigonometry.md",
+    "Technology/Frontend/ReactJs/Redux",
+    "Technology/DotNet/SignalR/SignalR.md",
+    "Technology/DotNet/SignalR",
+    "Technology/Computing/Standards/Standards.md",
+    "Technology/Computing/NumericSystem/NumericSystem.md",
+    "Technology/Computing/Agent/Agent.md",
+    "Technology/Computing/Agent",
+    "Math/Trigonometry/Tangent.md",
+    "Math/Trigonometry/Sine.md",
+    "Math/Trigonometry/Secant.md",
+    "Math/Trigonometry/Images/Pasted image 20231111230727.png",
+    "Math/Trigonometry/Images/Pasted image 20231111225132.png",
+    "Math/Trigonometry/Images/Pasted image 20231111222126.png",
+    "Math/Trigonometry/Images",
+    "Math/Trigonometry/Cosine.md",
+    "Math/Trigonometry",
+    "Math/Geometry/Geometry.md",
+    "Math/Geometry/Circle.md",
+    "Math/Geometry",
+    "Math/Functions/Functions.md",
+    "Math/Functions",
     "Technology/Messageria/Kafka/Kafka.md",
     "Technology/Messageria/Kafka",
-    "Technology/Messageria",
-    "Technology/Container/Docker/Images/docker save load.md",
-    "Technology/Container/Docker/Images/Images.md",
-    "Technology/Frontend/ReactJs/JSX.md",
-    "Technology/Database/SQL Server/Views.md",
-    "Technology/Message Broker/Kafka/Kafka.md",
-    "Technology/DotNet/ORM/EntityFramework/IEntityTypeConfiguration.md",
-    "Technology/Tools/babeljs.io.md",
-    "Technology/Message Broker/Kafka",
-    "Technology/Message Broker",
-    "Technology/Markup languages/HTML/HTML.md",
-    "Technology/Markup languages/HTML/Document Object Model.md",
-    "Technology/Markup languages/Markdown.md",
-    "Technology/Markup languages/HTML",
-    "Technology/Markup languages",
+    "Excalidraw/Playground-test.md",
+    "Pasted image 20231111225144.png",
+    "Math/Trigonometry/Images/Pasted image 20231111224853.png",
+    "Pasted image 20231111224833.png",
+    "Excalidraw/Drawing 2023-11-11 22.11.29.excalidraw.md",
+    "Math/Math.md",
     "Technology/Frontend/ReactJs/Images/Pasted image 20231107170101.png",
     "Technology/DotNet/CSharp/Images/reference_type_02.png",
     "Technology/DotNet/CSharp/Images/reference_type_01.png",
