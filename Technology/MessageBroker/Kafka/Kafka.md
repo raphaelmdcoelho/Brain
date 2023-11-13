@@ -1,3 +1,3 @@
-Em sistemas **pub/sub** temos eventos sendo gerados e consumidos, no meio dessas operações existe o `tópico`.
+On **pub/sub** systems we have events being generated and cosumed, and in the middle of these operations there is a `topic`.
 
-#messageria
+#messagebroker 

@@ -87,7 +87,7 @@ Inside `index.html` it's possible to see a reference to `main.tsx` file. There, 
 
 ### JSX tag particularities
 
-```typescript
+```jsx
 function ListGroup() {
 	return (
 	<ul className="list-group">
@@ -108,7 +108,7 @@ A component cannot return more than one element. React will try to do something 
 
 To resolve that is possible to use a `<div>` tag surround all the component or use a `Fragment`.
 
-```typescript
+```jsx
 import { Fragment } fom 'react';
 
 <Fragment>
@@ -118,13 +118,57 @@ import { Fragment } fom 'react';
 
 Another way to do that:
 
-```typescript
+```jsx
 <>
 ...
 </>
 ```
 
 ### Rendering Lists
+
+```jsx
+const items = [...];
+
+return (
+	<>
+		<ul className="">
+			{items.map((item) => {
+				<li key={item.id}>{item}</li>
+			})}
+		</ul>
+	</>
+)
+```
+
+### Conditional Rendering
+
+```jsx
+const items = [...];
+
+const message = items.length === 0 ? <p>No item found</p> : null;
+const message = items.length === 0 && <p>No item found</p>;
+			
+return (
+	<>
+		{message}
+		<ul className="">
+			{items.map((item) => {
+				<li key={item.id}>{item}</li>
+			})}
+		</ul>
+	</>
+)
+```
+
+### Handling Events
+
+### Redux
+
+* [[Redux]]
+
+### Hooks
+
+* [[React Hooks]]
 
 #frontend #reactjs
  
