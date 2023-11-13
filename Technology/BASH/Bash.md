@@ -65,7 +65,7 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 ### AWK
 
-[[AWK]] is script language use to generate reports.
+[[Technology/BASH/AWK/AWK]] is script language use to generate reports.
 
 <hr>
 
