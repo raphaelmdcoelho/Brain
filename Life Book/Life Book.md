@@ -5,5 +5,6 @@
 * [[Paternity]]
 * [[Career]]
 * [[Health]]
+* [[Mind]]
 
 #lifebook
