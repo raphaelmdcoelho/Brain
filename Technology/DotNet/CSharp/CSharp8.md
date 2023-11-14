@@ -152,7 +152,7 @@ void Foo(string? s) => Console.Write(s!.Length);
 
 ### Asynchronous streams
 
-Prior to C# 8, you could use *[[yield]]* return to write an *iterator*, or **await** to write an asynchronous function. But you couldn't do both and write an iterator that awaits, yielding elements asynchronously. C# 8 fixes this through the introduction of *asynchronous streams*:
+Prior to C# 8, you could use *yield* return to write an *iterator*, or **await** to write an asynchronous function. But you couldn't do both and write an iterator that awaits, yielding elements asynchronously. C# 8 fixes this through the introduction of *asynchronous streams*:
 
 ```csharp
 async IAsyncEnumerable<int> RangeAsync(int start, int count, int delay)

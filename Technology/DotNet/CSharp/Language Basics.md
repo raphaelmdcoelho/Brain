@@ -4,7 +4,7 @@ A `statment block` is a series of statements surrounded by pair of braces.
 
 ### Compilation
 
-The C# compiler compiles source code (a set of files with the .cs extension) into an [[Assembly]]. ==An assembly is the unit of packaging and deployment in .NET==. ==An assembly can be either an application or a library==. A normal console or Windows application has an entry point, whereas a library does not. The purpose of a library is to be called upon (referenced) by an application or by other libraries. .NET itself is a set of libraries (as well as a runtime environment).
+The C# compiler compiles source code (a set of files with the .cs extension) into an `Assembly`. ==An assembly is the unit of packaging and deployment in .NET==. ==An assembly can be either an application or a library==. A normal console or Windows application has an entry point, whereas a library does not. The purpose of a library is to be called upon (referenced) by an application or by other libraries. .NET itself is a set of libraries (as well as a runtime environment).
 
 The `DotNet Tool` (dotnet.exe on Windows) helps you to manage .NET source code and binaries from the command line. You can use it to both build and run your program, as an alternative to using an integrated development environment (IDE) such as Visual Studio or Visual Studio Code.
 
@@ -157,7 +157,7 @@ Some keywords are contextual, meaning that you also can use them as identifiers 
 * with
 * when
 * where
-* [[yield]]
+* yield
 
 **Literals, Punctuators and Operators
 

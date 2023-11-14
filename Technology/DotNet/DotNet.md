@@ -4,12 +4,9 @@
 4. [[LINQ]]
 5. [[Entity Framework]]
 6. [[Dependency Injection]]
-7. [[Configuration]]
-8. [[Collections]]
-9. [[Asynchronous]]
-10. [[Roslyn]]
-11. [[DotNet Tool]]
-12. [[SignalR]]
+7. [[Roslyn]]
+8. [[DotNet Tool]]
+9. [[SignalR]]
 
 
 #dotnet
