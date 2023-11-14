@@ -1,4 +1,4 @@
-The features added to C# 3.0 were mostly centered on `Language-Integrated Query` [[LINQ]] capabilities. LINQ enables queries to be written directly within a C# program and checked statically for correctness, and query both local collections (such a list or XML documents) or remote data sources (such as a database). The C# 3.0 features added to support LINQ comprised implicitly typed local variables, anonymous types, object initializers, lambda expressions, extension methods, query expressions, and expression trees.
+The features added to C# 3.0 were mostly centered on `Language-Integrated Query` LINQ capabilities. LINQ enables queries to be written directly within a C# program and checked statically for correctness, and query both local collections (such a list or XML documents) or remote data sources (such as a database). The C# 3.0 features added to support LINQ comprised implicitly typed local variables, anonymous types, object initializers, lambda expressions, extension methods, query expressions, and expression trees.
 
 ### Implicitly typed local variables
 
@@ -29,7 +29,7 @@ Provide a higher-level syntax for writing LINQ queries that can be substantially
 
 ### Expressions Trees
 
-[[Expressions Tree]] is miniature code Document Object Models (DOMs) that describe lambda expressions assigned to the special type `Expression<TDelegate>`. Expression trees make it possible for LINQ queries to execute remotely (e.g., on a database server) because they can be introspected and translated at runtime (e.g., into a SQ statement).
+Expressions Tree is miniature code Document Object Models (DOMs) that describe lambda expressions assigned to the special type `Expression<TDelegate>`. Expression trees make it possible for LINQ queries to execute remotely (e.g., on a database server) because they can be introspected and translated at runtime (e.g., into a SQ statement).
 
 ### Automatic properties
 

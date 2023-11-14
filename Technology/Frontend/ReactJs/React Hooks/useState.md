@@ -1,6 +1,4 @@
 
-* **useState()**: Handle reactive data, so when data changes re-render the UI.
-
 ```typescript
 import { useState } from 'react';
 
@@ -16,4 +14,4 @@ function App() {
 }
 ```
 
-#frontend #reactjs 
+#frontend #reactjs #hooks

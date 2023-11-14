@@ -6,7 +6,7 @@ A `statment block` is a series of statements surrounded by pair of braces.
 
 The C# compiler compiles source code (a set of files with the .cs extension) into an [[Assembly]]. ==An assembly is the unit of packaging and deployment in .NET==. ==An assembly can be either an application or a library==. A normal console or Windows application has an entry point, whereas a library does not. The purpose of a library is to be called upon (referenced) by an application or by other libraries. .NET itself is a set of libraries (as well as a runtime environment).
 
-The [[DotNet Tool]] (dotnet.exe on Windows) helps you to manage .NET source code and binaries from the command line. You can use it to both build and run your program, as an alternative to using an integrated development environment (IDE) such as Visual Studio or Visual Studio Code.
+The `DotNet Tool` (dotnet.exe on Windows) helps you to manage .NET source code and binaries from the command line. You can use it to both build and run your program, as an alternative to using an integrated development environment (IDE) such as Visual Studio or Visual Studio Code.
 
 ### Syntax
 
@@ -101,7 +101,7 @@ Full list of keywords reserveds:
 * static
 * string
 * struct
-* [[switch]]
+* switch
 * this
 * ushort
 * using
@@ -125,7 +125,7 @@ Some keywords are contextual, meaning that you also can use them as identifiers 
 * alias
 * and
 * ascending
-* [[async - await]]
+* async - await
 * by
 * descending
 * dynamic
@@ -187,7 +187,7 @@ The public keyword exposes members to other classes.
 
 **Defining a Main method**
 
-Without [[Top-level statements]] a simple console or Windows application looks like this:
+Without Top-level statements a simple console or Windows application looks like this:
 
 ```csharp
 using System;
@@ -243,7 +243,7 @@ Conversely, explicit conversions are required when one of the following is true:
 * The compiler cannot guarantee that they will always succeed.
 * Information might be lost during conversion.
 
-The numeric conversions that we just saw are built into the language. C# also supports reference conversions and [[Boxing Conversions]] as well as custom conversions. The compiler doesn't enforce the aforementioned rules with custom conversions, so it's possible for badly designed types to behave otherwise.
+The numeric conversions that we just saw are built into the language. C# also supports reference conversions and ==Boxing Conversions== as well as custom conversions. The compiler doesn't enforce the aforementioned rules with custom conversions, so it's possible for badly designed types to behave otherwise.
 
 ### Value Types Versus Reference Types
 
@@ -288,7 +288,7 @@ int i = 5;
 System.Int32 i = 5;
 ```
 
-The set of predefined value types excluding `decimal` are known as `primitive types` in the [[CLR]]. Primitive types are so called because they are supported directly via instructions in compiled code, and this usually translates to direct support on the underlying processor; for example:
+The set of predefined value types excluding `decimal` are known as `primitive types` in the `CLR`. Primitive types are so called because they are supported directly via instructions in compiled code, and this usually translates to direct support on the underlying processor; for example:
 
 ```csharp
 // Underlying hexadecimal representation

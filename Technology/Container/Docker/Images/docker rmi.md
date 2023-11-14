@@ -8,4 +8,4 @@ Remove an image from your machine.
 docker rmi container_name
 ```
 
-#docker #image 
+#docker #image  #container

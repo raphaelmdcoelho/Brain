@@ -1,4 +1,4 @@
-C# 6.0, which shipped with Visual Studio 2015, features a new-generation compiler, completely written in C#. Known as project "[[Roslyn]]", the new compiler exposes the entire compilation pipeline via libraries, allowing you to perform code analysis on arbitraty source code. The compiler itself is open source, and the source code is available at https://github.com/dotnet/roslyn.
+C# 6.0, which shipped with Visual Studio 2015, features a new-generation compiler, completely written in C#. Known as project `Roslyn`, the new compiler exposes the entire compilation pipeline via libraries, allowing you to perform code analysis on arbitrary source code. The compiler itself is open source, and the source code is available at https://github.com/dotnet/roslyn.
 
 ### Null-Conditional operator ("Elvis")
 
@@ -38,7 +38,7 @@ Now read-only properties can also be set in the constructor, making it easier to
 
 ### Index initializers
 
-Allow single-step initialization of any type that exposes an [[Indexer]]:
+Allow single-step initialization of any type that exposes an `Indexer`:
 
 ```csharp
 var dict = new Dictionary<int, string>()
