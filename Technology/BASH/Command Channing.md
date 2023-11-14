@@ -21,7 +21,7 @@ You can execute multiple commands simultaneously using wait (:) with the & opera
 * `:` is a no-op operator that just do nothing.
 * it acesso similarly to &&, but if we receives a error, the next command will run. 
 
-### Using [[Xargs]]
+### Using Xargs
 
 The xargs command in Linux specifies the number of processes you want to run simultaneously. You can execute multiple input arguments in parallel in Linux using the xargs command. Here we piped the following xargs command with the ls command so that it uses 3 processes in parallel on each file from the output of ls.
 

@@ -93,7 +93,7 @@ Instance fields are prohibited.
 
 ### Switch expressions
 
-From C# 8, you can use *[[switch]]* in the context of an expression:
+From C# 8, you can use `switch` in the context of an expression:
 
 ```csharp
 string cardName = cardNumber switch

@@ -2,3 +2,5 @@
 ```bash
 clip < file.txt
 ```
+
+#bash 

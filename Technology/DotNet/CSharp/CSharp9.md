@@ -1,6 +1,6 @@
 ## C# 9:
 
-### [[Top-level statements]]:
+### Top-level statements:
 * Ability to run a code without a Main method and a Program class.
 * Magic args variable.
 ### Init-only setters:
@@ -14,7 +14,7 @@ var text1 = new Class { Text = "Message" };
 
 var text2 = text1 with { OtherProperty = value }
 ```
-### [[Records]]
+### Records
 * It's a class that word good with immutable data.
 * Allows nondestructive mutation.
 * With records is possible to eliminate the properties boilerplate.

@@ -8,4 +8,4 @@ Push an image to a registry.
 docker push myuser/myimage:latest
 ```
 
-#docker #image
+#docker #image #container

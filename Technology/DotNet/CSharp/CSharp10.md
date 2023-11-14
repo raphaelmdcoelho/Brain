@@ -1,6 +1,6 @@
 ## C# 10:
 
-### [[File-scoped namespaces]].
+### File-scoped namespaces.
 ### [[Global using directive]].
 ### Implicit global using directive.
 ### Nondesteutive mutation for anonymous types using ***with*** Keyword.

@@ -7,4 +7,4 @@ Build an image from a Dockerfile.
 docker build -t myimage:latest
 ```
 
-#docker #image
+#docker #image #container

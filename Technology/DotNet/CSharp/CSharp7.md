@@ -33,7 +33,7 @@ bool successful = int.TryParse("123", out int result);
 Console.WriteLine(result);
 ```
 
-❗️==And when calling a method with multiple out parameters you can discard ones youre uninterested in with the underscode character.==
+❗️==And when calling a method with multiple out parameters you can discard ones youre uninterested in with the underscore character.==
 
 ```csharp
 SomeBigMethod(out _, out _, out _, out int x, out _, out _, out _);
@@ -106,7 +106,7 @@ public class Person
 }
 ```
 
-note: the symbol `~` here in the example above, is creating a [[Finalizers - Destructors]].
+note: the symbol `~` here in the example above, is creating a `Finalizers - Destructors`.
 
 ### Deconstructors
 
