@@ -2,7 +2,7 @@
 
 ### Why was created
 
-When a web page is load into the browser (html). The browser gets the HTML code and converts it to a tree structure called [[Document Object Model]] (DOM).
+When a web page is load into the browser (html). The browser gets the HTML code and converts it to a tree structure called Document Object Model (DOM).
 React use **components** to create and update DOM. 
 A React Application is a tree composed of component with a App component as root.
 
@@ -61,8 +61,7 @@ export default App;
 ```
 
 ### Check the javascript final code:
-* [[babeljs.io]]
-
+* `babeljs.io`
 ### Interpolation
 
 Inside the interpolation symbol `{}` it's possible to add any piece of code that returns a value.
@@ -162,13 +161,79 @@ return (
 
 ### Handling Events
 
-### Redux
+```typescript
+<li onClick={(event: MouseEvent) => console.log(event)} >item</li>
+```
 
-* [[Redux]]
+### Passing data via Props
 
+```typescript
+// { items: [], heading: string }
+interface Props {
+	item: string[];
+	heading: string;
+}
+
+function Component({items, heading}: Props) {
+
+}
+
+...
+// çare t component
+<ParentComponent items={[]} heading="title" />
+```
+
+### Passing functions via Props
+
+```typescript
+interface Props {
+	onSelectItem(): (item: string) => void;
+}
+
+function Component({onSelectItem}: Props) {
+
+}
+
+...
+<li onClick={() => onSelectItem(item)} />
+
+...
+//parent component
+<ParentComponent onSelectItem={handleSelectItem} />
+```
+
+### Passing Children
+
+```typescript
+interface Props {
+	children: ReactNode;
+}
+
+const Alert = ({ children }: Props) => {
+	return (
+		<div className="">{children}</div>
+	)
+}
+
+<Alert>Text</Alert>
+```
+
+### Forms
+
+* [[React - Forms]]
+## Routing
+
+* [[React - Routing]]
 ### Hooks
 
 * [[React Hooks]]
+
+### Redux
+
+* [[Redux]]
+### Tools
+
+* [[React Dev Tools]]
 
 #frontend #reactjs
  

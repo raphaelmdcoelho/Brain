@@ -9,5 +9,6 @@
 * [[docker rmi]]
 * [[docker inspect]]
 * [[docker save load]]
+* [[docker tag]]
 
 #docker #container 

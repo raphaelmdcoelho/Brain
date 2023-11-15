@@ -6,4 +6,4 @@
 docker tag <image_id> my-image:latest
 ```
 
-#docker #image
+#docker #image #container

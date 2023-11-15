@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#git",
@@ -71,23 +71,23 @@
       }
     },
     {
-      "query": "#linux",
+      "query": "#reactjs",
       "color": {
         "a": 1,
-        "rgb": 8165193
+        "rgb": 13855767
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 1.06979166666667,
-  "lineSizeMultiplier": 0.865625,
-  "collapse-forces": true,
-  "centerStrength": 0.59375,
+  "nodeSizeMultiplier": 0.844646875,
+  "lineSizeMultiplier": 1.29947916666667,
+  "collapse-forces": false,
+  "centerStrength": 0.677083333333333,
   "repelStrength": 11.5625,
-  "linkStrength": 0.78809375,
+  "linkStrength": 0.802083333333333,
   "linkDistance": 30,
-  "scale": 0.19355228445446165,
+  "scale": 0.22920135941749398,
   "close": true
 }
