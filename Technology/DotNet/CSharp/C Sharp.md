@@ -10,6 +10,8 @@
 * [[Minimal-API]]
 ### Versions
 
+* [[CSharp12]]
+* [[CSharp11]]
 * **[[CSharp10]]**
 * **[[CSharp9]]**
 * **[[CSharp8]]**
