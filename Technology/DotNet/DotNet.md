@@ -7,6 +7,7 @@
 7. [[Roslyn]]
 8. [[DotNet Tool]]
 9. [[SignalR]]
+10. [[Blazor]]
 
 
 #dotnet

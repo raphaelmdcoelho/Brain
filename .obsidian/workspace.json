@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7a3dc2bf447e78",
+        "id": "6d8dfbb967c459ab",
         "type": "tabs",
         "children": [
           {
-            "id": "69c846905ee27c32",
+            "id": "8500072ee100aa1f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "69c846905ee27c32",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -149,8 +157,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69c846905ee27c32",
+  "active": "8500072ee100aa1f",
   "lastOpenFiles": [
+    "Brain/Technology/Javascript/Tests/Jest.md",
+    "Technology/Javascript/Tests/Jest.md",
+    "Brain/Technology/Javascript/Tests",
+    "Brain/Technology/Javascript",
+    "Brain/Technology",
+    "Brain",
+    "Technology/DotNet/Blazor/Blazor.md",
+    "Technology/DotNet/Blazor/Blazor - Routing and Navigation.md",
+    "Technology/DotNet/Blazor/Blazor - Static files.md",
+    "Technology/DotNet/Blazor/Blazor - Handle errors.md",
+    "Technology/DotNet/Blazor/Blazor - Logging.md",
+    "Technology/DotNet/Blazor/Blazor - Environments.md",
+    "Technology/DotNet/Blazor/Blazor - Startup.md",
+    "Technology/DotNet/Blazor/Blazor - Dependency Injection.md",
+    "Technology/DotNet/Blazor/Blazor - Configuration.md",
+    "Technology/DotNet/Blazor/Blazor - Components.md",
+    "Technology/DotNet/Roslyn.md",
+    "Technology/DotNet/LinQ.md",
+    "Technology/DotNet/Intermediate Language.md",
+    "Technology/DotNet/DotNet Tool.md",
+    "Technology/DotNet/DotNet.md",
+    "Technology/DotNet/Blazor",
     "Technology/DotNet/CSharp/C Sharp.md",
     "Technology/DotNet/CSharp/CSharp12.md",
     "Technology/DotNet/CSharp/Language Basics.md",
@@ -162,33 +192,11 @@
     "Programmers-AI 1.pdf",
     "IA road map.pdf",
     "Technology/Container/Docker/Images/Images.md",
-    "Technology/Container/Docker/Container/Container.md",
     "Brain.zip",
-    "Technology/Frontend/ReactJs/ReactJS.md",
-    "Technology/Frontend/ReactJs/React - Routing.md",
-    "Technology/Frontend/ReactJs/React - Forms.md",
-    "Technology/Container/Docker/Images/docker tag.md",
-    "Technology/Container/Docker/Images/docker save load.md",
-    "Technology/Frontend/ReactJs/React Dev Tools.md",
-    "Technology/Frontend/ReactJs/JSX.md",
-    "Technology/Database/Concepts/SQL/SQL.md",
-    "Technology/Tests/Cypress/Cypress.md",
     "Technology/Tests/Cypress",
-    "Technology/MessageBroker/RabbitMQ/RabbitMQ.md",
     "Technology/MessageBroker/RabbitMQ",
     "Technology/GIT/Images/Pasted image 20231114093911.png",
-    "Technology/Frontend/ReactJs/React Hooks/useEffect.md",
-    "Technology/Frontend/ReactJs/React Hooks/useState.md",
-    "Technology/Frontend/ReactJs/React Hooks/React Hooks.md",
-    "Technology/Frontend/ReactJs/React Hooks",
-    "Technology/DotNet/CSharp/structures/Records.md",
-    "Technology/BASH/bash - curl.md",
-    "Review Calendar/Review Calendar - November.md",
     "Projects/Posts/AWK/BrainStorm.canvas",
-    "Projects/Posts/AWK",
-    "Life Book/Mind/MediumArticles",
-    "Technology/Frontend/ReactJs/Redux",
-    "Technology/DotNet/SignalR",
     "Math/Trigonometry/Images/Pasted image 20231111230727.png",
     "Math/Trigonometry/Images/Pasted image 20231111225132.png",
     "Math/Trigonometry/Images/Pasted image 20231111222126.png",
