@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8dfbb967c459ab",
+        "id": "ff7a3dc2bf447e78",
         "type": "tabs",
         "children": [
           {
-            "id": "8500072ee100aa1f",
+            "id": "69c846905ee27c32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/DotNet/CSharp/structures/Collections/IAsyncEnumerable.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,14 +64,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "69c846905ee27c32",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -89,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/DotNet/CSharp/structures/Collections/IAsyncEnumerable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/DotNet/CSharp/structures/Collections/IAsyncEnumerable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/DotNet/CSharp/structures/Collections/IAsyncEnumerable.md"
+              }
             }
           },
           {
@@ -157,46 +157,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8500072ee100aa1f",
+  "active": "69c846905ee27c32",
   "lastOpenFiles": [
+    "Technology/DotNet/CSharp/structures/Collections/Iterator.md",
+    "Technology/DotNet/CSharp/Keywords/yield.md",
+    "Technology/DotNet/CSharp/structures/Collections/Enumerator.md",
+    "Technology/DotNet/CSharp/structures/Collections/Collections.md",
+    "Technology/DotNet/CSharp/structures/Collections/IEnumerable.md",
+    "Technology/DotNet/CSharp/structures/Collections/IAsyncEnumerable.md",
+    "Technology/DotNet/CSharp/CSharp12.md",
+    "Technology/DotNet/CSharp/CSharp11.md",
+    "Technology/DotNet/Blazor/Blazor.md",
+    "Technology/DotNet/Blazor/Blazor - Static files.md",
+    "Technology/DotNet/Blazor/Blazor - Startup.md",
+    "Technology/DotNet/Blazor/Blazor - Routing and Navigation.md",
+    "Technology/DotNet/Blazor/Blazor - Logging.md",
+    "Technology/DotNet/Blazor/Blazor - Handle errors.md",
+    "Technology/DotNet/Blazor/Blazor - Environments.md",
+    "Technology/DotNet/Blazor/Blazor - Configuration.md",
+    "Technology/DotNet/Blazor/Blazor - Dependency Injection.md",
+    "Technology/DotNet/Blazor/Blazor - Components.md",
+    "Technology/DotNet/Blazor",
     "Brain/Technology/Javascript/Tests/Jest.md",
-    "Technology/Javascript/Tests/Jest.md",
     "Brain/Technology/Javascript/Tests",
     "Brain/Technology/Javascript",
     "Brain/Technology",
     "Brain",
-    "Technology/DotNet/Blazor/Blazor.md",
-    "Technology/DotNet/Blazor/Blazor - Routing and Navigation.md",
-    "Technology/DotNet/Blazor/Blazor - Static files.md",
-    "Technology/DotNet/Blazor/Blazor - Handle errors.md",
-    "Technology/DotNet/Blazor/Blazor - Logging.md",
-    "Technology/DotNet/Blazor/Blazor - Environments.md",
-    "Technology/DotNet/Blazor/Blazor - Startup.md",
-    "Technology/DotNet/Blazor/Blazor - Dependency Injection.md",
-    "Technology/DotNet/Blazor/Blazor - Configuration.md",
-    "Technology/DotNet/Blazor/Blazor - Components.md",
-    "Technology/DotNet/Roslyn.md",
-    "Technology/DotNet/LinQ.md",
-    "Technology/DotNet/Intermediate Language.md",
-    "Technology/DotNet/DotNet Tool.md",
-    "Technology/DotNet/DotNet.md",
-    "Technology/DotNet/Blazor",
-    "Technology/DotNet/CSharp/C Sharp.md",
-    "Technology/DotNet/CSharp/CSharp12.md",
-    "Technology/DotNet/CSharp/Language Basics.md",
-    "Technology/DotNet/CSharp/CSharp11.md",
-    "Technology/DotNet/CSharp/CSharp10.md",
-    "Review Calendar/Review Calendar - October.md",
-    "Technology/Playground/Playground.md",
-    "Review Calendar/Review List.md",
-    "Programmers-AI 1.pdf",
-    "IA road map.pdf",
     "Technology/Container/Docker/Images/Images.md",
+    "Technology/Container/Docker/Container/Container.md",
     "Brain.zip",
+    "Technology/Frontend/ReactJs/ReactJS.md",
+    "Technology/Frontend/ReactJs/React - Routing.md",
+    "Technology/Frontend/ReactJs/React - Forms.md",
+    "Technology/Container/Docker/Images/docker tag.md",
+    "Technology/Container/Docker/Images/docker save load.md",
     "Technology/Tests/Cypress",
     "Technology/MessageBroker/RabbitMQ",
     "Technology/GIT/Images/Pasted image 20231114093911.png",
+    "Technology/Frontend/ReactJs/React Hooks",
     "Projects/Posts/AWK/BrainStorm.canvas",
+    "Projects/Posts/AWK",
     "Math/Trigonometry/Images/Pasted image 20231111230727.png",
     "Math/Trigonometry/Images/Pasted image 20231111225132.png",
     "Math/Trigonometry/Images/Pasted image 20231111222126.png",

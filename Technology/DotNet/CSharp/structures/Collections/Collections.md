@@ -1,4 +1,6 @@
 * [[IEnumerable]]
-* [[IIterator]]
+* [[Iterator]]
+* [[Enumerator]]
+* [[IAsyncEnumerable]]
 
-#dotnet #csharp 
+#dotnet #csharp #collections
