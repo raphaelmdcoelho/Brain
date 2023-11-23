@@ -1,5 +1,9 @@
 ```bash
-if [ ! -e ./*.sql ]; the echo "message"; fi`
+if [ ! -e ./*.sql ]; then echo "message"; fi`
+```
+
+```bash
+if [ 1 -eq 2 ]; then echo "is equal"; else echo "not equal"; fi;
 ```
 
 ```bash

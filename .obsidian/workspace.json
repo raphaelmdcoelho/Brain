@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a3283e9d848c19b3",
+        "id": "f760491a27a2b188",
         "type": "tabs",
         "children": [
           {
-            "id": "a05a063708069688",
+            "id": "e4eba40db44c5c10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/find.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc14f324262dfe93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/For statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c96b354562248d51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/Xargs/Xargs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aea2c7ca78d0e7df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/Bash functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5577a769f1083a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/head & tail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61115cdf91382670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/Environment Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef45ad52b681b612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/AWK/AWK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7163d952f5072090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/grep.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/BASH/Xargs/Xargs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/BASH/Xargs/Xargs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/BASH/Xargs/Xargs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -242,34 +149,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c96b354562248d51",
+  "active": "e4eba40db44c5c10",
   "lastOpenFiles": [
-    "Technology/BASH/find.md",
     "Technology/BASH/Bash.md",
-    "Technology/BASH/Xargs/Xargs.md",
-    "Technology/BASH/For statement.md",
-    "Technology/BASH/Bash functions.md",
-    "Technology/BASH/head & tail.md",
-    "Technology/BASH/Environment Variable.md",
-    "Technology/BASH/AWK/AWK.md",
-    "Technology/BASH/grep.md",
-    "Technology/BASH/Arithmetic.md",
-    "Technology/BASH/CommandLineInterfaceProgram/XClip.md",
-    "Technology/BASH/clip.md",
-    "Technology/BASH/Sleep.md",
-    "Technology/BASH/Command Channing.md",
-    "Technology/BASH/Pipe.md",
-    "Technology/BASH/While statment.md",
-    "Technology/BASH/Alias.md",
     "Technology/BASH/If statment.md",
-    "Technology/BASH/Redirection.md",
-    "Technology/DotNet/CSharp/C Sharp.md",
-    "Technology/DotNet/CSharp/structures/Dynamic Link Library.md",
-    "Technology/DotNet/CSharp/Concepts/Reflection.md",
-    "Technology/DotNet/Blazor/Blazor - Environments.md",
-    "Technology/DotNet/Blazor/Blazor - Handle errors.md",
-    "Technology/DotNet/DotNet.md",
-    "Technology/DotNet/Libraries/Autofac/Autofac.md",
+    "Technology/BASH/Alias.md",
+    "Technology/BASH/Bash - sort.md",
+    "Technology/BASH/bash - curl.md",
+    "Technology/Computing/NumericSystem/Binary/Bitwise Operator.md",
+    "Technology/BASH/dos2unix.md",
+    "Technology/BASH/Test Command.md",
+    "Technology/BASH/Sed.md",
+    "Technology/BASH/Xargs/Xargs.md",
+    "Technology/BASH/AWK/AWK.md",
+    "Technology/BASH/AWK/Advanced Control Flow.md",
+    "Technology/BASH/AWK/Field Separators.md",
+    "Technology/BASH/AWK/Two-way I O.md",
+    "Technology/BASH/AWK/Built-in Functions.md",
+    "Technology/BASH/AWK/User-Defined Functions.md",
+    "Technology/BASH/AWK/Associative arrays.md",
+    "Technology/BASH/AWK/Execute multiple blocks or files.md",
+    "Technology/BASH/AWK/Special Blocks.md",
+    "Technology/BASH/Bash functions.md",
+    "Technology/BASH/Environment Variable.md",
+    "Technology/BASH/While statment.md",
+    "Technology/BASH/grep.md",
+    "Technology/BASH/head & tail.md",
+    "Technology/BASH/For statement.md",
+    "Technology/BASH/find.md",
     "Technology/Frontend/ReactJs/ChakraUI",
     "Technology/DotNet/Blazor",
     "Brain/Technology/Javascript/Tests",
