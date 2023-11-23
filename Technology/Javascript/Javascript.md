@@ -1,5 +1,3 @@
-- [[Node]]
-
 ***Classes***
 
 - [[Object]]
@@ -12,10 +10,15 @@
 
 ***Tests***
 
-*** Operators ***
+- [[Jest]]
+
+***Operators***
 
 * [[double exclamation mark]]
 
-- [[Brain/Technology/Javascript/Tests/Jest|Jest]]
+***Frameworks***
+
+* [[Bun]]
+* [[Node]]
 
 #javascript 
