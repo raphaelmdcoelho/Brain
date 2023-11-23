@@ -4,22 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7a3dc2bf447e78",
+        "id": "a3283e9d848c19b3",
         "type": "tabs",
         "children": [
           {
-            "id": "69c846905ee27c32",
+            "id": "a05a063708069688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Frontend/ReactJs/ChakraUI/ChakraUI.md",
+                "file": "Technology/BASH/find.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc14f324262dfe93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/For statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c96b354562248d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/Xargs/Xargs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aea2c7ca78d0e7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/Bash functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5577a769f1083a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/head & tail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61115cdf91382670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/Environment Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef45ad52b681b612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/AWK/AWK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7163d952f5072090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/grep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Frontend/ReactJs/ChakraUI/ChakraUI.md",
+                "file": "Technology/BASH/Xargs/Xargs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Frontend/ReactJs/ChakraUI/ChakraUI.md",
+                "file": "Technology/BASH/Xargs/Xargs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Frontend/ReactJs/ChakraUI/ChakraUI.md"
+                "file": "Technology/BASH/Xargs/Xargs.md"
               }
             }
           },
@@ -157,36 +242,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69c846905ee27c32",
+  "active": "c96b354562248d51",
   "lastOpenFiles": [
-    "Technology/Frontend/ReactJs/ChakraUI/ChakraUI - Flex.md",
-    "Technology/Frontend/ReactJs/ChakraUI/ChakraUI.md",
-    "Technology/Frontend/ReactJs/React Hooks/Custom Hooks.md",
-    "Technology/Frontend/ReactJs/ChakraUI",
-    "Technology/Frontend/ReactJs/React Hooks/React Hooks.md",
-    "Technology/Frontend/ReactJs/Redux/Dispatching Actions.md",
-    "Technology/Frontend/ReactJs/Redux/Redux.md",
-    "Technology/Frontend/ReactJs/ReactJS.md",
-    "Technology/DotNet/CSharp/structures/Collections/IAsyncEnumerable.md",
-    "Technology/DotNet/CSharp/structures/Collections/Iterator.md",
-    "Technology/DotNet/CSharp/Keywords/yield.md",
-    "Technology/DotNet/CSharp/structures/Collections/Enumerator.md",
-    "Technology/DotNet/CSharp/structures/Collections/Collections.md",
-    "Technology/DotNet/CSharp/structures/Collections/IEnumerable.md",
-    "Technology/DotNet/CSharp/CSharp12.md",
-    "Technology/DotNet/CSharp/CSharp11.md",
-    "Technology/DotNet/Blazor/Blazor.md",
-    "Technology/DotNet/Blazor/Blazor - Static files.md",
-    "Technology/DotNet/Blazor/Blazor - Startup.md",
-    "Technology/DotNet/Blazor/Blazor - Routing and Navigation.md",
-    "Technology/DotNet/Blazor/Blazor - Logging.md",
-    "Technology/DotNet/Blazor/Blazor - Handle errors.md",
+    "Technology/BASH/find.md",
+    "Technology/BASH/Bash.md",
+    "Technology/BASH/Xargs/Xargs.md",
+    "Technology/BASH/For statement.md",
+    "Technology/BASH/Bash functions.md",
+    "Technology/BASH/head & tail.md",
+    "Technology/BASH/Environment Variable.md",
+    "Technology/BASH/AWK/AWK.md",
+    "Technology/BASH/grep.md",
+    "Technology/BASH/Arithmetic.md",
+    "Technology/BASH/CommandLineInterfaceProgram/XClip.md",
+    "Technology/BASH/clip.md",
+    "Technology/BASH/Sleep.md",
+    "Technology/BASH/Command Channing.md",
+    "Technology/BASH/Pipe.md",
+    "Technology/BASH/While statment.md",
+    "Technology/BASH/Alias.md",
+    "Technology/BASH/If statment.md",
+    "Technology/BASH/Redirection.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
+    "Technology/DotNet/CSharp/structures/Dynamic Link Library.md",
+    "Technology/DotNet/CSharp/Concepts/Reflection.md",
     "Technology/DotNet/Blazor/Blazor - Environments.md",
-    "Technology/DotNet/Blazor/Blazor - Configuration.md",
-    "Technology/DotNet/Blazor/Blazor - Dependency Injection.md",
-    "Technology/DotNet/Blazor/Blazor - Components.md",
+    "Technology/DotNet/Blazor/Blazor - Handle errors.md",
+    "Technology/DotNet/DotNet.md",
+    "Technology/DotNet/Libraries/Autofac/Autofac.md",
+    "Technology/Frontend/ReactJs/ChakraUI",
     "Technology/DotNet/Blazor",
-    "Brain/Technology/Javascript/Tests/Jest.md",
     "Brain/Technology/Javascript/Tests",
     "Brain/Technology/Javascript",
     "Brain/Technology",

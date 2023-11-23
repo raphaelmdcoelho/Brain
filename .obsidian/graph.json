@@ -43,13 +43,6 @@
       }
     },
     {
-      "query": "#rust",
-      "color": {
-        "a": 1,
-        "rgb": 8345104
-      }
-    },
-    {
       "query": "#database",
       "color": {
         "a": 1,
@@ -76,6 +69,13 @@
         "a": 1,
         "rgb": 13855767
       }
+    },
+    {
+      "query": "#rust",
+      "color": {
+        "a": 1,
+        "rgb": 5511802
+      }
     }
   ],
   "collapse-display": true,
@@ -85,9 +85,9 @@
   "lineSizeMultiplier": 1.29947916666667,
   "collapse-forces": false,
   "centerStrength": 0.697916666666667,
-  "repelStrength": 11.1458333333333,
+  "repelStrength": 11.3541666666667,
   "linkStrength": 0.802083333333333,
   "linkDistance": 30,
-  "scale": 0.22920135941749625,
-  "close": false
+  "scale": 0.22920135941749814,
+  "close": true
 }

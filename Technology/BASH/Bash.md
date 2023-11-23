@@ -57,6 +57,11 @@ The [[clip]] keyword copy a content to the clipboard.
 
 <hr>
 
+### XClip
+
+The [[xclip]] keyword copy a content to the clipboard.
+
+<hr>
 ### Arithmetic
 
 It's possible to executes [[Arithmetic]] expressions and operations in command line through shell scripts.
@@ -142,5 +147,11 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 ### dos2unix
 
 * [[dos2unix]]
+
+<hr>
+
+### find
+
+* [[find]]
 
 #bash 

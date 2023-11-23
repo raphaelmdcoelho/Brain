@@ -8,6 +8,8 @@
 8. [[DotNet Tool]]
 9. [[SignalR]]
 10. [[Blazor]]
-
+11. [[Dapper]]
+12. [[Autofac]]
+13. [[Bogus]]
 
 #dotnet

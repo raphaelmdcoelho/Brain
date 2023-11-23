@@ -9,4 +9,12 @@ grep -rl "apple" . | xargs wc -l
 cat users.txt | awk '{print $1}' | xargs -I {} usermod -aG developers {}
 ```
 
+```bash
+for number in {1..5}; do echo "hello $number" > file$number.txt; done
+
+find /home/raphaelcoelho -type f -name "*.txt" -not -path "/home/raphaelcoelho/.*/*"
+
+ ~ find /home/raphaelcoelho -type f -name "*.txt" -not -path "/home/raphaelcoelho/.*/*" | xargs cat
+```
+
 #bash 

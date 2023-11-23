@@ -8,6 +8,7 @@
 * [[Top-level statements]]
 * [[File-scoped namespaces]]
 * [[Minimal-API]]
+* [[Reflection]]
 ### Versions
 
 * [[CSharp12]]
@@ -43,6 +44,7 @@
 * [[Configuration]]
 * [[Expressions Tree]]
 * [[Records]]
+* [[Dynamic Link Library]]
 
 <hr>
 
