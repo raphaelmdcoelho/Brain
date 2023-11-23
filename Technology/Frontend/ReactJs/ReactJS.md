@@ -6,6 +6,7 @@ When a web page is load into the browser (html). The browser gets the HTML code 
 React use **components** to create and update DOM. 
 A React Application is a tree composed of component with a App component as root.
 
+* [[JSX]]
 ### Create a React App
 
 **Create React APP - (CRA)**

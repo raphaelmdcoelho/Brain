@@ -13,6 +13,7 @@
 - [[TRIGGER]]
 - [[STORE PROCEDURE]]
 - [[VIEW]]
+- [[INDEX]]
 
 ### Features
 

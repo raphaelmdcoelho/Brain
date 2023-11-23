@@ -4,5 +4,6 @@
 * [[Calculus]]
 * [[Functions]]
 * [[Trigonometry]]
+* [[Geometry]]
 
 #math
