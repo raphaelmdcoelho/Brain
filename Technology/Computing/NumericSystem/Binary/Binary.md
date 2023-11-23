@@ -22,4 +22,4 @@ xxd file.txt (hexadecimal)
 
 * [[Bitwise Operator]]
 
-#numericsystem
+#numericsystem #computing

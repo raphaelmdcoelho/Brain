@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "#git",
@@ -95,7 +95,7 @@
       "query": "#computing",
       "color": {
         "a": 1,
-        "rgb": 15519644
+        "rgb": 15307854
       }
     },
     {
@@ -116,6 +116,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.16348370567220558,
+  "scale": 0.22920135941749595,
   "close": true
 }

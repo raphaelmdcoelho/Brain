@@ -1,6 +1,5 @@
 
-[[DNS]]
-
-[[VPN]]
+* [[DNS]]
+* [[VPN]]
 
 #computing #network
