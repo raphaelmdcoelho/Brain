@@ -11,8 +11,60 @@
             "id": "e4eba40db44c5c10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/GIT/GIT - Reset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eea271ee81640eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/GIT/Working Directory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e2b511b9fb6b39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/GIT/Staging Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b107e878e44407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/GIT/Commit history.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "534d856d71b962da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/GIT/GIT - Checkout.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/GIT/GIT - Reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/GIT/GIT - Reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/GIT/GIT - Reset.md"
+              }
             }
           },
           {
@@ -151,6 +207,15 @@
   },
   "active": "e4eba40db44c5c10",
   "lastOpenFiles": [
+    "Technology/GIT/Commit history.md",
+    "Technology/GIT/Staging Index.md",
+    "Technology/GIT/Working Directory.md",
+    "Technology/GIT/GIT - Checkout.md",
+    "Technology/GIT/GIT - Reset.md",
+    "Technology/GIT/GIT.md",
+    "Technology/BASH/AWK/AWK.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
+    "Brain.zip",
     "Technology/Javascript/Javascript.md",
     "Technology/Tests/Jest/Jest.md",
     "Technology/Javascript/Tests/Jest.md",
@@ -169,15 +234,6 @@
     "Technology/Computing/Authentication/Cookie.md",
     "Technology/Computing/Authentication/JWT.md",
     "Technology/Computing/Standards/OAUTH 2.0.md",
-    "Technology/Computing/Protocols/OpenID.md",
-    "Technology/Computing/Design Patterns/Design Patterns.md",
-    "Technology/Computing/Design Patterns/Pattern - Flyweight.md",
-    "Technology/Computing/Design Patterns/Pattern - Adapter.md",
-    "Technology/Computing/Design Patterns/Pattern - Prototype.md",
-    "Technology/Computing/Design Patterns/Pattern - Builder.md",
-    "Technology/Computing/Design Patterns/Patern - Singleton.md",
-    "Technology/Computing/Design Patterns/Pattern - Abstract Factory.md",
-    "Brain.zip",
     "Technology/Frontend/ReactJs/ChakraUI",
     "Technology/DotNet/Blazor",
     "Brain/Technology/Javascript/Tests",

@@ -50,11 +50,11 @@ Git's internal state management systems is called Git's **"three trees"**. Trees
 
 <hr>
 
-* [[git checkout]]
+* [[GIT - Checkout]]
 
 <hr>
 
-* [[git reset]]
+* [[GIT - Reset]]
 
 <hr>
 
