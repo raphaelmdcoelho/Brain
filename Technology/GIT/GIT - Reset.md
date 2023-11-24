@@ -1,4 +1,4 @@
-***git reset*** is a similar command as ***git checkout***.
+***git reset*** is a **similar** command as ***git checkout***.
 
 `git checkout` solely operates on the `HEAD` ref pointer, `git reset` will move the `HEAD` ref pointer and the current branch ref pointer. To better demonstrate this behavior consider the following example:
 
