@@ -31,4 +31,28 @@ This is the most direct, <mark>DANGEROUS</mark>, and frequently used option. Whe
 
 This is the default operating mode. The ref pointers are updated. The [[Staging Index]] is reset to the state of the specified commit. Any changes that have been undone from the Staging Index are moved to the [[Working Directory]].
 
+### --soft
+
+With the soft parameter, is possible to move one or a set of commits to the index area. So with that is possible to make many commits as one, for example.
+
+### Examples
+
+**Discharge changes**
+
+```bash
+git reset --hard main
+```
+
+**Unstage changes**
+
+```bash
+git reset [--mixed]
+```
+
+**Move commited changes to Index**
+
+```bash
+git reset --soft HEAD~3
+```
+
 #git 
