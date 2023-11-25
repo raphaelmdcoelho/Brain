@@ -35,8 +35,12 @@
             "id": "bf91f28d823fdd80",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/GIT/Git - Bisect.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/GIT/Git - Bisect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/GIT/Git - Bisect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/GIT/Git - Bisect.md"
+              }
             }
           },
           {
@@ -200,33 +208,33 @@
   },
   "active": "bf91f28d823fdd80",
   "lastOpenFiles": [
-    "Technology/GIT/GIT - CherryPick.md",
-    "Technology/GIT/GIT.md",
+    "Technology/GIT/GIT - Tree.md",
+    "Technology/GIT/Git - Stash.md",
+    "Technology/GIT/Git - Revert.md",
     "Technology/GIT/GIT - Reset.md",
-    "Technology/GIT/Git - Commit.md",
-    "Technology/GIT/GIT - Diff.md",
     "Technology/GIT/GIT - Reflog.md",
+    "Technology/GIT/GIT - Rebase.md",
+    "Technology/GIT/GIT - Merge.md",
     "Technology/GIT/Git - Log.md",
+    "Technology/GIT/GIT - Diff.md",
     "Technology/GIT/GIT - Configuration.md",
+    "Technology/GIT/Git - Bisect.md",
+    "Technology/GIT/GIT - Branch.md",
+    "Technology/GIT/GIT - Checkout.md",
+    "Technology/GIT/GIT - CherryPick.md",
+    "Technology/GIT/GIT - Clean.md",
+    "Technology/GIT/Git - Commit.md",
     "Technology/GIT/Staging Index.md",
+    "Technology/GIT/gitk.md",
+    "Technology/GIT/GIT.md",
     "Technology/Database/Database.md",
     "Technology/BASH/find.md",
     "Technology/GIT/Working Directory.md",
-    "Technology/GIT/GIT - Checkout.md",
     "Technology/GIT/Commit history.md",
     "Technology/Frontend/ReactJs/ChakraUI/ChakraUI.md",
     "Technology/Frontend/ReactJs/ChakraUI/ChakraUI - Flex.md",
     "Technology/Frontend/ReactJs/React Hooks/Custom Hooks.md",
     "Technology/Frontend/ReactJs/ChakraUI",
-    "Technology/Frontend/ReactJs/React Hooks/React Hooks.md",
-    "Technology/Frontend/ReactJs/Redux/Dispatching Actions.md",
-    "Technology/Frontend/ReactJs/Redux/Redux.md",
-    "Technology/Frontend/ReactJs/ReactJS.md",
-    "Technology/DotNet/CSharp/structures/Collections/IAsyncEnumerable.md",
-    "Technology/DotNet/CSharp/structures/Collections/Iterator.md",
-    "Technology/DotNet/CSharp/Keywords/yield.md",
-    "Technology/DotNet/CSharp/structures/Collections/Enumerator.md",
-    "Technology/DotNet/CSharp/structures/Collections/Collections.md",
     "Technology/DotNet/Blazor",
     "Brain/Technology/Javascript/Tests",
     "Brain/Technology/Javascript",

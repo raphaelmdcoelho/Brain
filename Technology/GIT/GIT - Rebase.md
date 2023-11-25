@@ -10,6 +10,10 @@ The primary reason for rebasing is to maintain a linear project history.
 
 You should <mark>NEVER</mark> rebase commits once they've been pushed to a public repository.
 
+### Iteractive
 
+```bash
+git rebase -i HEAD~3
+```
 
 #git 

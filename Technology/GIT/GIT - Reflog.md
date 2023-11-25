@@ -1,2 +1,6 @@
 
+```bash
+git reflog
+```
+
 #git 

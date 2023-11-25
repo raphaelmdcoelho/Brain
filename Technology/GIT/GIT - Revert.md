@@ -1,3 +1,5 @@
-- git revert "hash"
+```bash
+git revert <commit-hash>
+```
 
 #git 

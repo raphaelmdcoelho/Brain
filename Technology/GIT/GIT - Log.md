@@ -1,4 +1,7 @@
-- git log --oneline
-- git log --graph --oneline --decorate
+
+```bash
+git log --oneline
+git log --graph --oneline --decorate
+```
 
 #git 

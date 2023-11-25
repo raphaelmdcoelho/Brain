@@ -1,4 +1,6 @@
-- git clean -df (remove untracked files)
-- git check-out -
+
+```bash
+git clean -df (remove untracked files)
+```
 
 #git 
