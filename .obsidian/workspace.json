@@ -8,67 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69c846905ee27c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/GIT/GIT - Reset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39f121c181ef4d10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/GIT/Working Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bf91f28d823fdd80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/GIT/Git - Bisect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec658d397c864696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/GIT/Commit history.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "954d88772a2941bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/GIT/GIT - Checkout.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/GIT/Git - Bisect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/GIT/Git - Bisect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/GIT/Git - Bisect.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,6 +151,16 @@
   },
   "active": "bf91f28d823fdd80",
   "lastOpenFiles": [
+    "Language/English/Past Modals.md",
+    "Language/English/English.md",
+    "Language/English/Modal Verbs.md",
+    "Language/English/ENG - Pronoun tips.md",
+    "Language/English/Connectors.md",
+    "Language/English/ENG - VOCAB - Food.md",
+    "Language/English/ENG - VOCAB - Movements.md",
+    "Language/English/Tenses/Past Perfect tense.md",
+    "Language/English/Tenses/Present Perfect tense.md",
+    "Technology/GIT/Git - Bisect.md",
     "Technology/GIT/GIT - Tree.md",
     "Technology/GIT/Git - Stash.md",
     "Technology/GIT/Git - Revert.md",
@@ -218,22 +171,12 @@
     "Technology/GIT/Git - Log.md",
     "Technology/GIT/GIT - Diff.md",
     "Technology/GIT/GIT - Configuration.md",
-    "Technology/GIT/Git - Bisect.md",
     "Technology/GIT/GIT - Branch.md",
     "Technology/GIT/GIT - Checkout.md",
     "Technology/GIT/GIT - CherryPick.md",
     "Technology/GIT/GIT - Clean.md",
     "Technology/GIT/Git - Commit.md",
     "Technology/GIT/Staging Index.md",
-    "Technology/GIT/gitk.md",
-    "Technology/GIT/GIT.md",
-    "Technology/Database/Database.md",
-    "Technology/BASH/find.md",
-    "Technology/GIT/Working Directory.md",
-    "Technology/GIT/Commit history.md",
-    "Technology/Frontend/ReactJs/ChakraUI/ChakraUI.md",
-    "Technology/Frontend/ReactJs/ChakraUI/ChakraUI - Flex.md",
-    "Technology/Frontend/ReactJs/React Hooks/Custom Hooks.md",
     "Technology/Frontend/ReactJs/ChakraUI",
     "Technology/DotNet/Blazor",
     "Brain/Technology/Javascript/Tests",
