@@ -14,7 +14,7 @@ for number in {1..5}; do echo "hello $number" > file$number.txt; done
 
 find /home/raphaelcoelho -type f -name "*.txt" -not -path "/home/raphaelcoelho/.*/*"
 
- ~ find /home/raphaelcoelho -type f -name "*.txt" -not -path "/home/raphaelcoelho/.*/*" | xargs cat
+ ~ find /home/raphaelcoelho -type f -name "*.txt" -not -path "/home/raphaelcoelho/.*/*" | xargs cat | sort
  
 find /home/raphaelcoelho/teste1 -type f -name "*.txt" -not -path "home/raphaelcoelho/.*" | xargs cat | awk "/1/ {print}"
 ```
