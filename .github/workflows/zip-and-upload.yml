@@ -1,11 +1,24 @@
 name: ZIP and Upload to Drive
+
 on:
   push:
     branches: [ main ]
+
 jobs:
-  build:
+  zip-and-upload:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+
+    - name: Install Python dependencies
+      run: pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
     - name: Zip Markdown files excluding .git
       run: zip -r markdown_files.zip . -x "*.git*"
+
+    - name: Set up Google Drive credentials
+      run: |
+        echo "${{ secrets.GOOGLE_DRIVE_UPLOAD }}" > credentials.json
+
+    - name: Upload ZIP to Google Drive
+      run: python upload_to_drive.py
