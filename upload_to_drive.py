@@ -22,4 +22,4 @@ def upload_file(filename, filepath, mimetype, folder_id):
 
 # Call the function with the folder ID
 folder_id = '1dQiC-8K0yjKZMuQ97Q87JfUsgg1lBGpI'  # Replace with your actual folder ID
-upload_file('markdown_files.zip', 'markdown_files.zip', 'application/zip', folder_id)
+upload_file('Brain.zip', 'Brain.zip', 'application/zip', folder_id)
