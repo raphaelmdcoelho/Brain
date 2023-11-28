@@ -10,11 +10,16 @@ def get_drive_service():
     )
     return build('drive', 'v3', credentials=creds)
 
-def upload_file(filename, filepath, mimetype):
+def upload_file(filename, filepath, mimetype, folder_id):
     service = get_drive_service()
-    file_metadata = {'name': filename}
+    file_metadata = {
+        'name': filename,
+        'parents': [folder_id]  # Add the folder ID here
+    }
     media = MediaFileUpload(filepath, mimetype=mimetype)
     file = service.files().create(body=file_metadata, media_body=media, fields='id').execute()
     print(f"File ID: {file.get('id')}")
 
-upload_file('markdown_files.zip', 'markdown_files.zip', 'application/zip')
+# Call the function with the folder ID
+folder_id = '1dQiC-8K0yjKZMuQ97Q87JfUsgg1lBGpI'  # Replace with your actual folder ID
+upload_file('markdown_files.zip', 'markdown_files.zip', 'application/zip', folder_id)
