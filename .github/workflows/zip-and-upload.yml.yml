@@ -1,0 +1,11 @@
+name: ZIP and Upload to Drive
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Zip Markdown files excluding .git
+      run: zip -r markdown_files.zip . -x "*.git*"
