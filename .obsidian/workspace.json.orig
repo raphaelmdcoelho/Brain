@@ -11,8 +11,17 @@
             "id": "bf91f28d823fdd80",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "graph",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/Xargs/Xargs.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> plap-bash
             }
           }
         ]
@@ -81,6 +90,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Technology/BASH/Xargs/Xargs.md",
+>>>>>>> plap-bash
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Technology/BASH/Xargs/Xargs.md",
+>>>>>>> plap-bash
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Technology/BASH/Xargs/Xargs.md"
+              }
+>>>>>>> plap-bash
             }
           },
           {
@@ -151,32 +174,56 @@
   },
   "active": "bf91f28d823fdd80",
   "lastOpenFiles": [
-    "Technology/BASH/Xargs/Xargs.md",
-    "Language/English/House vocabulary.md",
-    "Language/English/Tenses/Past Perfect tense.md",
+<<<<<<< HEAD
     "Language/English/Past Modals.md",
+    "Language/English/English.md",
     "Language/English/Modal Verbs.md",
-    "Language/English/ENG - VOCAB - Movements.md",
-    "Language/English/ENG - VOCAB - House.md",
-    "Language/English/ENG - VOCAB - Food.md",
     "Language/English/ENG - Pronoun tips.md",
     "Language/English/Connectors.md",
+    "Language/English/ENG - VOCAB - Food.md",
+    "Language/English/ENG - VOCAB - Movements.md",
+    "Language/English/Tenses/Past Perfect tense.md",
+    "Language/English/Tenses/Present Perfect tense.md",
+    "Technology/GIT/Git - Bisect.md",
+    "Technology/GIT/GIT - Tree.md",
+    "Technology/GIT/Git - Stash.md",
+=======
     "Technology/BASH/Bash.md",
     "Technology/GIT/gitk.md",
     "Excalidraw/Playground-test.md",
+>>>>>>> plap-bash
     "Technology/GIT/Git - Revert.md",
     "Technology/GIT/GIT - Configuration.md",
     "Technology/GIT/GIT - Reset.md",
+    "Language/English/House vocabulary.md",
     "Technology/GIT/GIT - Rebase.md",
     "Technology/GIT/GIT - Merge.md",
     "Technology/GIT/Git - Log.md",
+<<<<<<< HEAD
+    "Technology/GIT/GIT - Diff.md",
+    "Technology/GIT/GIT - Configuration.md",
+=======
     "Technology/GIT/Git - Bisect.md",
+>>>>>>> plap-bash
     "Technology/GIT/GIT - Branch.md",
     "Technology/GIT/GIT - Clean.md",
     "Technology/GIT/Git - Commit.md",
+<<<<<<< HEAD
+    "Technology/GIT/Staging Index.md",
+=======
     "Technology/GIT/GIT - Diff.md",
+    "Language/English/Past Modals.md",
     "Language/English/English.md",
+    "Language/English/Modal Verbs.md",
+    "Language/English/ENG - Pronoun tips.md",
+    "Language/English/Connectors.md",
+    "Language/English/ENG - VOCAB - Food.md",
+    "Language/English/ENG - VOCAB - Movements.md",
+    "Language/English/Tenses/Past Perfect tense.md",
     "Language/English/Tenses/Present Perfect tense.md",
+    "Technology/GIT/GIT - Tree.md",
+    "Technology/GIT/Git - Stash.md",
+>>>>>>> plap-bash
     "Technology/Frontend/ReactJs/ChakraUI",
     "Technology/DotNet/Blazor",
     "Brain/Technology/Javascript/Tests",
