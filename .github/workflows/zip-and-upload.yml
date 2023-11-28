@@ -16,11 +16,10 @@ jobs:
     - name: Zip Markdown files excluding .git
       run: zip -r markdown_files.zip . -x "*.git*"
 
-    - name: Set up Google Drive credentials
+    - name: Set up Google Drive service account
       run: |
-        echo "$GOOGLE_DRIVE_UPLOAD" > credentials.json
-      env:
-        GOOGLE_DRIVE_UPLOAD: ${{ secrets.GOOGLE_DRIVE_UPLOAD }}
+        echo "${{ secrets.GOOGLE_DRIVE_SERVICE_ACCOUNT }}" | base64 -d > service_account.json
+    
 
 
     - name: Upload ZIP to Google Drive
