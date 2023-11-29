@@ -11,14 +11,14 @@
       "query": "#git",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16737894
       }
     },
     {
       "query": "#awk",
       "color": {
         "a": 1,
-        "rgb": 2382635
+        "rgb": 2188074
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "#container",
       "color": {
         "a": 1,
-        "rgb": 65535
+        "rgb": 2565298
       }
     },
     {
@@ -40,13 +40,6 @@
       "color": {
         "a": 1,
         "rgb": 16514816
-      }
-    },
-    {
-      "query": "#rust",
-      "color": {
-        "a": 1,
-        "rgb": 8345104
       }
     },
     {
@@ -67,14 +60,63 @@
       "query": "#javascript",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 16711850
       }
     },
     {
       "query": "#reactjs",
       "color": {
         "a": 1,
-        "rgb": 13855767
+        "rgb": 4644347
+      }
+    },
+    {
+      "query": "#rust",
+      "color": {
+        "a": 1,
+        "rgb": 5511802
+      }
+    },
+    {
+      "query": "#math",
+      "color": {
+        "a": 1,
+        "rgb": 6836514
+      }
+    },
+    {
+      "query": "#angular",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "#computing",
+      "color": {
+        "a": 1,
+        "rgb": 15307854
+      }
+    },
+    {
+      "query": "#nextjs",
+      "color": {
+        "a": 1,
+        "rgb": 5787728
+      }
+    },
+    {
+      "query": "#lifebook",
+      "color": {
+        "a": 1,
+        "rgb": 1064790
+      }
+    },
+    {
+      "query": "#english",
+      "color": {
+        "a": 1,
+        "rgb": 751975
       }
     }
   ],
@@ -84,10 +126,10 @@
   "nodeSizeMultiplier": 0.844646875,
   "lineSizeMultiplier": 1.29947916666667,
   "collapse-forces": false,
-  "centerStrength": 0.697916666666667,
-  "repelStrength": 11.1458333333333,
-  "linkStrength": 0.802083333333333,
+  "centerStrength": 0.695426195426195,
+  "repelStrength": 11.25,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2494036862192247,
+  "scale": 0.16348370567221093,
   "close": true
 }

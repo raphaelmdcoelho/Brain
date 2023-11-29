@@ -235,6 +235,7 @@ const Alert = ({ children }: Props) => {
 ### Tools
 
 * [[React Dev Tools]]
+* [[ChakraUI]]
 
 #frontend #reactjs
  

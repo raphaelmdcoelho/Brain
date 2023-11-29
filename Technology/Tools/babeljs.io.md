@@ -1,4 +1,4 @@
-Finds out how a [[JSX]] code will be render.
+Finds out how a `JSX` code will be render.
 
 * https://babeljs.io
 
