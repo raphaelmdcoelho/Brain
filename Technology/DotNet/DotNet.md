@@ -11,5 +11,6 @@
 11. [[Dapper]]
 12. [[Autofac]]
 13. [[Bogus]]
+14. [[Migrations]]
 
 #dotnet
