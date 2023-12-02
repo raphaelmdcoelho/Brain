@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7a3dc2bf447e78",
+        "id": "f6ea7974b36e87c1",
         "type": "tabs",
         "children": [
           {
-            "id": "bf91f28d823fdd80",
+            "id": "5841e14b5f7bd7eb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/C/C.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/C/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/C/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/C/C.md"
+              }
             }
           },
           {
@@ -149,38 +157,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf91f28d823fdd80",
+  "active": "5841e14b5f7bd7eb",
   "lastOpenFiles": [
-    "Technology/Computing/Algorithms/Algorithms.md",
-    "Technology/Computing/Algorithms/Sort Algorithms.md",
-    "Technology/Computing/Algorithms/Merge sort.md",
-    "Technology/Computing/Algorithms/Bubble sort.md",
-    "Technology/Computing/Algorithms/Quick sort.md",
-    "Technology/Computing/Algorithms/Search Algorithms.md",
-    "Technology/Computing/Algorithms/Binary Search.md",
-    "Technology/DotNet/DotNet.md",
+    "Technology/Computing/NumericSystem/Binary/Binary.md",
+    "Technology/C/C.md",
+    "Technology/BASH/Sed.md",
+    "Technology/BASH/Bash.md",
+    "Technology/BASH/Environment Variable.md",
+    "Technology/BASH/AWK/AWK.md",
+    "Technology/BASH/Arithmetic.md",
+    "Technology/BASH/CommandLineInterfaceProgram/XClip.md",
+    "Technology/BASH/clip.md",
+    "Technology/BASH/Sleep.md",
+    "Technology/BASH/Command Channing.md",
+    "Technology/BASH/Pipe.md",
+    "Technology/BASH/While statment.md",
+    "Technology/BASH/Alias.md",
+    "Technology/BASH/If statment.md",
+    "Technology/BASH/For statement.md",
+    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
+    "Technology/BASH/AWK/User-Defined Functions.md",
+    "Technology/BASH/AWK/Add awk result to a new file.md",
+    "Technology/BASH/AWK/Execute multiple blocks or files.md",
+    "Technology/BASH/AWK/Special Blocks.md",
+    "Technology/BASH/AWK/Built-in Variables.md",
+    "Technology/BASH/AWK/Associative arrays.md",
     "Technology/DotNet/Migrations.md",
-    "Technology/DotNet/Intermediate Language.md",
-    "Technology/Frontend/Styles/CSS/ng-deep.md",
-    "Technology/Frontend/Styles/CSS/CSS - Units.md",
-    "Technology/Frontend/Styles/CSS/CSS - Overflow.md",
-    "Language/English/Tenses/Present Perfect tense.md",
-    "Language/English/Verbs/Deal.md",
+    "Technology/Computing/Algorithms/Sort Algorithms.md",
+    "Technology/Computing/Algorithms/Search Algorithms.md",
     "Language/English/Verbs",
     "Language/English/Vocabulary",
-    "Language/English/Tenses/Simple Past.md",
-    "Technology/Computing/Protocols/HTTP/HTTP - Status Code.md",
-    "Technology/Computing/Protocols/HTTP/HTTP - HTTPS.md",
     "Technology/Computing/Protocols/HTTP",
-    "Technology/Computing/Protocols/OpenID.md",
-    "Technology/Computing/Protocols/IP.md",
     "upload_to_drive.py",
-    "Language/English/Tenses/Past Perfect tense.md",
-    "Language/English/Verbs/Past Modals.md",
-    "Language/English/Verbs/Modal Verbs.md",
-    "Language/English/Vocabulary/ENG - VOCAB - Movements.md",
-    "Language/English/Vocabulary/ENG - VOCAB - House.md",
-    "Language/English/Vocabulary/ENG - VOCAB - Food.md",
     "Technology/Frontend/ReactJs/ChakraUI",
     "Technology/DotNet/Blazor",
     "Brain/Technology/Javascript/Tests",
