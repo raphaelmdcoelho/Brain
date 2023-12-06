@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/C/C.md",
+                "file": "Technology/Tests/Jest/Jest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5de595e4e5042a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Tests/Jasmine/Jasmine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/C/C.md",
+                "file": "Technology/Tests/Jasmine/Jasmine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/C/C.md",
+                "file": "Technology/Tests/Jasmine/Jasmine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/C/C.md"
+                "file": "Technology/Tests/Jasmine/Jasmine.md"
               }
             }
           },
@@ -157,10 +170,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5841e14b5f7bd7eb",
+  "active": "5de595e4e5042a11",
   "lastOpenFiles": [
-    "Technology/Computing/NumericSystem/Binary/Binary.md",
+    "Technology/Tests/Jest/Jest.md",
+    "Technology/Tests/Jasmine/Jasmine.md",
+    "Technology/Tests/Jest/Jest - Mock Functions.md",
+    "Technology/Tests/Jasmine",
+    "Technology/Tests/Jest/Jest - Matchers.md",
+    "Technology/Tests/Jest/Jest - Globals.md",
+    "Technology/Markup languages/HTML/Dom -API.md",
+    "Technology/Markup languages/HTML/Document Object Model.md",
+    "Technology/Markup languages/HTML/HTML.md",
+    "Technology/Tools/Swagger/Swagger.md",
     "Technology/C/C.md",
+    "Technology/Computing/NumericSystem/Binary/Binary.md",
     "Technology/BASH/Sed.md",
     "Technology/BASH/Bash.md",
     "Technology/BASH/Environment Variable.md",
@@ -176,15 +199,6 @@
     "Technology/BASH/If statment.md",
     "Technology/BASH/For statement.md",
     "Technology/BASH/AWK/Dynamic Regular Expressions.md",
-    "Technology/BASH/AWK/User-Defined Functions.md",
-    "Technology/BASH/AWK/Add awk result to a new file.md",
-    "Technology/BASH/AWK/Execute multiple blocks or files.md",
-    "Technology/BASH/AWK/Special Blocks.md",
-    "Technology/BASH/AWK/Built-in Variables.md",
-    "Technology/BASH/AWK/Associative arrays.md",
-    "Technology/DotNet/Migrations.md",
-    "Technology/Computing/Algorithms/Sort Algorithms.md",
-    "Technology/Computing/Algorithms/Search Algorithms.md",
     "Language/English/Verbs",
     "Language/English/Vocabulary",
     "Technology/Computing/Protocols/HTTP",
@@ -194,7 +208,6 @@
     "Brain/Technology/Javascript/Tests",
     "Brain/Technology/Javascript",
     "Brain/Technology",
-    "Brain",
     "Technology/GIT/Images/Pasted image 20231114093911.png",
     "Projects/Posts/AWK/BrainStorm.canvas",
     "Math/Trigonometry/Images/Pasted image 20231111230727.png",
