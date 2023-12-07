@@ -4,35 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ea7974b36e87c1",
-        "type": "tabs",
+        "id": "6fe1bef39f68c9f5",
+        "type": "split",
         "children": [
           {
-            "id": "5841e14b5f7bd7eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Tests/Jest/Jest.md",
-                "mode": "source",
-                "source": false
+            "id": "f6ea7974b36e87c1",
+            "type": "tabs",
+            "dimension": 33.62403100775194,
+            "children": [
+              {
+                "id": "5841e14b5f7bd7eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Technology/Tests/Jest/Jest.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5de595e4e5042a11",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Playground-test.md"
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "5de595e4e5042a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine.md",
-                "mode": "source",
-                "source": false
+            "id": "45611985e1b31dfc",
+            "type": "tabs",
+            "dimension": 66.37596899224806,
+            "children": [
+              {
+                "id": "731692b88849246f",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -98,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine.md",
+                "file": "Excalidraw/Playground-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine.md",
+                "file": "Excalidraw/Playground-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine.md"
+                "file": "Excalidraw/Playground-test.md"
               }
             }
           },
@@ -172,8 +193,17 @@
   },
   "active": "5de595e4e5042a11",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-07 17.05.29.excalidraw.md",
+    "Technology/Javascript/Javascript.md",
+    "Technology/Tests/Unittest/Unittest.md",
+    "Technology/R/R.md",
+    "Technology/Rust/Rust.md",
     "Technology/Tests/Jest/Jest.md",
     "Technology/Tests/Jasmine/Jasmine.md",
+    "Technology/Computing/Design Patterns/Design Patterns.md",
+    "Technology/Computing/Design Patterns/Patern - Singleton.md",
+    "Technology/BASH/AWK/AWK.md",
+    "Technology/Tests/Cypress/Cypress.md",
     "Technology/Tests/Jest/Jest - Mock Functions.md",
     "Technology/Tests/Jasmine",
     "Technology/Tests/Jest/Jest - Matchers.md",
@@ -187,18 +217,9 @@
     "Technology/BASH/Sed.md",
     "Technology/BASH/Bash.md",
     "Technology/BASH/Environment Variable.md",
-    "Technology/BASH/AWK/AWK.md",
     "Technology/BASH/Arithmetic.md",
     "Technology/BASH/CommandLineInterfaceProgram/XClip.md",
     "Technology/BASH/clip.md",
-    "Technology/BASH/Sleep.md",
-    "Technology/BASH/Command Channing.md",
-    "Technology/BASH/Pipe.md",
-    "Technology/BASH/While statment.md",
-    "Technology/BASH/Alias.md",
-    "Technology/BASH/If statment.md",
-    "Technology/BASH/For statement.md",
-    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
     "Language/English/Verbs",
     "Language/English/Vocabulary",
     "Technology/Computing/Protocols/HTTP",
