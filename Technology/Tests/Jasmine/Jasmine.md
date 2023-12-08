@@ -27,4 +27,19 @@ describe("A suite", function() {
 
 **Specs** are defined by calling the global Jasmine function `it`, which, like describe, takes a string and a function.
 
+**Expectations** are built with the function `expect` which takes a value, called the `actual`. It is chained with a `Matcher` function, which takes the expected value.
+
+* [[Jasmine - Matches]]
+* [[Jasmine - Setup and Teardown]]
+
+**The this keyword**
+
+**Disable suites**
+
+**Pending specs**
+
+* [[Jasmine - Spies]]
+* [[Jasmine - Asynchronous]]
+
+
 #Javascript #test #jasmine

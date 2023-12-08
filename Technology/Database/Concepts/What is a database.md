@@ -109,7 +109,7 @@ export const from = (table, conditions) => {
     }
 }
 ```
-- [[eval()]]
+- [[Javascript - eval()]]
 
 ***ORDER BY***
 ```javascript
