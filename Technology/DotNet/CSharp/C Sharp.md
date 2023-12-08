@@ -38,7 +38,7 @@
 * [[Collections]]
 * [[Finalizers - Destructors]]
 * [[Indexer]]
-* [[Delegate]]
+* [[Events and Delegates]]
 * [[Event]]
 * [[Assembly]]
 * [[Configuration]]

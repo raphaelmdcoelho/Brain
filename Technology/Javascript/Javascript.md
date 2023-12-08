@@ -6,7 +6,7 @@
 
 ***Methods***
 
-* [[eval()]]
+* [[Javascript - eval()]]
 
 ***Tests***
 

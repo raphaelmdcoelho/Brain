@@ -8,31 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5841e14b5f7bd7eb",
+            "id": "7c265a66707c3a4e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "66fd4d0a73feb5fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Tests/Jest/Jest.md",
+                "file": "Technology/DotNet/CSharp/structures/Events and Delegates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5de595e4e5042a11",
+            "id": "5841e14b5f7bd7eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine.md",
+                "file": "Technology/Computing/Network/DNS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,55 +173,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5de595e4e5042a11",
+  "active": "7c265a66707c3a4e",
   "lastOpenFiles": [
-    "Technology/Tests/Jest/Jest.md",
-    "Technology/Tests/Jasmine/Jasmine.md",
-    "Technology/Tests/Jest/Jest - Mock Functions.md",
-    "Technology/Tests/Jasmine",
-    "Technology/Tests/Jest/Jest - Matchers.md",
-    "Technology/Tests/Jest/Jest - Globals.md",
-    "Technology/Markup languages/HTML/Dom -API.md",
-    "Technology/Markup languages/HTML/Document Object Model.md",
+    "Technology/DotNet/CSharp/structures/Events and Delegates.md",
+    "Technology/DotNet/CSharp/structures/Images/csharp_event_1.png",
+    "Technology/DotNet/CSharp/structures/Images",
+    "Technology/DotNet/CSharp/structures/Event.md",
+    "Technology/Computing/Network/DNS.md",
+    "Technology/Tools/EVENG/EVENG.md",
+    "Technology/Tools/EVENG",
+    "Technology/Computing/Network/Images/DNSqueryLifetime.png",
+    "Technology/Computing/Network/Network.md",
+    "Technology/Computing/Network/VPN.md",
+    "Technology/Computing/Network/Images/LogicalRootNameServers.png",
+    "Technology/Computing/Network/Images/HierachyNameServers.png",
+    "Technology/Computing/Network/Images/NameServersLevels.png",
+    "Technology/Computing/Network/Images",
+    "Technology/Markup languages/Markup languages.md",
+    "Technology/Markup languages/HTMX/HTMX.md",
     "Technology/Markup languages/HTML/HTML.md",
-    "Technology/Tools/Swagger/Swagger.md",
+    "Technology/Markup languages/HTMX",
+    "Technology/Javascript/Javascript.md",
+    "Technology/Javascript/Object/Object.md",
+    "Technology/Javascript/Object/Object.groupBy.md",
+    "Technology/Markup languages/HTML/HTML - Tags.md",
+    "Technology/Frontend/Angular/Signals/Angular - Signals.md",
+    "Technology/Javascript/groupBy.md",
+    "Technology/Javascript/Javascript - eval().md",
+    "Technology/Tests/Test doubles.md",
+    "Technology/Tests/Tests.md",
+    "Technology/Pipelines/Pipelines.md",
     "Technology/C/C.md",
-    "Technology/Computing/NumericSystem/Binary/Binary.md",
-    "Technology/BASH/Sed.md",
-    "Technology/BASH/Bash.md",
-    "Technology/BASH/Environment Variable.md",
-    "Technology/BASH/AWK/AWK.md",
-    "Technology/BASH/Arithmetic.md",
-    "Technology/BASH/CommandLineInterfaceProgram/XClip.md",
-    "Technology/BASH/clip.md",
-    "Technology/BASH/Sleep.md",
-    "Technology/BASH/Command Channing.md",
-    "Technology/BASH/Pipe.md",
-    "Technology/BASH/While statment.md",
-    "Technology/BASH/Alias.md",
-    "Technology/BASH/If statment.md",
-    "Technology/BASH/For statement.md",
-    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
+    "Technology/GIT/GIT.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
+    "Technology/Tests/TDD.md",
+    "Technology/Tests/Jasmine/Jasmine - Matches.md",
+    "Technology/Tests/Jasmine/Jasmine.md",
+    "Technology/Tools/Swagger",
+    "Technology/Tests/Jasmine",
     "Language/English/Verbs",
     "Language/English/Vocabulary",
     "Technology/Computing/Protocols/HTTP",
     "upload_to_drive.py",
-    "Technology/Frontend/ReactJs/ChakraUI",
-    "Technology/DotNet/Blazor",
-    "Brain/Technology/Javascript/Tests",
-    "Brain/Technology/Javascript",
-    "Brain/Technology",
     "Technology/GIT/Images/Pasted image 20231114093911.png",
     "Projects/Posts/AWK/BrainStorm.canvas",
     "Math/Trigonometry/Images/Pasted image 20231111230727.png",
     "Math/Trigonometry/Images/Pasted image 20231111225132.png",
     "Math/Trigonometry/Images/Pasted image 20231111222126.png",
     "Pasted image 20231111225144.png",
-    "Math/Trigonometry/Images/Pasted image 20231111224853.png",
-    "Pasted image 20231111224833.png",
-    "Technology/Frontend/ReactJs/Images/Pasted image 20231107170101.png",
-    "Technology/DotNet/CSharp/Images/reference_type_02.png",
-    "Technology/DotNet/CSharp/Images/reference_type_01.png",
     "Projects/PDI 2023/PDI 2023.canvas",
     "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas",
     "Untitled.canvas"
