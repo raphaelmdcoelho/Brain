@@ -4,56 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "6fe1bef39f68c9f5",
-        "type": "split",
+        "id": "f6ea7974b36e87c1",
+        "type": "tabs",
         "children": [
           {
-            "id": "f6ea7974b36e87c1",
-            "type": "tabs",
-            "dimension": 33.62403100775194,
-            "children": [
-              {
-                "id": "5841e14b5f7bd7eb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Technology/Tests/Jest/Jest.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5de595e4e5042a11",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Playground-test.md"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "84c079f13c3fa9cb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           },
           {
-            "id": "45611985e1b31dfc",
-            "type": "tabs",
-            "dimension": 66.37596899224806,
-            "children": [
-              {
-                "id": "731692b88849246f",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "7812408db38abaa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Computing/File System/File System.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "989e21178867b495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Computing/ComputerArchitecture/Firmware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f37eacf5fad89169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Computing/ComputerArchitecture/ComputerArchitecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5841e14b5f7bd7eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Tests/Jasmine/Jasmine - Asynchronous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abb4750296409f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Computing/Design Patterns/Pattern - Observer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0b9984b92522346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Frontend/RxJS/RxJS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1580201101dd2d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/DotNet/Migrations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Playground-test.md",
+                "file": "Technology/Computing/ComputerArchitecture/Firmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Playground-test.md",
+                "file": "Technology/Computing/ComputerArchitecture/Firmware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Playground-test.md"
+                "file": "Technology/Computing/ComputerArchitecture/Firmware.md"
               }
             }
           },
@@ -191,45 +238,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c265a66707c3a4e",
+  "active": "989e21178867b495",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-07 17.05.29.excalidraw.md",
-    "Technology/Javascript/Javascript.md",
-    "Technology/Tests/Unittest/Unittest.md",
-    "Technology/R/R.md",
-    "Technology/Rust/Rust.md",
-    "Technology/Tests/Jest/Jest.md",
-    "Technology/Tests/Jasmine/Jasmine.md",
-    "Technology/Computing/Design Patterns/Design Patterns.md",
-    "Technology/Computing/Design Patterns/Patern - Singleton.md",
-    "Technology/BASH/AWK/AWK.md",
-    "Technology/Tests/Cypress/Cypress.md",
+    "Technology/Computing/ComputerArchitecture/ComputerArchitecture.md",
+    "Technology/Computing/ComputerArchitecture/Firmware.md",
+    "Technology/Computing/File System/File System.md",
+    "Technology/Tests/Jasmine/Jasmine - Spies.md",
     "Technology/Tests/Jest/Jest - Mock Functions.md",
+    "Technology/Computing/ComputerArchitecture/Images",
+    "Technology/Computing/ComputerArchitecture/Images/Pasted image 20231208223317.png",
+    "Technology/Computing/ComputerArchitecture/GRUB 2.md",
+    "Technology/Computing/ComputerArchitecture/Boot Loader.md",
+    "Technology/Computing/Hardware/Hardware.md",
+    "Technology/Computing/Hardware/GPU.md",
+    "Technology/Computing/Hardware/CPU.md",
+    "Technology/Computing/Hardware/ROM.md",
+    "Technology/Computing/Hardware/RAM.md",
+    "Technology/Computing/ComputerArchitecture/Drivers.md",
+    "Technology/Computing/File System/Partitioning.md",
+    "Technology/Computing/ComputerArchitecture/Kernel.md",
+    "Technology/Computing/Network/Network.md",
+    "Technology/Computing/Network/Gateway.md",
+    "Technology/Computing/Network/Proxy.md",
+    "Technology/Security/Firewall.md",
+    "Technology/Computing/Computing.md",
+    "Technology/Computing/Hardware",
+    "Technology/Computing/ComputerArchitecture/Boot.md",
+    "Technology/Computing/ComputerArchitecture/BIOS.md",
+    "Technology/Computing/ComputerArchitecture",
+    "Technology/Tests/Jasmine/Jasmine - Asynchronous.md",
+    "Technology/Computing/Design Patterns/Pattern - Observer.md",
+    "Technology/Computing/Design Patterns/Design Patterns.md",
+    "Technology/Computing/Design Patterns/Pattern - Visitor.md",
     "Technology/Tests/Jasmine",
-    "Technology/Tests/Jest/Jest - Matchers.md",
-    "Technology/Tests/Jest/Jest - Globals.md",
-    "Technology/Markup languages/HTML/Dom -API.md",
-    "Technology/Markup languages/HTML/Document Object Model.md",
-    "Technology/Markup languages/HTML/HTML.md",
     "Technology/Markup languages/HTMX",
-    "Technology/Javascript/Javascript.md",
-    "Technology/Javascript/Object/Object.md",
-    "Technology/Javascript/Object/Object.groupBy.md",
-    "Technology/Markup languages/HTML/HTML - Tags.md",
-    "Technology/Frontend/Angular/Signals/Angular - Signals.md",
-    "Technology/Javascript/groupBy.md",
-    "Technology/Javascript/Javascript - eval().md",
-    "Technology/Tests/Test doubles.md",
-    "Technology/Tests/Tests.md",
-    "Technology/Pipelines/Pipelines.md",
-    "Technology/C/C.md",
-    "Technology/Computing/NumericSystem/Binary/Binary.md",
-    "Technology/BASH/Sed.md",
-    "Technology/BASH/Bash.md",
-    "Technology/BASH/Environment Variable.md",
-    "Technology/BASH/Arithmetic.md",
-    "Technology/BASH/CommandLineInterfaceProgram/XClip.md",
-    "Technology/BASH/clip.md",
     "Language/English/Verbs",
     "Language/English/Vocabulary",
     "Technology/Computing/Protocols/HTTP",

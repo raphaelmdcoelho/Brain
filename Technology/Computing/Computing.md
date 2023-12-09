@@ -14,5 +14,7 @@
 * [[Authentication]]
 * [[Algorithms]]
 * [[Agent]]
+* [[ComputerArchitecture]]
+* [[Hardware]]
 
 #computing 
