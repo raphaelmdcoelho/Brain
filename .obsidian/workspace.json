@@ -33,31 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Computing/ComputerArchitecture/Firmware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f37eacf5fad89169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Computing/ComputerArchitecture/ComputerArchitecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5841e14b5f7bd7eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Tests/Jasmine/Jasmine - Asynchronous.md",
+                "file": "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Computing/Design Patterns/Pattern - Observer.md",
+                "file": "Technology/Computing/Design Patterns/Observer/Pattern - Observer.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Computing/ComputerArchitecture/Firmware.md",
+                "file": "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Computing/ComputerArchitecture/Firmware.md",
+                "file": "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Computing/ComputerArchitecture/Firmware.md"
+                "file": "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md"
               }
             }
           },
@@ -240,9 +216,18 @@
   },
   "active": "989e21178867b495",
   "lastOpenFiles": [
+    "Technology/Computing/Design Patterns/Observer/Pattern - Observer.md",
+    "DP - Observer - Python.md",
+    "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
+    "Technology/DotNet/Migrations.md",
+    "Technology/Frontend/RxJS/RxJS.md",
+    "Technology/Tests/Jasmine/Jasmine - Asynchronous.md",
     "Technology/Computing/ComputerArchitecture/ComputerArchitecture.md",
-    "Technology/Computing/ComputerArchitecture/Firmware.md",
     "Technology/Computing/File System/File System.md",
+    "Technology/Computing/Design Patterns/Observer",
+    "Technology/Computing/Design Patterns/Design Patterns.md",
+    "Technology/Computing/ComputerArchitecture/Firmware.md",
     "Technology/Tests/Jasmine/Jasmine - Spies.md",
     "Technology/Tests/Jest/Jest - Mock Functions.md",
     "Technology/Computing/ComputerArchitecture/Images",
@@ -261,15 +246,8 @@
     "Technology/Computing/Network/Gateway.md",
     "Technology/Computing/Network/Proxy.md",
     "Technology/Security/Firewall.md",
-    "Technology/Computing/Computing.md",
     "Technology/Computing/Hardware",
-    "Technology/Computing/ComputerArchitecture/Boot.md",
-    "Technology/Computing/ComputerArchitecture/BIOS.md",
     "Technology/Computing/ComputerArchitecture",
-    "Technology/Tests/Jasmine/Jasmine - Asynchronous.md",
-    "Technology/Computing/Design Patterns/Pattern - Observer.md",
-    "Technology/Computing/Design Patterns/Design Patterns.md",
-    "Technology/Computing/Design Patterns/Pattern - Visitor.md",
     "Technology/Tests/Jasmine",
     "Technology/Markup languages/HTMX",
     "Language/English/Verbs",
