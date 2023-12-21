@@ -6,5 +6,6 @@
 
 * [[DP - Observer - Typescript]]
 * [[DP - Observer - Python]]
+* [[DP - Observer - CSharp]]
 
 #patterns #computing
