@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,11 +209,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "989e21178867b495",
+  "active": "84c079f13c3fa9cb",
   "lastOpenFiles": [
-    "Technology/Computing/Design Patterns/Observer/Pattern - Observer.md",
-    "DP - Observer - Python.md",
     "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
+    "Technology/Computing/Design Patterns/Observer/Pattern - Observer.md",
+    "DP - Observer - CSharp.md",
+    "DP - Observer - Python.md",
     "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
     "Technology/DotNet/Migrations.md",
     "Technology/Frontend/RxJS/RxJS.md",
@@ -245,7 +241,6 @@
     "Technology/Computing/Network/Network.md",
     "Technology/Computing/Network/Gateway.md",
     "Technology/Computing/Network/Proxy.md",
-    "Technology/Security/Firewall.md",
     "Technology/Computing/Hardware",
     "Technology/Computing/ComputerArchitecture",
     "Technology/Tests/Jasmine",

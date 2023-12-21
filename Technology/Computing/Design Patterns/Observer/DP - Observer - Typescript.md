@@ -45,7 +45,7 @@ interface Observer {
 
 ```typescript
 class Subscriber implements Observer {
-	private observale: Observable;
+	private observable: Observable;
 	
 	constructor(observable: Observable) {
 		this.observable = observable;
