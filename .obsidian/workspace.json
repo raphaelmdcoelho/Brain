@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84c079f13c3fa9cb",
+            "id": "6f7875f5f4b17db3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,48 +28,12 @@
             }
           },
           {
-            "id": "989e21178867b495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abb4750296409f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Computing/Design Patterns/Observer/Pattern - Observer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b0b9984b92522346",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Frontend/RxJS/RxJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1580201101dd2d73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/DotNet/Migrations.md",
+                "file": "Technology/Frontend/RxJS/Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,46 +173,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84c079f13c3fa9cb",
+  "active": "6f7875f5f4b17db3",
   "lastOpenFiles": [
-    "Technology/Computing/Design Patterns/Observer/DP - Observer - Typescript.md",
-    "Technology/Computing/Design Patterns/Observer/Pattern - Observer.md",
-    "DP - Observer - CSharp.md",
-    "DP - Observer - Python.md",
-    "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
-    "Technology/DotNet/Migrations.md",
-    "Technology/Frontend/RxJS/RxJS.md",
-    "Technology/Tests/Jasmine/Jasmine - Asynchronous.md",
-    "Technology/Computing/ComputerArchitecture/ComputerArchitecture.md",
     "Technology/Computing/File System/File System.md",
-    "Technology/Computing/Design Patterns/Observer",
     "Technology/Computing/Design Patterns/Design Patterns.md",
-    "Technology/Computing/ComputerArchitecture/Firmware.md",
-    "Technology/Tests/Jasmine/Jasmine - Spies.md",
-    "Technology/Tests/Jest/Jest - Mock Functions.md",
+    "Technology/Frontend/RxJS/Operators.md",
+    "Technology/Frontend/RxJS/RxJS.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - throttle.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - take.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - skip.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - last.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - single.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - first.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - elementAt.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - distinct.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - debounceTime.md",
+    "Technology/Frontend/RxJS/Filtering/Operator - debounce.md",
+    "Technology/Frontend/RxJS/Transformation/Operator - scan.md",
+    "Technology/Frontend/RxJS/Transformation/Operator - groupBy.md",
+    "Technology/Frontend/RxJS/Transformation/Operator - concatMap.md",
+    "Technology/Frontend/RxJS/Transformation",
+    "Technology/Frontend/RxJS/Filtering",
+    "Technology/Frontend/RxJS/JoinCreation",
+    "Technology/Frontend/RxJS/Creation",
+    "Technology/Frontend/RxJS/ConditionalAndBoolean",
+    "Technology/Frontend/RxJS/MathematicalAndAggregate",
+    "Technology/Frontend/RxJS/MathematicalAndAggregate/Operator - min.md",
+    "Technology/Frontend/RxJS/MathematicalAndAggregate/Operator - max.md",
+    "Technology/Frontend/RxJS/MathematicalAndAggregate/Operator - count.md",
+    "Technology/Frontend/RxJS/JoinCreation/Operator - zip.md",
+    "Technology/Frontend/RxJS/JoinCreation/Operator - race.md",
+    "Technology/Frontend/RxJS/JoinCreation/Operator - partition.md",
+    "Technology/Frontend/RxJS/JoinCreation/Operator - merge.md",
+    "Technology/Frontend/RxJS/JoinCreation/Operator - forkJoin.md",
+    "Technology/Frontend/RxJS/JoinCreation/Operator - concat.md",
+    "Technology/Computing/Design Patterns/Observer",
+    "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
     "Technology/Computing/ComputerArchitecture/Images",
     "Technology/Computing/ComputerArchitecture/Images/Pasted image 20231208223317.png",
-    "Technology/Computing/ComputerArchitecture/GRUB 2.md",
-    "Technology/Computing/ComputerArchitecture/Boot Loader.md",
-    "Technology/Computing/Hardware/Hardware.md",
-    "Technology/Computing/Hardware/GPU.md",
-    "Technology/Computing/Hardware/CPU.md",
-    "Technology/Computing/Hardware/ROM.md",
-    "Technology/Computing/Hardware/RAM.md",
-    "Technology/Computing/ComputerArchitecture/Drivers.md",
-    "Technology/Computing/File System/Partitioning.md",
-    "Technology/Computing/ComputerArchitecture/Kernel.md",
-    "Technology/Computing/Network/Network.md",
-    "Technology/Computing/Network/Gateway.md",
-    "Technology/Computing/Network/Proxy.md",
     "Technology/Computing/Hardware",
     "Technology/Computing/ComputerArchitecture",
-    "Technology/Tests/Jasmine",
-    "Technology/Markup languages/HTMX",
-    "Language/English/Verbs",
-    "Language/English/Vocabulary",
-    "Technology/Computing/Protocols/HTTP",
-    "upload_to_drive.py",
     "Technology/GIT/Images/Pasted image 20231114093911.png",
     "Projects/Posts/AWK/BrainStorm.canvas",
     "Math/Trigonometry/Images/Pasted image 20231111230727.png",
