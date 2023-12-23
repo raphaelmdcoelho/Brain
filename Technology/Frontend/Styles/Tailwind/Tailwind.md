@@ -1,0 +1,3 @@
+@apply
+
+#frontend #style #tailwind

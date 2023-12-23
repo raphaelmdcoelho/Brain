@@ -33,7 +33,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Frontend/RxJS/Transformation/Operator - map.md",
+                "file": "Technology/Frontend/Styles/Tailwind/Tailwind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dabb406cf8f414c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Frontend/Styles/Sass/Sass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c182a48c6b8ba38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/DotNet/CSharp/Concepts/Predicate/Predicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25ceb6ac8aa677ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Frontend/Styles/Stylex/Stylex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "702e03879b8c0987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Frontend/Styles/Picocss/Picocss.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,7 +223,20 @@
   },
   "active": "6f7875f5f4b17db3",
   "lastOpenFiles": [
+    "Technology/Frontend/Styles/Stylex/Stylex.md",
+    "Technology/DotNet/CSharp/Concepts/Predicate/Predicate.md",
+    "Technology/Frontend/Styles/Stylex",
+    "Technology/Frontend/Styles/Picocss/Picocss.md",
+    "Technology/Frontend/Styles/Pico/Untitled",
+    "Technology/Frontend/Styles/Picocss",
+    "Technology/Frontend/Styles/Tailwind/Tailwind.md",
+    "Technology/DotNet/CSharp/Concepts/Predicate",
+    "Technology/Frontend/Styles/Sass/Sass.md",
+    "Technology/Frontend/Styles/Sass",
+    "Technology/Frontend/Styles/Tailwind",
     "Technology/Frontend/RxJS/Transformation/Operator - map.md",
+    "Technology/Frontend/Shadcnui/Shadcnui.md",
+    "Technology/Frontend/Shadcnui",
     "Technology/Frontend/RxJS/Operators.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221233713.png",
     "Technology/Frontend/RxJS/Transformation/Operator - concatMap.md",
@@ -202,21 +263,8 @@
     "Technology/Frontend/RxJS/Filtering/Operator - distinct.md",
     "Technology/Frontend/RxJS/Filtering/Operator - debounceTime.md",
     "Technology/Frontend/RxJS/Filtering/Operator - debounce.md",
-    "Technology/Frontend/RxJS/Transformation/Operator - scan.md",
-    "Technology/Frontend/RxJS/Transformation/Operator - groupBy.md",
     "Technology/Frontend/RxJS/Transformation",
-    "Technology/Frontend/RxJS/Filtering",
-    "Technology/Frontend/RxJS/JoinCreation",
-    "Technology/Frontend/RxJS/Creation",
-    "Technology/Frontend/RxJS/ConditionalAndBoolean",
-    "Technology/Frontend/RxJS/MathematicalAndAggregate",
-    "Technology/Frontend/RxJS/MathematicalAndAggregate/Operator - min.md",
-    "Technology/Frontend/RxJS/MathematicalAndAggregate/Operator - max.md",
-    "Technology/Frontend/RxJS/MathematicalAndAggregate/Operator - count.md",
-    "Technology/Frontend/RxJS/JoinCreation/Operator - zip.md",
-    "Technology/Computing/Design Patterns/Observer",
     "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
-    "Technology/Computing/ComputerArchitecture/Images",
     "Technology/Computing/ComputerArchitecture/Images/Pasted image 20231208223317.png",
     "Technology/GIT/Images/Pasted image 20231114093911.png",
     "Projects/Posts/AWK/BrainStorm.canvas",
