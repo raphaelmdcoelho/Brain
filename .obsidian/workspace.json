@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f7875f5f4b17db3",
+            "id": "43cd635f3e45c4c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Database/Sqlite/PRAGMA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,73 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Computing/File System/File System.md",
+                "file": "Technology/Frontend/RxJS/Transformation/Operator - map.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b0b9984b92522346",
+            "id": "f822c7b2c03a3e19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Frontend/Styles/Tailwind/Tailwind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dabb406cf8f414c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Frontend/Styles/Sass/Sass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c182a48c6b8ba38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/DotNet/CSharp/Concepts/Predicate/Predicate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25ceb6ac8aa677ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Frontend/Styles/Stylex/Stylex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "702e03879b8c0987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Frontend/Styles/Picocss/Picocss.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,23 +174,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f7875f5f4b17db3",
+  "active": "f822c7b2c03a3e19",
   "lastOpenFiles": [
-    "Technology/Frontend/Styles/Stylex/Stylex.md",
-    "Technology/DotNet/CSharp/Concepts/Predicate/Predicate.md",
-    "Technology/Frontend/Styles/Stylex",
-    "Technology/Frontend/Styles/Picocss/Picocss.md",
-    "Technology/Frontend/Styles/Pico/Untitled",
-    "Technology/Frontend/Styles/Picocss",
+    "Technology/Database/Sqlite/PRAGMA.md",
+    "Technology/Database/Sqlite/dot-commands.md",
+    "Technology/Database/Sqlite/Sqlite.md",
+    "Technology/Container/Docker/Container/docker exec.md",
+    "Technology/Container/Docker/Container/docker attach.md",
+    "Technology/Container/Docker/Container/docker stop.md",
+    "Technology/Container/Docker/Container/docker rename.md",
+    "Technology/Container/Docker/Container/docker start.md",
+    "Technology/Frontend/RxJS/Transformation/Operator - map.md",
+    "Technology/Frontend/RxJS/Operators.md",
+    "Technology/Frontend/RxJS/RxJS.md",
+    "Technology/Computing/ProgrammingParadigms/Programming Paradigms.md",
+    "Technology/Computing/ProgrammingParadigms",
     "Technology/Frontend/Styles/Tailwind/Tailwind.md",
-    "Technology/DotNet/CSharp/Concepts/Predicate",
+    "Technology/Frontend/Styles/Tailwind",
+    "Technology/Frontend/Styles/Stylex/Stylex.md",
+    "Technology/Frontend/Styles/Stylex",
     "Technology/Frontend/Styles/Sass/Sass.md",
     "Technology/Frontend/Styles/Sass",
-    "Technology/Frontend/Styles/Tailwind",
-    "Technology/Frontend/RxJS/Transformation/Operator - map.md",
+    "Technology/Frontend/Styles/Picocss/Picocss.md",
+    "Technology/Frontend/Styles/Picocss",
     "Technology/Frontend/Shadcnui/Shadcnui.md",
     "Technology/Frontend/Shadcnui",
-    "Technology/Frontend/RxJS/Operators.md",
+    "Technology/DotNet/CSharp/Concepts/Predicate/Predicate.md",
+    "Technology/DotNet/CSharp/Concepts/Predicate",
+    "Technology/Computing/File System/File System.md",
+    "Excalidraw/Playground-test.md",
+    "Excalidraw/Drawing 2023-12-22 23.03.02.excalidraw.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221233713.png",
     "Technology/Frontend/RxJS/Transformation/Operator - concatMap.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221232837.png",
@@ -249,20 +215,7 @@
     "Technology/Frontend/RxJS/Creation/Operator - of.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221231858.png",
     "Technology/Frontend/RxJS/Images",
-    "Technology/Frontend/RxJS/RxJS.md",
     "Brain.zip",
-    "Technology/Computing/File System/File System.md",
-    "Technology/Computing/Design Patterns/Design Patterns.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - throttle.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - take.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - skip.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - last.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - single.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - first.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - elementAt.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - distinct.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - debounceTime.md",
-    "Technology/Frontend/RxJS/Filtering/Operator - debounce.md",
     "Technology/Frontend/RxJS/Transformation",
     "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
     "Technology/Computing/ComputerArchitecture/Images/Pasted image 20231208223317.png",
