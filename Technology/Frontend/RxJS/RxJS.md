@@ -8,6 +8,35 @@ The essential concepts in RxJS which solve async event management are:
 
 * **Observable**: represents the idea of an ==invokable collection== of ==future values or events==.
 * **Observer**: is a collection of callbacks that knows how to listen to values delivered by the Observable.
+
+```typescript
+import { Component, OnInit } from '@angular/core';  
+import { Observable, of } from 'rxjs';  
+  
+@Component({  
+selector: 'app-example',  
+templateUrl: './example.component.html',  
+styleUrls: ['./example.component.css']  
+})  
+export class ExampleComponent implements OnInit {  
+	data$: Observable<number>;  
+  
+	ngOnInit() {  
+		this.data$ = of(1, 2, 3, 4, 5);  
+	}  
+}
+```
+
+In this example, `data$` is an Observable that emits the numbers 1 through 5. The `$` at the end of `data$` is a convention that indicates it's an Observable.
+
+You could then use the async pipe (`| async`) in your Angular template to subscribe to this Observable and update your view whenever new data is emitted.
+
+```typescript
+<div *ngFor="let number of data$ | async">  
+	{{ number }}  
+</div>
+```
+
 ### Types
 
 * [[Observable]]

@@ -29,6 +29,7 @@ select * from tbl1;*
 
 - Terminate sqlite3 by typing your system [[End-Of-File]] character (Ctrl-D)
 - Use interrupt character (Ctrl-C) to stop a long-runnung SQL statment.
+- [[PRAGMA]].
 
 ## Special commands
 
