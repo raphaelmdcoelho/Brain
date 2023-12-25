@@ -1,27 +1,28 @@
 - Sqlite project provides a simple [[Command-line program]] named sqlite3 that allows user to manually enter and execute SQL statements against an Sqlite database.
 - It's possible to add it to **Path** environment variable to use it *global*.
+- It's a standalone process.
 
 ## Create database
 
-```sql
+```sqlite
 Sqlite3 ex1
 ```
 
 ## Create table
 
-```sql
+```sqlite
 sqlite> create table tbl1(one text, two int);
 ```
 
 ## Insert
 
-```sql
+```sqlite
 sqlite> insert into tbl1 values('hello', 10);
 ```
 
 ## Select
 
-```sql
+```sqlite
 select * from tbl1;*
 ```
 
@@ -34,6 +35,14 @@ select * from tbl1;*
 ## Special commands
 
 - [[dot-commands]]
+
+### Playground
+
+* [[Sqlite - Playground]]
+
+### References
+
+* [Command Line Shell For SQLite](https://www.sqlite.org/cli.html)
 
 #sqlite #database 
 

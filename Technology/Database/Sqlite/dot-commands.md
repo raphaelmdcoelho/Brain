@@ -10,14 +10,24 @@
 
 **Show databases**
 
-```sqlite3
+```sqlite
 .databases
 ```
 
 **Show tables**
 
-```sqlite3
+```sqlite
 .tables
 ```
+
+### Save a new database
+
+```sqlite
+.save database_name;
+```
+
+### Output formats
+
+* [[Sqlite - Output Formats]]
 
 #sqlite #database 
