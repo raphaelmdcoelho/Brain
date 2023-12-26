@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Database/Sqlite/PRAGMA.md",
+                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Output Formats.md",
+                "file": "Technology/Database/SQL Server/SQL execution plan.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca8b09ec40714c8a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -110,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Output Formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Output Formats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Output Formats.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,13 +187,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1c52d2fc9b46fdc",
+  "active": "ca8b09ec40714c8a",
   "lastOpenFiles": [
-    "Technology/Database/Sqlite/dot-commands.md",
-    "Technology/Database/Sqlite/Sqlite - Output Formats.md",
+    "Technology/Database/SQL Server/Sql Server - Playground.md",
+    "Technology/Database/SQL Server/SQL Server.md",
+    "Technology/Database/SQL Server/HAVING.md",
+    "Technology/Database/SQL Server/Pivot.md",
     "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/Database/Sqlite/Sqlite.md",
     "Technology/Database/Sqlite/PRAGMA.md",
+    "Technology/Database/SQL Server/SQL execution plan.md",
+    "Technology/Database/Sqlite/dot-commands.md",
+    "Technology/Database/Sqlite/Sqlite - Output Formats.md",
     "Technology/DotNet/CSharp/C Sharp.md",
     "Technology/DotNet/CSharp/CSharp9.md",
     "Technology/DotNet/CSharp/CSharp10.md",
@@ -206,15 +216,10 @@
     "Technology/Frontend/RxJS/RxJS.md",
     "Technology/Computing/ProgrammingParadigms/Programming Paradigms.md",
     "Technology/Computing/ProgrammingParadigms",
-    "Technology/Frontend/Styles/Tailwind/Tailwind.md",
     "Technology/Frontend/Styles/Tailwind",
-    "Technology/Frontend/Styles/Stylex/Stylex.md",
     "Technology/Frontend/Styles/Stylex",
-    "Technology/Frontend/Styles/Sass/Sass.md",
     "Technology/Frontend/Styles/Sass",
-    "Technology/Frontend/Styles/Picocss/Picocss.md",
     "Technology/Frontend/Styles/Picocss",
-    "Technology/Frontend/Shadcnui/Shadcnui.md",
     "Technology/Frontend/Shadcnui",
     "Technology/DotNet/CSharp/Concepts/Predicate",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221233713.png",

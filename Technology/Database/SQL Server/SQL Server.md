@@ -19,5 +19,10 @@
 
 * [[User Management]]
 * [[Views]]
+* [[SQL execution plan]]
+
+### Playground
+
+* [[Sql Server - Playground]]
 
 #sqlserver #database 
