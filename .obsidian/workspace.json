@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Database/Sqlite/PRAGMA.md",
+                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +35,24 @@
             "id": "f822c7b2c03a3e19",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Database/SQL Server/SQL execution plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca8b09ec40714c8a",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dotnet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -174,11 +187,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f822c7b2c03a3e19",
+  "active": "ca8b09ec40714c8a",
   "lastOpenFiles": [
-    "Technology/Database/Sqlite/PRAGMA.md",
-    "Technology/Database/Sqlite/dot-commands.md",
+    "Technology/Database/SQL Server/Sql Server - Playground.md",
+    "Technology/Database/SQL Server/SQL Server.md",
+    "Technology/Database/SQL Server/HAVING.md",
+    "Technology/Database/SQL Server/Pivot.md",
+    "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/Database/Sqlite/Sqlite.md",
+    "Technology/Database/Sqlite/PRAGMA.md",
+    "Technology/Database/SQL Server/SQL execution plan.md",
+    "Technology/Database/Sqlite/dot-commands.md",
+    "Technology/Database/Sqlite/Sqlite - Output Formats.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
+    "Technology/DotNet/CSharp/CSharp9.md",
+    "Technology/DotNet/CSharp/CSharp10.md",
+    "Technology/DotNet/CSharp/CSharp11.md",
+    "Technology/DotNet/CSharp/CSharp12.md",
+    "Technology/DotNet/DotNet.md",
+    "Technology/DotNet/Intermediate Language.md",
     "Technology/Container/Docker/Container/docker exec.md",
     "Technology/Container/Docker/Container/docker attach.md",
     "Technology/Container/Docker/Container/docker stop.md",
@@ -189,30 +216,16 @@
     "Technology/Frontend/RxJS/RxJS.md",
     "Technology/Computing/ProgrammingParadigms/Programming Paradigms.md",
     "Technology/Computing/ProgrammingParadigms",
-    "Technology/Frontend/Styles/Tailwind/Tailwind.md",
     "Technology/Frontend/Styles/Tailwind",
-    "Technology/Frontend/Styles/Stylex/Stylex.md",
     "Technology/Frontend/Styles/Stylex",
-    "Technology/Frontend/Styles/Sass/Sass.md",
     "Technology/Frontend/Styles/Sass",
-    "Technology/Frontend/Styles/Picocss/Picocss.md",
     "Technology/Frontend/Styles/Picocss",
-    "Technology/Frontend/Shadcnui/Shadcnui.md",
     "Technology/Frontend/Shadcnui",
-    "Technology/DotNet/CSharp/Concepts/Predicate/Predicate.md",
     "Technology/DotNet/CSharp/Concepts/Predicate",
-    "Technology/Computing/File System/File System.md",
-    "Excalidraw/Playground-test.md",
-    "Excalidraw/Drawing 2023-12-22 23.03.02.excalidraw.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221233713.png",
-    "Technology/Frontend/RxJS/Transformation/Operator - concatMap.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221232837.png",
-    "Technology/Frontend/RxJS/Creation/Operator - timer.md",
-    "Technology/Frontend/RxJS/Creation/Operator - range.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221232546.png",
-    "Technology/Frontend/RxJS/Creation/Operator - from.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221232447.png",
-    "Technology/Frontend/RxJS/Creation/Operator - of.md",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221231858.png",
     "Technology/Frontend/RxJS/Images",
     "Brain.zip",

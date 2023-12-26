@@ -1,12 +1,12 @@
 **Show table structure**
 
-```sqlite3
+```sqlite
 PRAGMA table_info(table_name)
 ```
 
 **Check database integrity**
 
-```bash
+```sqlite
 PRAGMA table_info(table_name)
 ```
 
