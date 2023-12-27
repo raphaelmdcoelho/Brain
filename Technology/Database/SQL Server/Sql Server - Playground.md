@@ -18,6 +18,7 @@ docker run \
 mcr.microsoft.com/mssql/server:2022-latest
 ```
 
+!!!! Maybe create with a volume.
 ### Connect to container
 
 ```powershell
@@ -45,7 +46,7 @@ USE TestDB;
 QUIT
 ```
 
-### Connecting outside the container
+### Connecting outside the container  
 
 ```powershell
 sqlcmd -S <ip_address>,1433 -U SA -P "<YourNewStrong@Passw0rd>"

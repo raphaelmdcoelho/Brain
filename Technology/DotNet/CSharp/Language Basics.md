@@ -372,6 +372,71 @@ Numeric suffixes explicitly define the type of a literal. Suffixes can be either
 
 ### Numeric Conversions
 
+A good class to use when converting numerical classes, are `System.Convert`.
+
+Implicitly converting a large integral type to a floating-point type preserves `magnitude` but can lose `precision`.
+
+!!!!! This happens because floating point types always have more magnitude than integral types but can have less precision.
+
+```csharp
+int i1 = 100_000_001;
+float f = i1; // magnitude preserved, precision lost
+int i2 = (int)f; //100_000_000
+```
+
+### Overflow
+
+At runtime, arithmetic operations on integral types can overflow. By default, this happens silently - no exception is throw, and the result exhibits "wraparound" behaviour, as through the computation were done on a larger integer type and the extra significant bits discharged. For example, decrementing a minimum possible for a integer type results in the maximum possible int value:
+
+```csharp
+int a = int.MinValue;
+a--;
+Console.WriteLine(a == int.MaxValue); // True
+```
+
+### Overflow check operators
+
+The checked operator instructs the runtime to generate an `OverflowException` rather than overflowing silently.
+It's possible to use the checked around either an `expression` or a `statment` block:
+
+```csharp
+int a = 1000000;
+int b = 1000000;
+
+int c = checked (a * b); // Checks just the expression
+
+checked // Check all expression in statment block
+{
+	c = a * b;
+}
+```
+
+It's possible to do that at project level as well.
+
+It's possible to skip the check with the word `unchecked`.
+
+### Bitwise operators
+
+| Operator | Meaning | Sample expression |  Result |
+| -- | -- | -- | -- |
+| ~ | Complement | ~0xfU | 0xfffffff0U |
+| & | And | 0xf0 & 0x33 | 0x30 |
+| \| | Or | 0xf0 \| 0x33 | 0xf3 |
+| ^ | Exclusive Or | 0xff00 ^ 0x0ff0 | 0xf0f0 |
+| << | Shift left | 0x20 << 2 | 0x80 |
+| >> | Shift right | 0x20 >> 1 | 0x10 |
+
+**Note**: The `bitwise` operators do the math in binary representation, so in the first example using the `not` operator, 0xfU is representing the decimal 10 without sign. When flipping it value in binary we need to to that for the whole 32 bits (int):
+
+```
+! 0000 0000 0000 0000 0000 0000 0000 1111 => 1111 1111 1111 1111 1111 1111 1111 0000
+0xfU => 0xfffffff0U
+```
+
+**Note**: It's possible to note that doing operations like `and` the smallest hexadecimal will be preserved on the operation result and `zero` values will be preserved also.
+
+### Special float and double values
+
 
 
 #csharp #dotnet 
