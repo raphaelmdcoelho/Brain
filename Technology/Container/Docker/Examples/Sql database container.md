@@ -1,6 +1,6 @@
 
 ## Dockerfile
-```
+```dockerfile
 FROM mcr.microsoft.com/mssql/server
 
 RUN mkdir -p /usr/src/app
@@ -21,13 +21,13 @@ CMD /bin/bash ./entrypoint.sh
 ```
 
 ## Entrypoint.sh
-```
+```bash
 /usr/src/run-initialization.sh &
 /opt/mssql/bin/sqlservr
 ```
 
 ## run-initialization.sh
-```
+```bash
 #!/bin/Nash
 
 if [ ! -e /db-started ]

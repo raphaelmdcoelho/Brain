@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43cd635f3e45c4c9",
+            "id": "d984797e2b9ef0ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7812408db38abaa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Frontend/RxJS/Transformation/Operator - map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f822c7b2c03a3e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Database/SQL Server/SQL execution plan.md",
+                "file": "Technology/DotNet/CSharp/Language Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,9 +26,45 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "05b65e80de41412f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1f61fab23fbd0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89606dd0409d6b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Container/Docker/Examples/Sql database container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -119,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/Database/SQL Server/Sql Server - Playground.md"
+              }
             }
           },
           {
@@ -165,7 +180,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -187,16 +204,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca8b09ec40714c8a",
+  "active": "05b65e80de41412f",
   "lastOpenFiles": [
+    "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/Database/SQL Server/Sql Server - Playground.md",
+    "Technology/Container/Docker/Examples/Sql database container.md",
+    "Technology/DotNet/CSharp/Language Basics.md",
+    "Technology/GIT/GIT - Reset.md",
+    "Technology/GIT/GIT - CherryPick.md",
+    "Technology/Database/Concepts/What is a database.md",
+    "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
+    "Technology/Database/Concepts/SQL/SQL.md",
+    "Technology/Database/SQL Server/SQL execution plan.md",
+    "Technology/Frontend/RxJS/Transformation/Operator - map.md",
     "Technology/Database/SQL Server/SQL Server.md",
     "Technology/Database/SQL Server/HAVING.md",
     "Technology/Database/SQL Server/Pivot.md",
-    "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/Database/Sqlite/Sqlite.md",
     "Technology/Database/Sqlite/PRAGMA.md",
-    "Technology/Database/SQL Server/SQL execution plan.md",
     "Technology/Database/Sqlite/dot-commands.md",
     "Technology/Database/Sqlite/Sqlite - Output Formats.md",
     "Technology/DotNet/CSharp/C Sharp.md",
@@ -208,13 +233,6 @@
     "Technology/DotNet/Intermediate Language.md",
     "Technology/Container/Docker/Container/docker exec.md",
     "Technology/Container/Docker/Container/docker attach.md",
-    "Technology/Container/Docker/Container/docker stop.md",
-    "Technology/Container/Docker/Container/docker rename.md",
-    "Technology/Container/Docker/Container/docker start.md",
-    "Technology/Frontend/RxJS/Transformation/Operator - map.md",
-    "Technology/Frontend/RxJS/Operators.md",
-    "Technology/Frontend/RxJS/RxJS.md",
-    "Technology/Computing/ProgrammingParadigms/Programming Paradigms.md",
     "Technology/Computing/ProgrammingParadigms",
     "Technology/Frontend/Styles/Tailwind",
     "Technology/Frontend/Styles/Stylex",
@@ -235,7 +253,6 @@
     "Technology/GIT/Images/Pasted image 20231114093911.png",
     "Projects/Posts/AWK/BrainStorm.canvas",
     "Math/Trigonometry/Images/Pasted image 20231111230727.png",
-    "Math/Trigonometry/Images/Pasted image 20231111225132.png",
     "Projects/PDI 2023/PDI 2023.canvas",
     "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas",
     "Untitled.canvas"
