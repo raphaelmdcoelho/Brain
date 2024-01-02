@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/DotNet/CSharp/Language Basics.md",
+                "file": "NAT.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ca8b09ec40714c8a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -52,19 +44,31 @@
             }
           },
           {
-            "id": "89606dd0409d6b1b",
+            "id": "40cf44d9d75f065a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Container/Docker/Examples/Sql database container.md",
+                "file": "Technology/Computing/Protocols/IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3759c7f8467783e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/Bash functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
+                "file": "Technology/BASH/Bash functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
+                "file": "Technology/BASH/Bash functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Database/SQL Server/Sql Server - Playground.md"
+                "file": "Technology/BASH/Bash functions.md"
               }
             }
           },
@@ -186,7 +190,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,12 +209,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05b65e80de41412f",
+  "active": "3759c7f8467783e1",
   "lastOpenFiles": [
+    "Winget.md",
+    "Technology/OS/Windows/Windows.md",
+    "NAT.md",
     "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/Database/SQL Server/Sql Server - Playground.md",
     "Technology/Container/Docker/Examples/Sql database container.md",
+    "Technology/Computing/Network/Network.md",
+    "Technology/Computing/Protocols/IP.md",
+    "Technology/Computing/Protocols/OSI.md",
+    "Technology/Computing/Protocols/Images",
+    "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
+    "Technology/Computing/Protocols/Protocols.md",
+    "Technology/DotNet/ORM/EntityFramework/Entity Framework.md",
+    "EF Functions.md",
+    "Multiplexing - Demultiplexing - MUX - DEMUX.md",
+    "Technology/Computing/Network/Bandwith.md",
+    "Modulation - Demodulation.md",
     "Technology/DotNet/CSharp/Language Basics.md",
+    "Technology/Computing/Computing.md",
     "Technology/GIT/GIT - Reset.md",
     "Technology/GIT/GIT - CherryPick.md",
     "Technology/Database/Concepts/What is a database.md",
@@ -220,19 +240,6 @@
     "Technology/Database/SQL Server/SQL Server.md",
     "Technology/Database/SQL Server/HAVING.md",
     "Technology/Database/SQL Server/Pivot.md",
-    "Technology/Database/Sqlite/Sqlite.md",
-    "Technology/Database/Sqlite/PRAGMA.md",
-    "Technology/Database/Sqlite/dot-commands.md",
-    "Technology/Database/Sqlite/Sqlite - Output Formats.md",
-    "Technology/DotNet/CSharp/C Sharp.md",
-    "Technology/DotNet/CSharp/CSharp9.md",
-    "Technology/DotNet/CSharp/CSharp10.md",
-    "Technology/DotNet/CSharp/CSharp11.md",
-    "Technology/DotNet/CSharp/CSharp12.md",
-    "Technology/DotNet/DotNet.md",
-    "Technology/DotNet/Intermediate Language.md",
-    "Technology/Container/Docker/Container/docker exec.md",
-    "Technology/Container/Docker/Container/docker attach.md",
     "Technology/Computing/ProgrammingParadigms",
     "Technology/Frontend/Styles/Tailwind",
     "Technology/Frontend/Styles/Stylex",
@@ -247,12 +254,10 @@
     "Technology/Frontend/RxJS/Images/Pasted image 20231221231858.png",
     "Technology/Frontend/RxJS/Images",
     "Brain.zip",
-    "Technology/Frontend/RxJS/Transformation",
     "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
     "Technology/Computing/ComputerArchitecture/Images/Pasted image 20231208223317.png",
     "Technology/GIT/Images/Pasted image 20231114093911.png",
     "Projects/Posts/AWK/BrainStorm.canvas",
-    "Math/Trigonometry/Images/Pasted image 20231111230727.png",
     "Projects/PDI 2023/PDI 2023.canvas",
     "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas",
     "Untitled.canvas"
