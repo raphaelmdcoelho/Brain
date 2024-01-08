@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular - Conditionals.md",
+                "file": "Technology/Frontend/Angular/Event/Event Handler.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular - Conditionals.md",
+                "file": "Technology/Frontend/Angular/Event/Event Handler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular - Conditionals.md",
+                "file": "Technology/Frontend/Angular/Event/Event Handler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular - Conditionals.md"
+                "file": "Technology/Frontend/Angular/Event/Event Handler.md"
               }
             }
           },
@@ -223,8 +223,10 @@
   },
   "active": "810440d1ee776f8d",
   "lastOpenFiles": [
-    "Technology/Frontend/Angular/Directives/Angular - Directives.md",
     "Angular - Conditionals.md",
+    "Technology/Frontend/Angular/Event/Event Handler.md",
+    "Technology/Frontend/Angular/Event",
+    "Technology/Frontend/Angular/Directives/Angular - Directives.md",
     "Technology/BASH/Bash functions.md",
     "Winget.md",
     "Technology/OS/Windows/Windows.md",
@@ -251,7 +253,6 @@
     "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
     "Technology/Database/Concepts/SQL/SQL.md",
     "Technology/Database/SQL Server/SQL execution plan.md",
-    "Technology/Frontend/RxJS/Transformation/Operator - map.md",
     "Technology/Computing/ProgrammingParadigms",
     "Technology/Frontend/Styles/Tailwind",
     "Technology/Frontend/Styles/Stylex",
@@ -265,7 +266,6 @@
     "Technology/Frontend/RxJS/Images/Pasted image 20231221232447.png",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221231858.png",
     "Technology/Frontend/RxJS/Images",
-    "Brain.zip",
     "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
     "Technology/Computing/ComputerArchitecture/Images/Pasted image 20231208223317.png",
     "Technology/GIT/Images/Pasted image 20231114093911.png",
