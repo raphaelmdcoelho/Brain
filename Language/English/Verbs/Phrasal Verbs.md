@@ -1,3 +1,4 @@
 - [[Deal]]
+- [[Bussines]]
 
 #english 

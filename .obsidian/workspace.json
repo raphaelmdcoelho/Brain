@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Frontend/Angular/Event/Event Handler.md",
+                "file": "Bussines.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Frontend/Angular/Event/Event Handler.md",
+                "file": "Bussines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Frontend/Angular/Event/Event Handler.md",
+                "file": "Bussines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Frontend/Angular/Event/Event Handler.md"
+                "file": "Bussines.md"
               }
             }
           },
@@ -223,8 +223,13 @@
   },
   "active": "810440d1ee776f8d",
   "lastOpenFiles": [
-    "Angular - Conditionals.md",
+    "Language/English/Verbs/Phrasal Verbs.md",
+    "Bussines.md",
+    "Language/English/Verbs/Deal.md",
+    "Language/English/Verbs/Modal Verbs.md",
+    "Language/English/Verbs/Past Modals.md",
     "Technology/Frontend/Angular/Event/Event Handler.md",
+    "Angular - Conditionals.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Frontend/Angular/Directives/Angular - Directives.md",
     "Technology/BASH/Bash functions.md",
@@ -247,12 +252,7 @@
     "Modulation - Demodulation.md",
     "Technology/DotNet/CSharp/Language Basics.md",
     "Technology/Computing/Computing.md",
-    "Technology/GIT/GIT - Reset.md",
-    "Technology/GIT/GIT - CherryPick.md",
-    "Technology/Database/Concepts/What is a database.md",
     "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
-    "Technology/Database/Concepts/SQL/SQL.md",
-    "Technology/Database/SQL Server/SQL execution plan.md",
     "Technology/Computing/ProgrammingParadigms",
     "Technology/Frontend/Styles/Tailwind",
     "Technology/Frontend/Styles/Stylex",
