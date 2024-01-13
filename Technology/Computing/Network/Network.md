@@ -34,6 +34,4 @@ Network scale to measure speed:
 
 ### Lab
 
-* [[Configure home connection between two pc]]
-
 #computing #network
