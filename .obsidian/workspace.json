@@ -8,43 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d984797e2b9ef0ea",
+            "id": "810440d1ee776f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAT.md",
+                "file": "Technology/Computing/Network/Port.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "05b65e80de41412f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Database/SQL Server/Sql Server - Playground.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1f61fab23fbd0cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40cf44d9d75f065a",
+            "id": "1738272b2006ed61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +32,19 @@
             }
           },
           {
-            "id": "3759c7f8467783e1",
+            "id": "3d2633c7d5e73006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/BASH/Bash functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "810440d1ee776f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bussines.md",
+                "file": "Technology/Computing/Network/Configure home connection between two pc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dotnet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.51103591918945
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bussines.md",
+                "file": "Technology/Computing/Network/Configure home connection between two pc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bussines.md",
+                "file": "Technology/Computing/Network/Configure home connection between two pc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bussines.md"
+                "file": "Technology/Computing/Network/Configure home connection between two pc.md"
               }
             }
           },
@@ -221,37 +185,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "810440d1ee776f8d",
+  "active": "3d2633c7d5e73006",
   "lastOpenFiles": [
+    "Technology/OS/Windows/Winget.md",
+    "Technology/Computing/Network/Network.md",
+    "Technology/Frontend/Angular/Directives/Angular - Conditionals.md",
+    "Technology/Computing/Network/Modulation - Demodulation.md",
     "Language/English/Verbs/Phrasal Verbs.md",
-    "Bussines.md",
+    "Language/English/Verbs/Bussines.md",
+    "Technology/DotNet/ORM/EntityFramework/Entity Framework.md",
+    "Technology/Computing/Network/Configure home connection between two pc.md",
+    "Technology/DotNet/ORM/EntityFramework/EF Functions.md",
+    "Technology/Computing/Protocols/IP.md",
+    "Technology/Computing/Network/Port.md",
+    "Technology/Computing/Protocols/FTP.md",
+    "Technology/Computing/Protocols/SMTP.md",
+    "Technology/Others/Emoji data source.md",
+    "Technology/Computing/Network/VPN.md",
     "Language/English/Verbs/Deal.md",
     "Language/English/Verbs/Modal Verbs.md",
     "Language/English/Verbs/Past Modals.md",
     "Technology/Frontend/Angular/Event/Event Handler.md",
-    "Angular - Conditionals.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Frontend/Angular/Directives/Angular - Directives.md",
     "Technology/BASH/Bash functions.md",
-    "Winget.md",
     "Technology/OS/Windows/Windows.md",
-    "NAT.md",
+    "Technology/Computing/Network/NAT.md",
     "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/Database/SQL Server/Sql Server - Playground.md",
     "Technology/Container/Docker/Examples/Sql database container.md",
-    "Technology/Computing/Network/Network.md",
-    "Technology/Computing/Protocols/IP.md",
-    "Technology/Computing/Protocols/OSI.md",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
-    "Technology/Computing/Protocols/Protocols.md",
-    "Technology/DotNet/ORM/EntityFramework/Entity Framework.md",
-    "EF Functions.md",
-    "Multiplexing - Demultiplexing - MUX - DEMUX.md",
-    "Technology/Computing/Network/Bandwith.md",
-    "Modulation - Demodulation.md",
-    "Technology/DotNet/CSharp/Language Basics.md",
-    "Technology/Computing/Computing.md",
     "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
     "Technology/Computing/ProgrammingParadigms",
     "Technology/Frontend/Styles/Tailwind",

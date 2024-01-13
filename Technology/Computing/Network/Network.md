@@ -18,6 +18,7 @@
 * [[Proxy]]
 * [[Gateway]]
 * [[NAT]]
+* [[Port]]
 ### Units
 
 `8 bits = 1 byte`
@@ -30,5 +31,9 @@
 Network scale to measure speed: 
 
 `bits` so -> 200 Mbps / 8 = 25 Megabytes por segundo.
+
+### Lab
+
+* [[Configure home connection between two pc]]
 
 #computing #network
