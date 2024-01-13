@@ -19,4 +19,10 @@ find /home/raphaelcoelho -type f -name "*.txt" -not -path "/home/raphaelcoelho/.
 find /home/raphaelcoelho/teste1 -type f -name "*.txt" -not -path "home/raphaelcoelho/.*" | xargs cat | awk "/1/ {print}"
 ```
 
+Print content from ls output:
+
+```bash
+ls | xargs cat
+```
+
 #bash 

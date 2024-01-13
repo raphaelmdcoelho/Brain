@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Computing/Protocols/IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d2633c7d5e73006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Computing/Network/Configure home connection between two pc.md",
+                "file": "Technology/BASH/Bash functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Computing/Network/Configure home connection between two pc.md",
+                "file": "Technology/BASH/Bash functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Computing/Network/Configure home connection between two pc.md",
+                "file": "Technology/BASH/Bash functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Computing/Network/Configure home connection between two pc.md"
+                "file": "Technology/BASH/Bash functions.md"
               }
             }
           },
@@ -185,19 +173,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d2633c7d5e73006",
+  "active": "1738272b2006ed61",
   "lastOpenFiles": [
-    "Technology/OS/Windows/Winget.md",
+    "Technology/BASH/Bash.md",
+    "Technology/BASH/Xargs/Xargs.md",
+    "Technology/BASH/Arrays.md",
+    "Technology/BASH/If statment.md",
     "Technology/Computing/Network/Network.md",
+    "Technology/Computing/Network/Port.md",
+    "Technology/Computing/Network/Configure home connection between two pc.md",
+    "Technology/OS/Windows/Winget.md",
     "Technology/Frontend/Angular/Directives/Angular - Conditionals.md",
     "Technology/Computing/Network/Modulation - Demodulation.md",
     "Language/English/Verbs/Phrasal Verbs.md",
     "Language/English/Verbs/Bussines.md",
     "Technology/DotNet/ORM/EntityFramework/Entity Framework.md",
-    "Technology/Computing/Network/Configure home connection between two pc.md",
     "Technology/DotNet/ORM/EntityFramework/EF Functions.md",
     "Technology/Computing/Protocols/IP.md",
-    "Technology/Computing/Network/Port.md",
     "Technology/Computing/Protocols/FTP.md",
     "Technology/Computing/Protocols/SMTP.md",
     "Technology/Others/Emoji data source.md",
@@ -210,10 +202,6 @@
     "Technology/Frontend/Angular/Directives/Angular - Directives.md",
     "Technology/BASH/Bash functions.md",
     "Technology/OS/Windows/Windows.md",
-    "Technology/Computing/Network/NAT.md",
-    "Technology/Database/Sqlite/Sqlite - Playground.md",
-    "Technology/Database/SQL Server/Sql Server - Playground.md",
-    "Technology/Container/Docker/Examples/Sql database container.md",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
     "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",

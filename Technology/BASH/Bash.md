@@ -154,4 +154,10 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 * [[find]]
 
+<hr>
+
+### Arrays
+
+* [[Arrays]]
+
 #bash 
