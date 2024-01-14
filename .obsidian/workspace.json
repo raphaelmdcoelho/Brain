@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/BASH/Bash functions.md",
+                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/BASH/Bash functions.md",
+                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/BASH/Bash functions.md",
+                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/BASH/Bash functions.md"
+                "file": "Technology/Database/Sqlite/Sqlite - Playground.md"
               }
             }
           },
@@ -175,13 +175,19 @@
   },
   "active": "1738272b2006ed61",
   "lastOpenFiles": [
+    "Technology/Container/Docker/Dockerfile/USER.md",
+    "Technology/Container/Docker/Dockerfile/VOLUME.md",
+    "Technology/Container/Docker/Dockerfile/RUN.md",
+    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
+    "Technology/Database/Sqlite/Sqlite - Playground.md",
+    "Technology/BASH/Bash functions.md",
+    "Technology/BASH/Arrays.md",
+    "Technology/Computing/Network/Configure home connection between two pc.md",
     "Technology/BASH/Bash.md",
     "Technology/BASH/Xargs/Xargs.md",
-    "Technology/BASH/Arrays.md",
     "Technology/BASH/If statment.md",
     "Technology/Computing/Network/Network.md",
     "Technology/Computing/Network/Port.md",
-    "Technology/Computing/Network/Configure home connection between two pc.md",
     "Technology/OS/Windows/Winget.md",
     "Technology/Frontend/Angular/Directives/Angular - Conditionals.md",
     "Technology/Computing/Network/Modulation - Demodulation.md",
@@ -195,13 +201,7 @@
     "Technology/Others/Emoji data source.md",
     "Technology/Computing/Network/VPN.md",
     "Language/English/Verbs/Deal.md",
-    "Language/English/Verbs/Modal Verbs.md",
-    "Language/English/Verbs/Past Modals.md",
-    "Technology/Frontend/Angular/Event/Event Handler.md",
     "Technology/Frontend/Angular/Event",
-    "Technology/Frontend/Angular/Directives/Angular - Directives.md",
-    "Technology/BASH/Bash functions.md",
-    "Technology/OS/Windows/Windows.md",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
     "Technology/Database/Concepts/SQL/Images/Copy of Screenshot_20231007_221122_Instagram.jpg",
