@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
+                "file": "Technology/BASH/Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.51103591918945
+    "width": 273.51103591918945
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
+                "file": "Technology/BASH/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
+                "file": "Technology/BASH/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md"
+                "file": "Technology/BASH/Bash.md"
               }
             }
           },
@@ -175,15 +175,23 @@
   },
   "active": "1738272b2006ed61",
   "lastOpenFiles": [
+    "Technology/OS/Linux/chmod.md",
+    "Technology/BASH/Bash.md",
+    "Technology/BASH/Finding Files.md",
+    "Technology/BASH/Reading Files.md",
+    "Technology/BASH/Redirection.md",
+    "Technology/BASH/Creating Files.md",
+    "Technology/BASH/Creating Directories.md",
+    "Technology/BASH/Navigating Directories.md",
+    "Technology/BASH/Command History.md",
+    "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/Container/Docker/Dockerfile/USER.md",
     "Technology/Container/Docker/Dockerfile/VOLUME.md",
     "Technology/Container/Docker/Dockerfile/RUN.md",
     "Technology/Container/Docker/Dockerfile/Dockerfile.md",
-    "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/BASH/Bash functions.md",
     "Technology/BASH/Arrays.md",
     "Technology/Computing/Network/Configure home connection between two pc.md",
-    "Technology/BASH/Bash.md",
     "Technology/BASH/Xargs/Xargs.md",
     "Technology/BASH/If statment.md",
     "Technology/Computing/Network/Network.md",
@@ -193,14 +201,6 @@
     "Technology/Computing/Network/Modulation - Demodulation.md",
     "Language/English/Verbs/Phrasal Verbs.md",
     "Language/English/Verbs/Bussines.md",
-    "Technology/DotNet/ORM/EntityFramework/Entity Framework.md",
-    "Technology/DotNet/ORM/EntityFramework/EF Functions.md",
-    "Technology/Computing/Protocols/IP.md",
-    "Technology/Computing/Protocols/FTP.md",
-    "Technology/Computing/Protocols/SMTP.md",
-    "Technology/Others/Emoji data source.md",
-    "Technology/Computing/Network/VPN.md",
-    "Language/English/Verbs/Deal.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",

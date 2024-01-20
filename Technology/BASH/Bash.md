@@ -93,7 +93,7 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 <hr>
 ### Head and tail
 
-[[head & tail]] are a command line utility used to manipulates files to get a specific content of it.
+[[Reading Files]] are a command line utility used to manipulates files to get a specific content of it.
 
 <hr>
 
@@ -159,5 +159,41 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 ### Arrays
 
 * [[Arrays]]
+
+<hr>
+
+### Command history
+
+* [[Command History]]
+
+<hr>
+
+### Navigating Directories
+
+* [[Navigating Directories]]
+
+<hr>
+
+### Creating Directories
+
+* [[Creating Directories]]
+
+<hr>
+
+### Creating Files
+
+* [[Creating Files]]
+
+<hr>
+
+### CHMOD
+
+* [[chmod]]
+
+<hr>
+
+### Finding Files
+
+* [[Finding Files]]
 
 #bash 

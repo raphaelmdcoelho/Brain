@@ -46,4 +46,4 @@ chmod u+r test.txt
 chmod u+rwx test.txt
 ```
 
-#linux 
+#linux #bash 
