@@ -196,4 +196,14 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 * [[Finding Files]]
 
+<hr>
+
+### eval
+
+* [[eval]]
+
+<hr>
+
+
+
 #bash 
