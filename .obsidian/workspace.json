@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
+                "file": "Technology/BASH/Bash.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d20d53da71c1ff18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Playground-test.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.51103591918945
+    "width": 273.51103591918945
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
+                "file": "Excalidraw/Playground-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md",
+                "file": "Excalidraw/Playground-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Database/Sqlite/Sqlite - Playground.md"
+                "file": "Excalidraw/Playground-test.md"
               }
             }
           },
@@ -173,34 +183,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1738272b2006ed61",
+  "active": "d20d53da71c1ff18",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-20 18.17.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-20 18.17.33.excalidraw.md",
+    "Excalidraw/Playground-test.md",
+    "Technology/BASH/Bash.md",
+    "Technology/Frontend/RxJS/RxJS.md",
+    "Technology/Frontend/RxJS/Operators.md",
+    "Technology/Frontend/RxJS/Creation/Operator - from.md",
+    "Technology/Frontend/RxJS/Observable.md",
+    "Technology/OS/Linux/chmod.md",
+    "Technology/BASH/Finding Files.md",
+    "Technology/BASH/Reading Files.md",
+    "Technology/BASH/Redirection.md",
+    "Technology/BASH/Creating Files.md",
+    "Technology/BASH/Creating Directories.md",
+    "Technology/BASH/Navigating Directories.md",
+    "Technology/BASH/Command History.md",
+    "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/Container/Docker/Dockerfile/USER.md",
     "Technology/Container/Docker/Dockerfile/VOLUME.md",
     "Technology/Container/Docker/Dockerfile/RUN.md",
     "Technology/Container/Docker/Dockerfile/Dockerfile.md",
-    "Technology/Database/Sqlite/Sqlite - Playground.md",
     "Technology/BASH/Bash functions.md",
     "Technology/BASH/Arrays.md",
     "Technology/Computing/Network/Configure home connection between two pc.md",
-    "Technology/BASH/Bash.md",
     "Technology/BASH/Xargs/Xargs.md",
     "Technology/BASH/If statment.md",
-    "Technology/Computing/Network/Network.md",
-    "Technology/Computing/Network/Port.md",
-    "Technology/OS/Windows/Winget.md",
-    "Technology/Frontend/Angular/Directives/Angular - Conditionals.md",
-    "Technology/Computing/Network/Modulation - Demodulation.md",
-    "Language/English/Verbs/Phrasal Verbs.md",
-    "Language/English/Verbs/Bussines.md",
-    "Technology/DotNet/ORM/EntityFramework/Entity Framework.md",
-    "Technology/DotNet/ORM/EntityFramework/EF Functions.md",
-    "Technology/Computing/Protocols/IP.md",
-    "Technology/Computing/Protocols/FTP.md",
-    "Technology/Computing/Protocols/SMTP.md",
-    "Technology/Others/Emoji data source.md",
-    "Technology/Computing/Network/VPN.md",
-    "Language/English/Verbs/Deal.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
