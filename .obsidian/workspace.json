@@ -4,41 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ea7974b36e87c1",
+        "id": "94c8618aebb6277a",
         "type": "tabs",
         "children": [
           {
-            "id": "810440d1ee776f8d",
+            "id": "b6abe758c8f8183d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Computing/Network/Port.md",
+                "file": "Technology/Container/Docker/Dockerfile/Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1738272b2006ed61",
+            "id": "6475f27f1b7b998e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/BASH/Bash.md",
+                "file": "Technology/BASH/Heredoc.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d20d53da71c1ff18",
+            "id": "32f4cce870d92ec6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Playground-test.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Playground-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Playground-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Playground-test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,34 +177,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d20d53da71c1ff18",
+  "active": "32f4cce870d92ec6",
   "lastOpenFiles": [
+    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
+    "Technology/BASH/eval.md",
+    "Technology/BASH/Heredoc.md",
+    "Technology/Container/DockerCompose/DockerCompose.md",
+    "Technology/Container/Docker/Dockerfile/Shell and exec form.md",
+    "Technology/Container/DockerCompose",
+    "Technology/BASH/Bash.md",
+    "Technology/BASH/Finding Files.md",
+    "Technology/Container/Docker/Dockerfile/dockerignore.md",
+    "Technology/Container/Docker/Dockerfile/Environment replacement.md",
+    "Technology/Others/Emoji data source.md",
+    "Technology/Container/Docker/Dockerfile/ADD.md",
+    "Technology/Container/Docker/Dockerfile/Parser directives.md",
+    "Technology/Container/Docker/Dockerfile/ARG.md",
+    "Technology/Container/Docker/Dockerfile/USER.md",
+    "Technology/Container/Docker/Dockerfile/ENTRYPOINT.md",
+    "Technology/Container/Docker/Dockerfile/VOLUME.md",
+    "Technology/Container/Docker/Dockerfile/ENV.md",
+    "Technology/Container/Docker/Dockerfile/CMD.md",
+    "Technology/Container/Docker/Dockerfile/RUN.md",
+    "Technology/Container/Docker/Dockerfile/WORKDIR.md",
+    "Technology/Container/Docker/Dockerfile/FROM.md",
+    "Technology/Container/Docker/Images/Images.md",
+    "Excalidraw/Playground-test.md",
     "Excalidraw/Drawing 2024-01-20 18.17.31.excalidraw.md",
     "Excalidraw/Drawing 2024-01-20 18.17.33.excalidraw.md",
-    "Excalidraw/Playground-test.md",
-    "Technology/BASH/Bash.md",
     "Technology/Frontend/RxJS/RxJS.md",
-    "Technology/Frontend/RxJS/Operators.md",
-    "Technology/Frontend/RxJS/Creation/Operator - from.md",
-    "Technology/Frontend/RxJS/Observable.md",
-    "Technology/OS/Linux/chmod.md",
-    "Technology/BASH/Finding Files.md",
-    "Technology/BASH/Reading Files.md",
-    "Technology/BASH/Redirection.md",
-    "Technology/BASH/Creating Files.md",
-    "Technology/BASH/Creating Directories.md",
-    "Technology/BASH/Navigating Directories.md",
-    "Technology/BASH/Command History.md",
-    "Technology/Database/Sqlite/Sqlite - Playground.md",
-    "Technology/Container/Docker/Dockerfile/USER.md",
-    "Technology/Container/Docker/Dockerfile/VOLUME.md",
-    "Technology/Container/Docker/Dockerfile/RUN.md",
-    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
-    "Technology/BASH/Bash functions.md",
-    "Technology/BASH/Arrays.md",
-    "Technology/Computing/Network/Configure home connection between two pc.md",
-    "Technology/BASH/Xargs/Xargs.md",
-    "Technology/BASH/If statment.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
@@ -227,7 +222,6 @@
     "Technology/Frontend/RxJS/Images/Pasted image 20231221232546.png",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221232447.png",
     "Technology/Frontend/RxJS/Images/Pasted image 20231221231858.png",
-    "Technology/Frontend/RxJS/Images",
     "Technology/Computing/Design Patterns/Images/Pasted image 20231217215532.png",
     "Technology/Computing/ComputerArchitecture/Images/Pasted image 20231208223317.png",
     "Technology/GIT/Images/Pasted image 20231114093911.png",

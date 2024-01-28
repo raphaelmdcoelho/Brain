@@ -204,6 +204,10 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 <hr>
 
+### Heredoc
 
+* [[Heredoc]]
+
+<hr>
 
 #bash 
