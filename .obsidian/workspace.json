@@ -38,9 +38,45 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "cdb006b55ffd3620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Tools/babeljs.io.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7f47ab2bb6f9235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Javascript/javascript - spread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0146dce311d4bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Container/DockerCompose/DockerCompose - Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/Javascript/javascript - spread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technology/Javascript/javascript - spread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/Javascript/javascript - spread.md"
+              }
             }
           },
           {
@@ -177,12 +217,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32f4cce870d92ec6",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
+    "Technology/Javascript/Javascript.md",
+    "Technology/Javascript/javascript - spread.md",
+    "Technology/Tools/babeljs.io.md",
+    "Technology/Container/DockerCompose/DockerCompose - Network.md",
+    "Technology/Container/DockerCompose/DockerCompose.md",
+    "Technology/Javascript/Object/Object.md",
     "Technology/Container/Docker/Dockerfile/Dockerfile.md",
     "Technology/BASH/eval.md",
     "Technology/BASH/Heredoc.md",
-    "Technology/Container/DockerCompose/DockerCompose.md",
     "Technology/Container/Docker/Dockerfile/Shell and exec form.md",
     "Technology/Container/DockerCompose",
     "Technology/BASH/Bash.md",
@@ -201,11 +246,6 @@
     "Technology/Container/Docker/Dockerfile/RUN.md",
     "Technology/Container/Docker/Dockerfile/WORKDIR.md",
     "Technology/Container/Docker/Dockerfile/FROM.md",
-    "Technology/Container/Docker/Images/Images.md",
-    "Excalidraw/Playground-test.md",
-    "Excalidraw/Drawing 2024-01-20 18.17.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-20 18.17.33.excalidraw.md",
-    "Technology/Frontend/RxJS/RxJS.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
