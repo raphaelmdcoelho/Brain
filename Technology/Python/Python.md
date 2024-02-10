@@ -45,6 +45,8 @@ print('*' * 10*) # '*' * 10 is a expression, because PRODUCES A VALUE
 * [[Python - Arguments]]
 
 * [[Python - IO]]
+
+* [[Python - Virtual Environment]]
 ### Libraries
 
 * [[Pandas]]
