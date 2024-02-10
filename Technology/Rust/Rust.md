@@ -34,4 +34,8 @@
 
 <hr>
 
+### [[Rust - IO]]
+
+<hr>
+
 #rust

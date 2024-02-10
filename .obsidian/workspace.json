@@ -35,8 +35,12 @@
             "id": "32f4cce870d92ec6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rust - IO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -76,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Javascript/javascript - spread.md",
+                "file": "Rust - IO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Javascript/javascript - spread.md",
+                "file": "Rust - IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Javascript/javascript - spread.md"
+                "file": "Rust - IO.md"
               }
             }
           },
@@ -217,15 +221,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1c52d2fc9b46fdc",
+  "active": "32f4cce870d92ec6",
   "lastOpenFiles": [
+    "Technology/Rust/Rust.md",
+    "Rust - IO.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Repetition using loops.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Variables.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Println macro.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Functions.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Data Types.md",
+    "Technology/Rust/Fundamentals/Rust - Fundamentals - Control flow using if.md",
+    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
+    "Technology/Python/Python.md",
+    "Technology/Python/Python - Virtual Environment.md",
+    "Technology/AI/Artificial Intelligence.md",
     "Technology/Javascript/Javascript.md",
     "Technology/Javascript/javascript - spread.md",
     "Technology/Tools/babeljs.io.md",
     "Technology/Container/DockerCompose/DockerCompose - Network.md",
     "Technology/Container/DockerCompose/DockerCompose.md",
     "Technology/Javascript/Object/Object.md",
-    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
     "Technology/BASH/eval.md",
     "Technology/BASH/Heredoc.md",
     "Technology/Container/Docker/Dockerfile/Shell and exec form.md",
@@ -235,17 +250,6 @@
     "Technology/Container/Docker/Dockerfile/dockerignore.md",
     "Technology/Container/Docker/Dockerfile/Environment replacement.md",
     "Technology/Others/Emoji data source.md",
-    "Technology/Container/Docker/Dockerfile/ADD.md",
-    "Technology/Container/Docker/Dockerfile/Parser directives.md",
-    "Technology/Container/Docker/Dockerfile/ARG.md",
-    "Technology/Container/Docker/Dockerfile/USER.md",
-    "Technology/Container/Docker/Dockerfile/ENTRYPOINT.md",
-    "Technology/Container/Docker/Dockerfile/VOLUME.md",
-    "Technology/Container/Docker/Dockerfile/ENV.md",
-    "Technology/Container/Docker/Dockerfile/CMD.md",
-    "Technology/Container/Docker/Dockerfile/RUN.md",
-    "Technology/Container/Docker/Dockerfile/WORKDIR.md",
-    "Technology/Container/Docker/Dockerfile/FROM.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
