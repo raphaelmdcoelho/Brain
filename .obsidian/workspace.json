@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "c1b0d69a5236d0af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Trigonometry.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "cdb006b55ffd3620",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.51103591918945
+    "width": 273.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -146,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust - IO.md",
+                "file": "Excalidraw/Trigonometry.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust - IO.md",
+                "file": "Excalidraw/Trigonometry.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust - IO.md"
+                "file": "Excalidraw/Trigonometry.excalidraw.md"
               }
             }
           },
@@ -221,24 +232,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32f4cce870d92ec6",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
-    "Technology/Rust/Rust.md",
+    "Excalidraw/Playground-test.md",
+    "Excalidraw/Trigonometry.excalidraw.md",
+    "Technology/Container/DockerCompose/DockerCompose - Network.md",
+    "Technology/Javascript/javascript - spread.md",
+    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
     "Rust - IO.md",
+    "Technology/Rust/Rust.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Repetition using loops.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Variables.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Println macro.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Functions.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Data Types.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Control flow using if.md",
-    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
     "Technology/Python/Python.md",
     "Technology/Python/Python - Virtual Environment.md",
     "Technology/AI/Artificial Intelligence.md",
     "Technology/Javascript/Javascript.md",
-    "Technology/Javascript/javascript - spread.md",
     "Technology/Tools/babeljs.io.md",
-    "Technology/Container/DockerCompose/DockerCompose - Network.md",
     "Technology/Container/DockerCompose/DockerCompose.md",
     "Technology/Javascript/Object/Object.md",
     "Technology/BASH/eval.md",
@@ -248,8 +261,6 @@
     "Technology/BASH/Bash.md",
     "Technology/BASH/Finding Files.md",
     "Technology/Container/Docker/Dockerfile/dockerignore.md",
-    "Technology/Container/Docker/Dockerfile/Environment replacement.md",
-    "Technology/Others/Emoji data source.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
