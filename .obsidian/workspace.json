@@ -54,6 +54,36 @@
             }
           },
           {
+            "id": "a73370bdc5f90bdd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Numbers-Units.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5751a491ac63f58a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Trigonometry.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e2ad32ab6db0af03",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Trigonometry-1.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "cdb006b55ffd3620",
             "type": "leaf",
             "state": {
@@ -90,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.51103591918945,
-    "collapsed": true
+    "width": 273.51103591918945
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -157,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Trigonometry.excalidraw.md",
+                "file": "Excalidraw/Trigonometry-1.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Trigonometry.excalidraw.md",
+                "file": "Excalidraw/Trigonometry-1.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Trigonometry.excalidraw.md"
+                "file": "Excalidraw/Trigonometry-1.excalidraw.md"
               }
             }
           },
@@ -224,18 +253,21 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1c52d2fc9b46fdc",
+  "active": "e2ad32ab6db0af03",
   "lastOpenFiles": [
-    "Excalidraw/Playground-test.md",
     "Excalidraw/Trigonometry.excalidraw.md",
+    "Excalidraw/Rust-Tips.excalidraw.md",
+    "Excalidraw/Numbers-Units.excalidraw.md",
+    "Excalidraw/Trigonometry-1.excalidraw.md",
+    "Excalidraw/Playground-test.md",
     "Technology/Container/DockerCompose/DockerCompose - Network.md",
     "Technology/Javascript/javascript - spread.md",
     "Technology/Container/Docker/Dockerfile/Dockerfile.md",
@@ -258,9 +290,6 @@
     "Technology/BASH/Heredoc.md",
     "Technology/Container/Docker/Dockerfile/Shell and exec form.md",
     "Technology/Container/DockerCompose",
-    "Technology/BASH/Bash.md",
-    "Technology/BASH/Finding Files.md",
-    "Technology/Container/Docker/Dockerfile/dockerignore.md",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
     "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
