@@ -44,32 +44,12 @@
             }
           },
           {
-            "id": "c1b0d69a5236d0af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Trigonometry.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "a73370bdc5f90bdd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Numbers-Units.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5751a491ac63f58a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Trigonometry.excalidraw.md"
               }
             }
           },
@@ -120,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,10 +243,10 @@
   },
   "active": "e2ad32ab6db0af03",
   "lastOpenFiles": [
-    "Excalidraw/Trigonometry.excalidraw.md",
     "Excalidraw/Rust-Tips.excalidraw.md",
     "Excalidraw/Numbers-Units.excalidraw.md",
     "Excalidraw/Trigonometry-1.excalidraw.md",
+    "Excalidraw/Trigonometry.excalidraw.md",
     "Excalidraw/Playground-test.md",
     "Technology/Container/DockerCompose/DockerCompose - Network.md",
     "Technology/Javascript/javascript - spread.md",
