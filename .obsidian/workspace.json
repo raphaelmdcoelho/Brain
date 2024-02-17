@@ -64,6 +64,16 @@
             }
           },
           {
+            "id": "c99ab25ef753c0b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Trigonometry-1.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "cdb006b55ffd3620",
             "type": "leaf",
             "state": {
@@ -100,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,10 +251,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2ad32ab6db0af03",
+  "active": "c99ab25ef753c0b2",
   "lastOpenFiles": [
-    "Excalidraw/Rust-Tips.excalidraw.md",
+    "Excalidraw/Logaritmos.excalidraw.md",
     "Excalidraw/Numbers-Units.excalidraw.md",
+    "Excalidraw/Rust-Tips.excalidraw.md",
     "Excalidraw/Trigonometry-1.excalidraw.md",
     "Excalidraw/Trigonometry.excalidraw.md",
     "Excalidraw/Playground-test.md",
@@ -268,7 +279,6 @@
     "Technology/Javascript/Object/Object.md",
     "Technology/BASH/eval.md",
     "Technology/BASH/Heredoc.md",
-    "Technology/Container/Docker/Dockerfile/Shell and exec form.md",
     "Technology/Container/DockerCompose",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
