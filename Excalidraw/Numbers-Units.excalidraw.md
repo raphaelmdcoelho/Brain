@@ -13,7 +13,7 @@ Binary
 1010     2³ x 1 + 2² x 0 + 2¹ x 1 + 2 x 0 =
          8 + 0 + 2 + 0 = 10 decimal ^TjNdhTWQ
 
-Deicmal
+Decimal
 
 125    10² x 1 + 10¹ x 2 + 10 x 5 = 
        100 + 20 + 5 = 125 decimal ^uCLfi3YK
@@ -250,8 +250,8 @@ Octal
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 1446651372,
+			"version": 107,
+			"versionNonce": 1186871252,
 			"isDeleted": false,
 			"id": "uCLfi3YK",
 			"fillStyle": "solid",
@@ -271,17 +271,17 @@ Octal
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708124101820,
+			"updated": 1708191613105,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Deicmal\n\n125    10² x 1 + 10¹ x 2 + 10 x 5 = \n       100 + 20 + 5 = 125 decimal",
-			"rawText": "Deicmal\n\n125    10² x 1 + 10¹ x 2 + 10 x 5 = \n       100 + 20 + 5 = 125 decimal",
+			"text": "Decimal\n\n125    10² x 1 + 10¹ x 2 + 10 x 5 = \n       100 + 20 + 5 = 125 decimal",
+			"rawText": "Decimal\n\n125    10² x 1 + 10¹ x 2 + 10 x 5 = \n       100 + 20 + 5 = 125 decimal",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Deicmal\n\n125    10² x 1 + 10¹ x 2 + 10 x 5 = \n       100 + 20 + 5 = 125 decimal",
+			"originalText": "Decimal\n\n125    10² x 1 + 10¹ x 2 + 10 x 5 = \n       100 + 20 + 5 = 125 decimal",
 			"lineHeight": 1.25,
 			"baseline": 93
 		},
@@ -887,28 +887,28 @@ Octal
 			"pressures": []
 		},
 		{
-			"id": "nHMiamdQheQP6cm77ECeT",
 			"type": "freedraw",
-			"x": -380.8001334780738,
-			"y": -384.12818189385416,
-			"width": 9.5,
-			"height": 13.5,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 44,
+			"versionNonce": 3820780,
+			"isDeleted": false,
+			"id": "nHMiamdQheQP6cm77ECeT",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 40,
+			"angle": 0,
+			"x": -380.8001334780738,
+			"y": -384.12818189385416,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 9.5,
+			"height": 13.5,
+			"seed": 2113166164,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2113166164,
-			"version": 44,
-			"versionNonce": 3820780,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1708124470185,
 			"link": null,
 			"locked": false,
@@ -1082,36 +1082,33 @@ Octal
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.5,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "Z1Q7ILUSxP24eZ2kCvDRZ",
 			"type": "freedraw",
-			"x": -410.3001334780738,
-			"y": -240.62818189385416,
-			"width": 19,
-			"height": 10.5,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 82,
+			"versionNonce": 1609583084,
+			"isDeleted": false,
+			"id": "Z1Q7ILUSxP24eZ2kCvDRZ",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 40,
+			"angle": 0,
+			"x": -410.3001334780738,
+			"y": -240.62818189385416,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 19,
+			"height": 10.5,
+			"seed": 1763585364,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1763585364,
-			"version": 82,
-			"versionNonce": 1609583084,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1708124473076,
 			"link": null,
 			"locked": false,
@@ -1441,36 +1438,33 @@ Octal
 					-4.5
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4.5,
-				-4.5
-			]
+			"pressures": []
 		},
 		{
-			"id": "pXf45vQ1FxEZe5TCISvFQ",
 			"type": "freedraw",
-			"x": -417.3001334780738,
-			"y": -101.62818189385416,
-			"width": 8,
-			"height": 8.5,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 68,
+			"versionNonce": 1405874388,
+			"isDeleted": false,
+			"id": "pXf45vQ1FxEZe5TCISvFQ",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 40,
+			"angle": 0,
+			"x": -417.3001334780738,
+			"y": -101.62818189385416,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 8,
+			"height": 8.5,
+			"seed": 2134884076,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2134884076,
-			"version": 68,
-			"versionNonce": 1405874388,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1708124475711,
 			"link": null,
 			"locked": false,
@@ -1744,12 +1738,9 @@ Octal
 					-6.5
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				3.5,
-				-6.5
-			]
+			"pressures": []
 		}
 	],
 	"appState": {
