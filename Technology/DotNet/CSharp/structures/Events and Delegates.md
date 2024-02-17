@@ -1,5 +1,7 @@
 ### Concepts
 
+**Good sumary**: Just a property that allow a channel to subscribers subscribe to a event. So the event don't know who will subscribe to it. So the publisher class just need to have a event from a delegate type and a check if is not null to running it in a OnMethod. Then the subscriber just need a handler method to be assigned to the event (subscribe).
+
 #### Events
 
 * A mechanism for communication between object.
@@ -72,6 +74,9 @@ public class VideoEnconder
 	{
 		if(VideoEncoded != null)
 			VideoEncoded(this, EventArgs.Empty);
+
+		// Same thing as above:
+		//VideoEncoded?.Invoke(this, EventArgs.Empty);
 	}
 }
 

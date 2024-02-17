@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Container/Docker/Dockerfile/Dockerfile.md",
+                "file": "Technology/DotNet/LinQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Power-Properties.excalidraw.md"
+                "file": "Excalidraw/Trigonometry-1.excalidraw.md"
               }
             }
           },
@@ -121,8 +121,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Power-Properties.excalidraw.md",
+                "file": "Technology/DotNet/LinQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Power-Properties.excalidraw.md",
+                "file": "Technology/DotNet/LinQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Power-Properties.excalidraw.md"
+                "file": "Technology/DotNet/LinQ.md"
               }
             }
           },
@@ -263,19 +262,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98b60b7c79508a06",
+  "active": "b6abe758c8f8183d",
   "lastOpenFiles": [
-    "Math/Power.md",
-    "Excalidraw/Power-Properties.excalidraw.md",
+    "Technology/DotNet/CSharp/structures/Events and Delegates.md",
+    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
     "Excalidraw/Trigonometry-1.excalidraw.md",
     "Excalidraw/Rust-Tips.excalidraw.md",
+    "Excalidraw/Power-Properties.excalidraw.md",
     "Excalidraw/Numbers-Units.excalidraw.md",
     "Excalidraw/Logaritmos.excalidraw.md",
+    "Math/Power.md",
     "Excalidraw/Trigonometry.excalidraw.md",
     "Excalidraw/Playground-test.md",
     "Technology/Container/DockerCompose/DockerCompose - Network.md",
     "Technology/Javascript/javascript - spread.md",
-    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
     "Rust - IO.md",
     "Technology/Rust/Rust.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Repetition using loops.md",
@@ -290,7 +290,6 @@
     "Technology/Javascript/Javascript.md",
     "Technology/Tools/babeljs.io.md",
     "Technology/Container/DockerCompose/DockerCompose.md",
-    "Technology/Javascript/Object/Object.md",
     "Technology/Container/DockerCompose",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
