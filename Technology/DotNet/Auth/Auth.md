@@ -11,5 +11,7 @@ In `ASP.NET Core`, authentication and authorization are handled through a combin
 
 ### [[DotNet - Customizing Authentication and Authorization]]
 
+### [[DotNet - Extending Identity and User Management]]
+
 #dotnet #authentication #authorization
 

@@ -30,4 +30,6 @@ Authorization policies can also be based on other factors, such as claims, custo
 
 ### [[DotNet - Role-Based Authorization]]
 
+### [[DotNet - Custom Authorization Filters]]
+
 #dotnet #authorization 

@@ -12,4 +12,11 @@ public class CustomTokenAuthenticationHandler : AuthenticationHandler<CustomToke
 }
 ```
 
+Registering it in to the application:
+
+```csharp
+services.AddAuthentication()  
+	.AddScheme<CustomTokenAuthenticationOptions, CustomTokenAuthenticationHandler>("CustomToken", options => { });
+```
+
 #dotnet #authentication #authorization'
