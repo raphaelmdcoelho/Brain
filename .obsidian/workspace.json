@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/DotNet/Auth/DotNet - Customizing Authentication and Authorization.md",
+                "file": "Technology/DotNet/Auth/DotNet - Extending Identity and User Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/DotNet/Auth/DotNet - Customizing Authentication and Authorization.md",
+                "file": "Technology/DotNet/Auth/DotNet - Extending Identity and User Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/DotNet/Auth/DotNet - Customizing Authentication and Authorization.md",
+                "file": "Technology/DotNet/Auth/DotNet - Extending Identity and User Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/DotNet/Auth/DotNet - Customizing Authentication and Authorization.md"
+                "file": "Technology/DotNet/Auth/DotNet - Extending Identity and User Management.md"
               }
             }
           },
@@ -202,9 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a80be02fc51d3df5",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
     "Technology/DotNet/Auth/Auth.md",
+    "Technology/DotNet/Auth/DotNet - Extending Identity and User Management.md",
+    "Technology/DotNet/Auth/DotNet - Authorization.md",
+    "Technology/DotNet/Auth/DotNet - Custom Authorization Filters.md",
     "Technology/DotNet/Auth/DotNet - Customizing Authentication and Authorization.md",
     "Excalidraw/DotNet-Auth.excalidraw.md",
     "Technology/DotNet/Auth/Images/roles.png",
@@ -221,7 +224,6 @@
     "Technology/DotNet/Auth/DotNet - Cookie Authentication.md",
     "Pasted Image 20240316231246_560.jpg",
     "Technology/DotNet/Auth/DotNet - Role-Based Authorization.md",
-    "Technology/DotNet/Auth/DotNet - Authorization.md",
     "Technology/DotNet/Auth/DotNet - JWT Bearer Authentication.md",
     "Technology/AI/Artificial Intelligence.md",
     "Technology/Python/Python.md",
@@ -233,8 +235,6 @@
     "Technology/Frontend/Angular/Component/Angular - Component.md",
     "Math/Power.md",
     "Technology/Database/Sqlite/Sqlite - Playground.md",
-    "Technology/DotNet/LinQ.md",
-    "Technology/DotNet/CSharp/structures/Events and Delegates.md",
     "Technology/Container/DockerCompose",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
