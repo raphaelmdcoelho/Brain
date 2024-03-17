@@ -8,120 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6abe758c8f8183d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/DotNet/LinQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6475f27f1b7b998e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/BASH/Heredoc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32f4cce870d92ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust - IO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a73370bdc5f90bdd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Numbers-Units.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e2ad32ab6db0af03",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Trigonometry-1.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "c99ab25ef753c0b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Power.md",
+                "file": "Technology/Frontend/Angular/Component/CSS Selector.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98b60b7c79508a06",
+            "id": "02bce487d49fddbe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "release-notes",
               "state": {
-                "file": "Excalidraw/Trigonometry-1.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cdb006b55ffd3620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Tools/babeljs.io.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7f47ab2bb6f9235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Javascript/javascript - spread.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0146dce311d4bdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Container/DockerCompose/DockerCompose - Network.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.8"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/DotNet/LinQ.md",
+                "file": "Technology/Frontend/Angular/Component/CSS Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/DotNet/LinQ.md",
+                "file": "Technology/Frontend/Angular/Component/CSS Selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/DotNet/LinQ.md"
+                "file": "Technology/Frontend/Angular/Component/CSS Selector.md"
               }
             }
           },
@@ -262,22 +171,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6abe758c8f8183d",
+  "active": "02bce487d49fddbe",
   "lastOpenFiles": [
-    "Technology/DotNet/CSharp/structures/Events and Delegates.md",
-    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
+    "Technology/Rust/Rust.md",
+    "Technology/Frontend/Angular/Component/CSS Selector.md",
+    "Technology/Frontend/Angular/Component/Angular - Component.md",
     "Excalidraw/Trigonometry-1.excalidraw.md",
     "Excalidraw/Rust-Tips.excalidraw.md",
-    "Excalidraw/Power-Properties.excalidraw.md",
-    "Excalidraw/Numbers-Units.excalidraw.md",
     "Excalidraw/Logaritmos.excalidraw.md",
+    "Excalidraw/Numbers-Units.excalidraw.md",
+    "Excalidraw/Power-Properties.excalidraw.md",
     "Math/Power.md",
+    "Technology/Database/Sqlite/Sqlite - Playground.md",
+    "Technology/DotNet/LinQ.md",
+    "Technology/DotNet/CSharp/structures/Events and Delegates.md",
+    "Technology/Container/Docker/Dockerfile/Dockerfile.md",
     "Excalidraw/Trigonometry.excalidraw.md",
     "Excalidraw/Playground-test.md",
     "Technology/Container/DockerCompose/DockerCompose - Network.md",
     "Technology/Javascript/javascript - spread.md",
-    "Rust - IO.md",
-    "Technology/Rust/Rust.md",
+    "Technology/Rust/Rust - IO.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Repetition using loops.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Variables.md",
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Println macro.md",
@@ -286,10 +199,6 @@
     "Technology/Rust/Fundamentals/Rust - Fundamentals - Control flow using if.md",
     "Technology/Python/Python.md",
     "Technology/Python/Python - Virtual Environment.md",
-    "Technology/AI/Artificial Intelligence.md",
-    "Technology/Javascript/Javascript.md",
-    "Technology/Tools/babeljs.io.md",
-    "Technology/Container/DockerCompose/DockerCompose.md",
     "Technology/Container/DockerCompose",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
