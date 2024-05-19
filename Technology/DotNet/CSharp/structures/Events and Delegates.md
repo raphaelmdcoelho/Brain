@@ -41,7 +41,7 @@ class Program
 {
 	var video = new Video() { Title = "Video 1" };
 	var videoEncoder = new VideoEncoder(); // publisher
-	var mailService = ew MailService(); // subscriber
+	var mailService = new MailService(); // subscriber
 
 	// 4 -
 	videoEncoder.VideoEncoded += mailService.OnVideoEncoded; // I'm applying a reference to the subscriber method to be run by publisher
