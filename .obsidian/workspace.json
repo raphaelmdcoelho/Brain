@@ -11,12 +11,8 @@
             "id": "6d504c553ee1df1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/DotNet/CSharp/structures/Events and Delegates.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -30,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c45044e977dcb91b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Servers/NGINX/NGINX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.51103591918945
+    "width": 273.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/DotNet/CSharp/structures/Events and Delegates.md",
+                "file": "Technology/Servers/NGINX/NGINX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/DotNet/CSharp/structures/Events and Delegates.md",
+                "file": "Technology/Servers/NGINX/NGINX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/DotNet/CSharp/structures/Events and Delegates.md"
+                "file": "Technology/Servers/NGINX/NGINX.md"
               }
             }
           },
@@ -172,17 +182,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d504c553ee1df1e",
+  "active": "c45044e977dcb91b",
   "lastOpenFiles": [
     "Technology/Computing/Design Patterns/Observer/Pattern - Observer.md",
+    "Technology/Servers/NGINX/NGINX.md",
+    "Technology/DotNet/CSharp/C Sharp.md",
     "Technology/DotNet/CSharp/structures/Events and Delegates.md",
-    "Technology/DotNet/Auth/Auth.md",
-    "Excalidraw/DotNet-Auth.excalidraw.md",
     "Technology/AI/Artificial Intelligence.md",
+    "Technology/Playground/Playground.md",
+    "Technology/Others/Dot Files.md",
+    "Technology/OS/Linux/SSH/SSH keys.md",
+    "Technology/OS/Linux/SSH/SSH - Agent.md",
+    "Untitled.canvas",
+    "Excalidraw/DotNet-Auth.excalidraw.md",
+    "Excalidraw/Logaritmos.excalidraw.md",
+    "Excalidraw/Numbers-Units.excalidraw.md",
+    "Excalidraw/Power-Properties.excalidraw.md",
+    "Excalidraw/Rust-Tips.excalidraw.md",
+    "Excalidraw/Trigonometry-1.excalidraw.md",
+    "Technology/DotNet/Auth/Auth.md",
     "Technology/Python/Python.md",
     "Technology/Computing/Design Patterns/Observer/DP - Observer - CSharp.md",
     "Technology/Computing/Design Patterns/Observer/DP - Observer - Python.md",
-    "Untitled.canvas",
     "Technology/DotNet/Auth/DotNet - Extending Identity and User Management.md",
     "Technology/DotNet/Auth/DotNet - Authorization.md",
     "Technology/DotNet/Auth/DotNet - Custom Authorization Filters.md",
@@ -190,22 +211,11 @@
     "Technology/DotNet/Auth/Images/roles.png",
     "Technology/DotNet/Auth/Images",
     "Technology/DotNet/Auth/Images/id_card.png",
-    "Excalidraw/Trigonometry-1.excalidraw.md",
-    "Excalidraw/Rust-Tips.excalidraw.md",
-    "Excalidraw/Power-Properties.excalidraw.md",
-    "Excalidraw/Numbers-Units.excalidraw.md",
-    "Excalidraw/Logaritmos.excalidraw.md",
     "Technology/DotNet/Auth/DotNet - Authentication.md",
     "Technology/DotNet/Auth/DotNet - External Authentication Providers.md",
     "Technology/DotNet/Auth/DotNet - Claim-Based Authentication.md",
-    "Technology/DotNet/Auth/DotNet - Cookie Authentication.md",
     "Pasted Image 20240316231246_560.jpg",
-    "Technology/DotNet/Auth/DotNet - Role-Based Authorization.md",
-    "Technology/DotNet/Auth/DotNet - JWT Bearer Authentication.md",
-    "Technology/DotNet/Blazor/Blazor.md",
-    "Technology/Computing/Authentication/Authentication.md",
     "Technology/DotNet/Auth",
-    "Technology/Rust/Rust.md",
     "Technology/Container/DockerCompose",
     "Technology/Frontend/Angular/Event",
     "Technology/Computing/Protocols/Images",
