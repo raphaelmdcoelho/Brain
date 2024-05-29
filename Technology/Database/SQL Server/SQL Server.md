@@ -14,6 +14,7 @@
 - [[STORE PROCEDURE]]
 - [[VIEW]]
 - [[INDEX]]
+- [[WINDOW FUNCTION]]
 
 ### Features
 
