@@ -27,49 +27,10 @@ nginx -s signal
 * If the `block directive` can have other directives inside braces, it is called a context.
 * Directives placed in the configuration file outside of any contexts are considered to be in the main context. The `events` and `http` directives reside in the `main` context, `server` in `http`, and `location` in `server`.
 
-## Serving Static Content
+## [[NGINX Static Content]]
 
-```nginx
-http {
-	server {
-		location / {
-			root /data/www;
-		}
-		
-		location /images/ {
-			root /data;
-		}
-	}
-}
-```
+## [[NGINX Proxy Server]]
 
-**Note**: In case something does not work as expected, you may try to find out the reason in `access.log` and `error.log` files in the directory `/usr/local/nginx/logs` or `/var/log/nginx`.
-
-## Setting Up a Simple Proxy Server
-
-This means a server that receives requests, passes them to the proxied servers, retrieves responses from them, and sends them to the clients.
-
-```nginx
-http {
-	server {
-		listen 8080;
-		root /data/api;
-
-		location / {
-		}
-	}
-
-	server {
-		location / {
-			proxy_pass http://localhost:8080;
-		}
-
-		location /images/ {
-			root /data;
-		}
-	}
-}
-```
 
 #server #nginx
 

@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d504c553ee1df1e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "04435f8d980ad8ca",
             "type": "leaf",
             "state": {
@@ -33,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Servers/NGINX/NGINX.md",
+                "file": "WINDOW FUNCTION.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cf4f22ec9d1c0c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Servers/NGINX/NGINX.md",
+                "file": "WINDOW FUNCTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Servers/NGINX/NGINX.md",
+                "file": "WINDOW FUNCTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Servers/NGINX/NGINX.md"
+                "file": "WINDOW FUNCTION.md"
               }
             }
           },
@@ -185,7 +186,16 @@
   "active": "c45044e977dcb91b",
   "lastOpenFiles": [
     "Technology/Computing/Design Patterns/Observer/Pattern - Observer.md",
+    "WINDOW FUNCTION.md",
+    "Technology/Frontend/RxJS/Operators.md",
+    "Technology/Computing/Encoding/Encoding.md",
+    "Technology/Database/SQL Server/SQL Server.md",
+    "Technology/Database/SQL Server/INDEX.md",
+    "Technology/Database/SQL Server/Sql Server - Playground.md",
     "Technology/Servers/NGINX/NGINX.md",
+    "Technology/Servers/NGINX/NGINX Static Content.md",
+    "Technology/Servers/NGINX/NGINX Proxy Server.md",
+    "Technology/Servers/NGINX/nginx.conf.md",
     "Technology/DotNet/CSharp/C Sharp.md",
     "Technology/DotNet/CSharp/structures/Events and Delegates.md",
     "Technology/AI/Artificial Intelligence.md",
@@ -202,18 +212,9 @@
     "Excalidraw/Trigonometry-1.excalidraw.md",
     "Technology/DotNet/Auth/Auth.md",
     "Technology/Python/Python.md",
-    "Technology/Computing/Design Patterns/Observer/DP - Observer - CSharp.md",
-    "Technology/Computing/Design Patterns/Observer/DP - Observer - Python.md",
-    "Technology/DotNet/Auth/DotNet - Extending Identity and User Management.md",
-    "Technology/DotNet/Auth/DotNet - Authorization.md",
-    "Technology/DotNet/Auth/DotNet - Custom Authorization Filters.md",
-    "Technology/DotNet/Auth/DotNet - Customizing Authentication and Authorization.md",
     "Technology/DotNet/Auth/Images/roles.png",
     "Technology/DotNet/Auth/Images",
     "Technology/DotNet/Auth/Images/id_card.png",
-    "Technology/DotNet/Auth/DotNet - Authentication.md",
-    "Technology/DotNet/Auth/DotNet - External Authentication Providers.md",
-    "Technology/DotNet/Auth/DotNet - Claim-Based Authentication.md",
     "Pasted Image 20240316231246_560.jpg",
     "Technology/DotNet/Auth",
     "Technology/Container/DockerCompose",
