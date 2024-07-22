@@ -2,7 +2,7 @@
 ### Starting container
 
 ```bash
-dotnet run -it -v "$(pwd)||C:\:/workspace" -w /workspace keinos/sqlite3
+docker run -it -v "$(pwd)||C:\:/workspace" -w /workspace keinos/sqlite3
 
 docker stop "container_name"
 

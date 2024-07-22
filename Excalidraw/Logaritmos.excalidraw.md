@@ -133,7 +133,7 @@ x ^jT6UMPn0
 
 log ^bgAzrqf0
 
-7 ^X6SoX9MK
+2 ^X6SoX9MK
 
 = ^ceUbXwCH
 
@@ -202,7 +202,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "Logaritmos",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
@@ -239,7 +239,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "log",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -281,7 +281,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "b",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -323,7 +323,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "a",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -360,7 +360,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "= x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
@@ -514,7 +514,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "logaritmando",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -556,7 +556,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "base",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -598,7 +598,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "logaritmo",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
@@ -727,7 +727,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "a = b",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -764,7 +764,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -2829,7 +2829,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "decomposição em fatores primos",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
@@ -2927,7 +2927,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "32\n 16\n 8\n 4\n 2\n  1",
 			"lineHeight": 1.25,
-			"baseline": 143
+			"baseline": 142
 		},
 		{
 			"type": "line",
@@ -3008,7 +3008,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3045,7 +3045,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3082,7 +3082,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3119,7 +3119,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3156,7 +3156,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
@@ -3245,7 +3245,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "log",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -3710,7 +3710,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "16",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3747,7 +3747,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3784,7 +3784,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "8",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3821,7 +3821,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "= 8",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
@@ -3902,7 +3902,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "8",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3939,7 +3939,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -3976,7 +3976,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -4441,7 +4441,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "16",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4478,7 +4478,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4515,7 +4515,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "(2 )",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4552,7 +4552,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4589,7 +4589,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4626,7 +4626,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -5091,7 +5091,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5128,7 +5128,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5165,7 +5165,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "4",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5202,7 +5202,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5239,7 +5239,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5276,7 +5276,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5313,7 +5313,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5350,7 +5350,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5387,7 +5387,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -5468,7 +5468,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "4",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5505,7 +5505,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "log",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5542,7 +5542,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "49",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5579,7 +5579,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "1",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5616,7 +5616,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "7",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -5697,7 +5697,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "(   )",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5734,7 +5734,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5771,7 +5771,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
@@ -5852,7 +5852,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "7",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5889,7 +5889,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5926,7 +5926,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5963,7 +5963,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "49",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6000,7 +6000,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "1",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -6081,7 +6081,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "7",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6118,7 +6118,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6155,7 +6155,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6192,7 +6192,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "1",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6229,7 +6229,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "7",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -6310,7 +6310,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "-2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -6523,12 +6523,12 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "log",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 713,
-			"versionNonce": 1409718764,
+			"version": 719,
+			"versionNonce": 1159680682,
 			"isDeleted": false,
 			"id": "X6SoX9MK",
 			"fillStyle": "solid",
@@ -6537,30 +6537,30 @@ x ^FaJelvaD
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 287.0796086872707,
-			"y": -163.10968608580004,
+			"x": 287.3967102957312,
+			"y": -162.47547226772866,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 10.759994506835938,
+			"width": 14.239990234375,
 			"height": 25,
 			"seed": 1639886932,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708128688848,
+			"updated": 1721472220775,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "7",
-			"rawText": "7",
+			"text": "2",
+			"rawText": "2",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "7",
+			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6597,7 +6597,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6634,7 +6634,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
@@ -6715,7 +6715,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6752,7 +6752,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6789,7 +6789,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6831,7 +6831,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "32",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6868,7 +6868,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6905,7 +6905,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "x",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -6942,7 +6942,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "=",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -6990,8 +6990,8 @@ x ^FaJelvaD
 		},
 		{
 			"type": "text",
-			"version": 771,
-			"versionNonce": 1940830828,
+			"version": 772,
+			"versionNonce": 1078484778,
 			"isDeleted": false,
 			"id": "uzyaa02E",
 			"fillStyle": "solid",
@@ -7000,8 +7000,8 @@ x ^FaJelvaD
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 291.105016635911,
-			"y": -187.19547309570237,
+			"x": 291.7392622574333,
+			"y": -187.5125853053132,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 27.8599853515625,
@@ -7011,7 +7011,7 @@ x ^FaJelvaD
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708128688848,
+			"updated": 1721472217050,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7023,7 +7023,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "32",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -7060,7 +7060,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -7097,7 +7097,7 @@ x ^FaJelvaD
 			"containerId": null,
 			"originalText": "5",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "line",
@@ -7203,10 +7203,10 @@ x ^FaJelvaD
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 456.1312694574114,
-		"scrollY": 476.57426945714,
+		"scrollX": -46.727615527945375,
+		"scrollY": 237.6893659474884,
 		"zoom": {
-			"value": 1.1500000000000001
+			"value": 2.878704404265648
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
