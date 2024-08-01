@@ -1,3 +1,8 @@
+
+## Boards
+
+[[Window-functions.excalidraw]]
+
 A ***window function*** performs a calculation across a set of table rows that are somehow related to the current row.
 
 This is comparable to the type of calculation that can be done with an aggregate function. But unlike regular aggregate functions, use of a window function does not cause rows to become grouped into a single output row — the rows retain their separate identities.

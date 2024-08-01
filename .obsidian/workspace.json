@@ -4,93 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "877075c307bfecbb",
+        "id": "927e5f4eab1c3322",
         "type": "tabs",
         "children": [
           {
-            "id": "c0edf3d45828f066",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6d70ba3614926b8c",
+            "id": "c39a6d3f2e6daabe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Tools/VIM/VIM - Operations.md",
+                "file": "Math/Math.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c50fcd4b68d2badc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/DotNet/Aspire/Aspire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "174204be4e2a8d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language/French/French.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db760daad5900cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Book/Career/AZ-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9b6110ca7020025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/DotNet/Caching/Caching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c70d93ee4bf08ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/logarithms/Logarithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c6414416a5d296e",
+            "id": "a5d867194d298a75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md",
+                "file": "Math/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md",
+                "file": "Math/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md"
+                "file": "Math/Math.md"
               }
             }
           },
@@ -242,55 +172,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0edf3d45828f066",
+  "active": "c39a6d3f2e6daabe",
   "lastOpenFiles": [
-    "Excalidraw/Vacation-2024-study/AZ-900-study.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Sql-pivot.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Window-functions.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Trigonometry-1.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
+    "Math/Math.md",
+    "Technology/Database/SQL Server/Pivot.md",
+    "Excalidraw/Vacation-2024-study/SQL/Sql-pivot.excalidraw.md",
+    "Technology/Database/SQL Server/WINDOW FUNCTION.md",
+    "Excalidraw/Vacation-2024-study/SQL/Window-functions.excalidraw.md",
+    "Math/Trigonometry/Trigonometry.md",
+    "Excalidraw/Vacation-2024-study/Math/Trigonometry.excalidraw.md",
+    "Math/Geometry/Geometry.md",
+    "Excalidraw/Geometria.excalidraw.md",
+    "Math/Geometry/Circle.md",
+    "Excalidraw/Vacation-2024-study/az-900/AZ-900-index.excalidraw.md",
+    "Technology/Infrastructure/Deploy/Ansible.md",
+    "Technology/Container/k8s/Kubernetes.md",
+    "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Ansible",
+    "Excalidraw/Vacation-2024-study/SpaceX_engines.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Learn_skill.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Http-protocol.excalidraw.md",
     "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/k8s/kind-logo.png",
-    "Technology/Tools/VIM/VIM - Operations.md",
-    "Math/logarithms/Logarithms.md",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
-    "Excalidraw/Vacation-2024-study/k8s",
-    "Untitled.canvas",
-    "Excalidraw/Rust-Tips.excalidraw.md",
-    "Excalidraw/Power-Properties.excalidraw.md",
-    "Excalidraw/Numbers-Units.excalidraw.md",
     "Excalidraw/Logaritmos.excalidraw.md",
-    "Excalidraw/GitHubActions.excalidraw.md",
-    "Excalidraw/DotNet-Auth.excalidraw.md",
-    "Excalidraw/Docker-compose-structure.excalidraw.md",
-    "Excalidraw/SQL",
-    "Excalidraw/Vacation-2024-study",
-    "Technology/DotNet/Aspire/Aspire.md",
-    "Technology/Tools/VIM/VIM.md",
-    "Technology/Tools/VIM/VIM - Command Mode.md",
-    "Technology/Tools/VIM/VIM - Insert Model.md",
-    "Technology/Tools/VIM/VIM - Normal Mode.md",
-    "Language/French/French.md",
-    "Language/German/German.md",
-    "Language/French",
-    "Life Book/Career/AZ-900.md",
-    "Technology/DotNet/Caching/Caching.md",
-    "Technology/Infrastructure/Deploy/Ansible.md",
-    "Math/Math.md",
-    "Math/logarithms",
-    "Technology/DotNet/Caching",
-    "Technology/Infrastructure/Deploy",
-    "Technology/Infrastructure",
-    "Technology/DotNet/Aspire",
-    "Technology/Container/Docker/MountAndVolumes",
+    "Excalidraw/Open-ai-api.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Untitled.md",
+    "Projects/Exam AZ-900/AZ-900.md",
+    "Technology/OS/Linux/Linux - Directory structure.md",
+    "Projects/Exam AZ-204.md",
+    "Projects/Exam AZ-900",
+    "Technology/Container/k8s",
+    "Excalidraw/Vacation-2024-study/Math",
+    "Excalidraw/Vacation-2024-study/SQL",
+    "Others/Icons/right-arrow-1.png",
+    "Others/Icons",
+    "Untitled",
+    "Others",
+    "Pasted Image 20240722140700_086.png",
+    "Excalidraw/Vacation-2024-study/az-900/images/cloud-responsibilities.png",
+    "Excalidraw/Vacation-2024-study/az-900/images",
+    "Excalidraw/Vacation-2024-study/az-900",
+    "Technology/DotNet/Auth/Images/roles.png",
+    "Technology/DotNet/Auth/Images/id_card.png",
     "Technology/Container/Docker/Pictures/Pasted image 20240708232754.png",
     "Technology/Container/Docker/Pictures/docker-port-mapping.png",
     "Technology/Container/Docker/Pictures/docker-image-container.png",
+    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Technology/DotNet/Auth/Images/roles.png",
-    "Technology/DotNet/Auth/Images/id_card.png",
-    "Pasted Image 20240316231246_560.jpg",
-    "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
     "Projects/Posts/AWK/BrainStorm.canvas",
     "Projects/PDI 2023/PDI 2023.canvas",
     "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas"
