@@ -1,3 +1,9 @@
+
+### Boards
+
+* [[Improve-focus.excalidraw]]
+
+* [[Learn_skill.excalidraw]]
 ### Mind
 
 * [[Flow State]]
