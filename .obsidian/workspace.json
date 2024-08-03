@@ -23,7 +23,17 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/SQL-optimization.excalidraw.md"
+                "file": "Excalidraw/Vacation-2024-study/SQL/SQL-optimization.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "419bddf54a2bf047",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SQL-CTE-WITH.excalidraw.md"
               }
             }
           },
@@ -44,9 +54,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b7312ea1d019ce9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Database/SQL Server/MSSQL-CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa2e9f86c6174e6f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/SQL-optimization.excalidraw.md",
+                "file": "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/SQL-optimization.excalidraw.md",
+                "file": "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/SQL-optimization.excalidraw.md"
+                "file": "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md"
               }
             }
           },
@@ -187,13 +218,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7b8cc5d24d6cafc",
+  "active": "a5d867194d298a75",
   "lastOpenFiles": [
-    "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
-    "Excalidraw/SQL-optimization.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/SQL/SQL-optimization.excalidraw.md",
+    "Excalidraw/SQL-CTE-WITH.excalidraw.md",
+    "Technology/Database/SQL Server/WITH.md",
     "Excalidraw/French.excalidraw.md",
-    "Language/French/French.md",
+    "Technology/Database/SQL Server/MSSQL-CLI.md",
     "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md",
+    "Technology/Database/SQL Server/Pivot.md",
+    "Technology/Database/SQL Server/SQL Server.md",
+    "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
+    "Language/French/French.md",
     "Excalidraw/Drawing 2024-08-01 20.50.40.excalidraw.md",
     "Math/Geometry/Geometry.md",
     "Technology/Infrastructure/Deploy/Ansible.md",
@@ -205,17 +241,12 @@
     "Life Book/Personal Development/Personal Development.md",
     "Math/Math.md",
     "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
-    "Technology/Database/SQL Server/Pivot.md",
     "Excalidraw/Vacation-2024-study/SQL/Sql-pivot.excalidraw.md",
     "Technology/Database/SQL Server/WINDOW FUNCTION.md",
     "Excalidraw/Vacation-2024-study/SQL/Window-functions.excalidraw.md",
     "Math/Trigonometry/Trigonometry.md",
     "Excalidraw/Vacation-2024-study/Math/Trigonometry.excalidraw.md",
-    "Math/Geometry/Circle.md",
-    "Excalidraw/Vacation-2024-study/az-900/AZ-900-index.excalidraw.md",
-    "Technology/Container/k8s/Kubernetes.md",
     "Excalidraw/Vacation-2024-study/Ansible",
-    "Excalidraw/Vacation-2024-study/SpaceX_engines.excalidraw.md",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
     "Projects/Exam AZ-900",
