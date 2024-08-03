@@ -32,6 +32,10 @@ Network scale to measure speed:
 
 `bits` so -> 200 Mbps / 8 = 25 Megabytes por segundo.
 
+## Tools
+
+[[NGROK]]
+
 ### Lab
 
 #computing #network

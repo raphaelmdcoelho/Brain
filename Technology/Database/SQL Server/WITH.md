@@ -1,5 +1,9 @@
 Specifies a temporary named result set, known as a common table expression ([[CTE]]). This clause can be used also in a create view statment.
 
+## Boards
+
+[[SQL-CTE-WITH.excalidraw]]
+
 ### Syntax
 
 ```sql

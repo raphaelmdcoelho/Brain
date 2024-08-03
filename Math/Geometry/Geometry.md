@@ -1,3 +1,8 @@
+
+## Boards
+
+[[Geometria.excalidraw]]
+
 * [[Circle]]
 
 

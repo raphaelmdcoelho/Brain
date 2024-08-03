@@ -1,6 +1,6 @@
 
 ## Certifications
 
-### [[AZ-900]]
+### [[Life Book/Career/AZ-900]]
 
 #lifebook #career

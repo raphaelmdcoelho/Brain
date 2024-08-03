@@ -4,104 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "877075c307bfecbb",
+        "id": "927e5f4eab1c3322",
         "type": "tabs",
         "children": [
           {
-            "id": "c0edf3d45828f066",
+            "id": "a5d867194d298a75",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md"
+                "file": "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md"
               }
             }
           },
           {
-            "id": "6d70ba3614926b8c",
+            "id": "a7b8cc5d24d6cafc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Vacation-2024-study/SQL/SQL-optimization.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "419bddf54a2bf047",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SQL-CTE-WITH.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "734e68ce206f3171",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Tools/VIM/VIM - Operations.md",
+                "file": "Technology/Computing/Network/NGROK.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c50fcd4b68d2badc",
+            "id": "aa8753fa280c16a2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7312ea1d019ce9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/DotNet/Aspire/Aspire.md",
+                "file": "Technology/Database/SQL Server/MSSQL-CLI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "174204be4e2a8d15",
+            "id": "fa2e9f86c6174e6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Language/French/French.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db760daad5900cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Book/Career/AZ-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9b6110ca7020025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/DotNet/Caching/Caching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c70d93ee4bf08ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/logarithms/Logarithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c6414416a5d296e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Infrastructure/Deploy/Ansible.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md",
+                "file": "Technology/Computing/Network/NGROK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md",
+                "file": "Technology/Computing/Network/NGROK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md"
+                "file": "Technology/Computing/Network/NGROK.md"
               }
             }
           },
@@ -242,55 +221,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0edf3d45828f066",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
-    "Excalidraw/Vacation-2024-study/AZ-900-study.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Sql-pivot.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Window-functions.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Trigonometry-1.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/k8s/Kubernetes-overview.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/k8s/kind-logo.png",
-    "Technology/Tools/VIM/VIM - Operations.md",
-    "Math/logarithms/Logarithms.md",
+    "Technology/Computing/Network/Network.md",
+    "Technology/Computing/Network/NGROK.md",
+    "Excalidraw/French.excalidraw.md",
+    "Excalidraw/SQL-CTE-WITH.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/SQL/SQL-optimization.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
+    "Technology/Database/SQL Server/WITH.md",
+    "Technology/Database/SQL Server/MSSQL-CLI.md",
+    "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md",
+    "Technology/Database/SQL Server/Pivot.md",
+    "Technology/Database/SQL Server/SQL Server.md",
+    "Language/French/French.md",
+    "Excalidraw/Drawing 2024-08-01 20.50.40.excalidraw.md",
+    "Math/Geometry/Geometry.md",
+    "Technology/Infrastructure/Deploy/Ansible.md",
+    "Excalidraw/Power-Properties.excalidraw.md",
+    "Excalidraw/DotNet-Auth.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Math/Geometria.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Open-ai-api.excalidraw.md",
+    "Excalidraw/Logaritmos.excalidraw.md",
+    "Life Book/Personal Development/Personal Development.md",
+    "Math/Math.md",
+    "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/SQL/Sql-pivot.excalidraw.md",
+    "Technology/Database/SQL Server/WINDOW FUNCTION.md",
+    "Excalidraw/Vacation-2024-study/SQL/Window-functions.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Ansible",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
-    "Excalidraw/Vacation-2024-study/k8s",
-    "Untitled.canvas",
-    "Excalidraw/Rust-Tips.excalidraw.md",
-    "Excalidraw/Power-Properties.excalidraw.md",
-    "Excalidraw/Numbers-Units.excalidraw.md",
-    "Excalidraw/Logaritmos.excalidraw.md",
-    "Excalidraw/GitHubActions.excalidraw.md",
-    "Excalidraw/DotNet-Auth.excalidraw.md",
-    "Excalidraw/Docker-compose-structure.excalidraw.md",
-    "Excalidraw/SQL",
-    "Excalidraw/Vacation-2024-study",
-    "Technology/DotNet/Aspire/Aspire.md",
-    "Technology/Tools/VIM/VIM.md",
-    "Technology/Tools/VIM/VIM - Command Mode.md",
-    "Technology/Tools/VIM/VIM - Insert Model.md",
-    "Technology/Tools/VIM/VIM - Normal Mode.md",
-    "Language/French/French.md",
-    "Language/German/German.md",
-    "Language/French",
-    "Life Book/Career/AZ-900.md",
-    "Technology/DotNet/Caching/Caching.md",
-    "Technology/Infrastructure/Deploy/Ansible.md",
-    "Math/Math.md",
-    "Math/logarithms",
-    "Technology/DotNet/Caching",
-    "Technology/Infrastructure/Deploy",
-    "Technology/Infrastructure",
-    "Technology/DotNet/Aspire",
-    "Technology/Container/Docker/MountAndVolumes",
+    "Projects/Exam AZ-900",
+    "Technology/Container/k8s",
+    "Excalidraw/Vacation-2024-study/Math",
+    "Excalidraw/Vacation-2024-study/SQL",
+    "Others/Icons/right-arrow-1.png",
+    "Others/Icons",
+    "Untitled",
+    "Others",
+    "Pasted Image 20240722140700_086.png",
+    "Excalidraw/Vacation-2024-study/az-900/images/cloud-responsibilities.png",
+    "Excalidraw/Vacation-2024-study/az-900/images",
+    "Excalidraw/Vacation-2024-study/az-900",
+    "Technology/DotNet/Auth/Images/roles.png",
+    "Technology/DotNet/Auth/Images/id_card.png",
     "Technology/Container/Docker/Pictures/Pasted image 20240708232754.png",
     "Technology/Container/Docker/Pictures/docker-port-mapping.png",
     "Technology/Container/Docker/Pictures/docker-image-container.png",
+    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Technology/DotNet/Auth/Images/roles.png",
-    "Technology/DotNet/Auth/Images/id_card.png",
-    "Pasted Image 20240316231246_560.jpg",
-    "Technology/Computing/Protocols/Images/Pasted image 20231229171115.png",
     "Projects/Posts/AWK/BrainStorm.canvas",
     "Projects/PDI 2023/PDI 2023.canvas",
     "Brain/Brain/Projects/PDI 2023/PDI 2023.canvas"
