@@ -41,9 +41,11 @@
             "id": "734e68ce206f3171",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/French.excalidraw.md"
+                "file": "Technology/Computing/Network/NGROK.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -77,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
+                "file": "Technology/Computing/Network/NGROK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
+                "file": "Technology/Computing/Network/NGROK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md"
+                "file": "Technology/Computing/Network/NGROK.md"
               }
             }
           },
@@ -218,17 +221,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5d867194d298a75",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
-    "Excalidraw/Vacation-2024-study/SQL/SQL-optimization.excalidraw.md",
-    "Excalidraw/SQL-CTE-WITH.excalidraw.md",
-    "Technology/Database/SQL Server/WITH.md",
+    "Technology/Computing/Network/Network.md",
+    "Technology/Computing/Network/NGROK.md",
     "Excalidraw/French.excalidraw.md",
+    "Excalidraw/SQL-CTE-WITH.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/SQL/SQL-optimization.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
+    "Technology/Database/SQL Server/WITH.md",
     "Technology/Database/SQL Server/MSSQL-CLI.md",
     "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md",
     "Technology/Database/SQL Server/Pivot.md",
     "Technology/Database/SQL Server/SQL Server.md",
-    "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
     "Language/French/French.md",
     "Excalidraw/Drawing 2024-08-01 20.50.40.excalidraw.md",
     "Math/Geometry/Geometry.md",
@@ -244,8 +249,6 @@
     "Excalidraw/Vacation-2024-study/SQL/Sql-pivot.excalidraw.md",
     "Technology/Database/SQL Server/WINDOW FUNCTION.md",
     "Excalidraw/Vacation-2024-study/SQL/Window-functions.excalidraw.md",
-    "Math/Trigonometry/Trigonometry.md",
-    "Excalidraw/Vacation-2024-study/Math/Trigonometry.excalidraw.md",
     "Excalidraw/Vacation-2024-study/Ansible",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
