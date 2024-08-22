@@ -8,5 +8,9 @@
 8. [[Simbolical link]]
 9. [[Linux - Directory structure]]
 
+## Boards
+
+* [[Systemctl.excalidraw]]
+
 
 #linux #os 

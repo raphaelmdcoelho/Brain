@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5d867194d298a75",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a7b8cc5d24d6cafc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Vacation-2024-study/SQL/SQL-optimization.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "419bddf54a2bf047",
             "type": "leaf",
             "state": {
@@ -38,34 +18,22 @@
             }
           },
           {
-            "id": "734e68ce206f3171",
+            "id": "aa8753fa280c16a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Technology/Computing/Network/NGROK.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md"
               }
             }
           },
           {
-            "id": "aa8753fa280c16a2",
+            "id": "5a00b7aebf5d01f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b7312ea1d019ce9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Technology/Database/SQL Server/MSSQL-CLI.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md"
               }
             }
           },
@@ -73,14 +41,46 @@
             "id": "fa2e9f86c6174e6f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/BASH/AWK/AWK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aed31a357bd8280a",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md"
+                "file": "Excalidraw/Study-August/Systemctl.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "131289da5b4e3d03",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Study-August/Azure_pipelines.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "83ee92c35cc71a63",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Computing/Network/NGROK.md",
+                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Computing/Network/NGROK.md",
+                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Computing/Network/NGROK.md"
+                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md"
               }
             }
           },
@@ -221,34 +221,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1c52d2fc9b46fdc",
+  "active": "83ee92c35cc71a63",
   "lastOpenFiles": [
-    "Technology/Computing/Network/Network.md",
-    "Technology/Computing/Network/NGROK.md",
+    "Pasted Image 20240805105051_790.png",
+    "Excalidraw/Study-August/Thinking-system.excalidraw.md",
+    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
     "Excalidraw/French.excalidraw.md",
+    "Excalidraw/GitHubActions.excalidraw.md",
+    "Excalidraw/Study-August/Azure_pipelines.excalidraw.md",
+    "Excalidraw/Study-August/Systemctl.excalidraw.md",
     "Excalidraw/SQL-CTE-WITH.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/SQL/SQL-optimization.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Improve-focus.excalidraw.md",
-    "Technology/Database/SQL Server/WITH.md",
-    "Technology/Database/SQL Server/MSSQL-CLI.md",
-    "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md",
-    "Technology/Database/SQL Server/Pivot.md",
-    "Technology/Database/SQL Server/SQL Server.md",
+    "Excalidraw/Study-August",
+    "Technology/OS/Linux/Linux.md",
     "Language/French/French.md",
+    "Technology/GIT/GitHub/GitHub.md",
     "Excalidraw/Drawing 2024-08-01 20.50.40.excalidraw.md",
-    "Math/Geometry/Geometry.md",
-    "Technology/Infrastructure/Deploy/Ansible.md",
-    "Excalidraw/Power-Properties.excalidraw.md",
     "Excalidraw/DotNet-Auth.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Math/Geometria.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Open-ai-api.excalidraw.md",
-    "Excalidraw/Logaritmos.excalidraw.md",
-    "Life Book/Personal Development/Personal Development.md",
-    "Math/Math.md",
+    "Excalidraw/Vacation-2024-study/Http-protocol.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/SpaceX_engines.excalidraw.md",
+    "Technology/BASH/AWK/AWK.md",
     "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/SQL/Sql-pivot.excalidraw.md",
-    "Technology/Database/SQL Server/WINDOW FUNCTION.md",
-    "Excalidraw/Vacation-2024-study/SQL/Window-functions.excalidraw.md",
+    "Technology/BASH/AWK/Internationalization and Localization.md",
+    "Technology/BASH/AWK/In-Place Editing.md",
+    "Technology/BASH/AWK/Field Separators.md",
+    "Technology/BASH/AWK/Execute multiple blocks or files.md",
+    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
+    "Technology/BASH/AWK/Debugging and Profiling.md",
+    "Technology/BASH/AWK/Built-in Variables.md",
+    "Technology/BASH/AWK/Built-in Functions.md",
+    "Technology/BASH/AWK/Advanced Control Flow.md",
     "Excalidraw/Vacation-2024-study/Ansible",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
@@ -263,12 +264,10 @@
     "Pasted Image 20240722140700_086.png",
     "Excalidraw/Vacation-2024-study/az-900/images/cloud-responsibilities.png",
     "Excalidraw/Vacation-2024-study/az-900/images",
-    "Excalidraw/Vacation-2024-study/az-900",
     "Technology/DotNet/Auth/Images/roles.png",
     "Technology/DotNet/Auth/Images/id_card.png",
     "Technology/Container/Docker/Pictures/Pasted image 20240708232754.png",
     "Technology/Container/Docker/Pictures/docker-port-mapping.png",
-    "Technology/Container/Docker/Pictures/docker-image-container.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Projects/Posts/AWK/BrainStorm.canvas",
