@@ -1,6 +1,10 @@
 
 ****Bourne again SHELL*** is a piece of software and a language, so through the PROMPT is possible to send command for SHELL and it'll communicates with the processor.
 
+## Boards
+
+* [[Shell-Script-Summary.excalidraw]]
+
 ## The bash language have a lot of keywords, expressions and features
 
 ### Redirections
