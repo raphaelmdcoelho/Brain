@@ -8,37 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "419bddf54a2bf047",
+            "id": "878ddc0a5f4b3466",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/SQL-CTE-WITH.excalidraw.md"
+                "file": "Excalidraw/Shell-Script-Summary.excalidraw.md"
               }
             }
           },
           {
-            "id": "aa8753fa280c16a2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5a00b7aebf5d01f0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "fa2e9f86c6174e6f",
+            "id": "444763650424db61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,37 +30,14 @@
             }
           },
           {
-            "id": "aed31a357bd8280a",
+            "id": "d9505194b6cc79d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Study-August/Systemctl.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "131289da5b4e3d03",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Study-August/Azure_pipelines.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "83ee92c35cc71a63",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.51103591918945
+    "width": 281.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -146,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md",
+                "file": "Excalidraw/Shell-Script-Summary.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md",
+                "file": "Excalidraw/Shell-Script-Summary.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Study-August/Thinking-system.excalidraw.md"
+                "file": "Excalidraw/Shell-Script-Summary.excalidraw.md"
               }
             }
           },
@@ -221,10 +179,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83ee92c35cc71a63",
+  "active": "878ddc0a5f4b3466",
   "lastOpenFiles": [
-    "Pasted Image 20240805105051_790.png",
+    "Technology/BASH/AWK/AWK.md",
+    "Excalidraw/Shell-Script-Summary.excalidraw.md",
+    "Technology/Container/Docker/Dockerfile/ADD.md",
+    "Technology/Frontend/RxJS/Creation/Operator - iif.md",
+    "Technology/BASH/Bash.md",
+    "Technology/BASH/AWK/Add awk result to a new file.md",
     "Excalidraw/Study-August/Thinking-system.excalidraw.md",
+    "Pasted Image 20240805105051_790.png",
     "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
     "Excalidraw/French.excalidraw.md",
     "Excalidraw/GitHubActions.excalidraw.md",
@@ -239,17 +203,12 @@
     "Excalidraw/DotNet-Auth.excalidraw.md",
     "Excalidraw/Vacation-2024-study/Http-protocol.excalidraw.md",
     "Excalidraw/Vacation-2024-study/SpaceX_engines.excalidraw.md",
-    "Technology/BASH/AWK/AWK.md",
     "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
     "Technology/BASH/AWK/Internationalization and Localization.md",
     "Technology/BASH/AWK/In-Place Editing.md",
     "Technology/BASH/AWK/Field Separators.md",
     "Technology/BASH/AWK/Execute multiple blocks or files.md",
     "Technology/BASH/AWK/Dynamic Regular Expressions.md",
-    "Technology/BASH/AWK/Debugging and Profiling.md",
-    "Technology/BASH/AWK/Built-in Variables.md",
-    "Technology/BASH/AWK/Built-in Functions.md",
-    "Technology/BASH/AWK/Advanced Control Flow.md",
     "Excalidraw/Vacation-2024-study/Ansible",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
