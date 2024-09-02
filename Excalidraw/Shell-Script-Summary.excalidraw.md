@@ -409,7 +409,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Bash",
 			"lineHeight": 1.25,
-			"baseline": 46
+			"baseline": 45
 		},
 		{
 			"type": "arrow",
@@ -517,8 +517,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 1033,
-			"versionNonce": 1815770142,
+			"version": 1034,
+			"versionNonce": 522591302,
 			"isDeleted": false,
 			"id": "USq9ay79",
 			"fillStyle": "solid",
@@ -529,7 +529,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -724.0694202349385,
 			"y": -678.26935724275,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 711.8394775390625,
 			"height": 175,
@@ -545,7 +545,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725306490647,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -557,12 +557,12 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Shebang:\n- #!\nIt's a notation, added to a file very beginning\nso shell will know which binary to choose when\nexecuting the file:\n    - #!/bin/bash  -->  ./filename.sh      --> /bin/bash ./filename.sh\n    - #!/bin/bash  -->  /tmp/filename.sh  --> /bin/bash /tmp/filename.sh ",
 			"lineHeight": 1.25,
-			"baseline": 167
+			"baseline": 168
 		},
 		{
 			"type": "freedraw",
-			"version": 653,
-			"versionNonce": 1642915010,
+			"version": 654,
+			"versionNonce": 1661809434,
 			"isDeleted": false,
 			"id": "2-aoGlgL3o-tYgZVsDqeH",
 			"fillStyle": "solid",
@@ -573,7 +573,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -715.8535694048604,
 			"y": -666.4019866372812,
-			"strokeColor": "#f08c00",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 72.1168212890625,
 			"height": 3.6514892578125,
@@ -584,7 +584,7 @@ There is a unix2dos also ^FTuvWk4b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725306490647,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -847,8 +847,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "freedraw",
-			"version": 776,
-			"versionNonce": 726810718,
+			"version": 777,
+			"versionNonce": 99001222,
 			"isDeleted": false,
 			"id": "EjXNFXB8WuN_28oCpebIe",
 			"fillStyle": "solid",
@@ -859,7 +859,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -658.3426746294698,
 			"y": -544.0772796060312,
-			"strokeColor": "#f08c00",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 613.44921875,
 			"height": 4.5643310546875,
@@ -870,7 +870,7 @@ There is a unix2dos also ^FTuvWk4b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725306490647,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1597,8 +1597,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "freedraw",
-			"version": 742,
-			"versionNonce": 439811202,
+			"version": 743,
+			"versionNonce": 736870362,
 			"isDeleted": false,
 			"id": "uJQrUbukKjvgso-FGVRzI",
 			"fillStyle": "solid",
@@ -1609,7 +1609,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -657.4298328325948,
 			"y": -517.604074039625,
-			"strokeColor": "#f08c00",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 642.6611328125,
 			"height": 2.73858642578125,
@@ -1620,7 +1620,7 @@ There is a unix2dos also ^FTuvWk4b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725306490647,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2243,8 +2243,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 456,
-			"versionNonce": 103187614,
+			"version": 457,
+			"versionNonce": 496087046,
 			"isDeleted": false,
 			"id": "5QEd6VD4",
 			"fillStyle": "solid",
@@ -2255,7 +2255,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 227.35579518519125,
 			"y": -143.4600339610555,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 610.0194702148438,
 			"height": 50,
@@ -2271,7 +2271,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725306676637,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2283,12 +2283,12 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Bash scripts are a set of command that should be executed\none by one, and interpreted to have the action performed",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
-			"version": 320,
-			"versionNonce": 954735682,
+			"version": 321,
+			"versionNonce": 27638618,
 			"isDeleted": false,
 			"id": "-LNtvTS31gqKWzFPSXc7r",
 			"fillStyle": "solid",
@@ -2299,7 +2299,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 390.75984791956625,
 			"y": -106.94520241808675,
-			"strokeColor": "#f08c00",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 110.4573974609375,
 			"height": 2.73858642578125,
@@ -2310,7 +2310,7 @@ There is a unix2dos also ^FTuvWk4b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725306676637,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2553,8 +2553,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "freedraw",
-			"version": 335,
-			"versionNonce": 1047019742,
+			"version": 336,
+			"versionNonce": 556384070,
 			"isDeleted": false,
 			"id": "-I9bhjrILFcSQQOtV5jbV",
 			"fillStyle": "solid",
@@ -2565,7 +2565,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 430.92610768519125,
 			"y": -131.59269387316488,
-			"strokeColor": "#f08c00",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 150.623779296875,
 			"height": 1.82574462890625,
@@ -2576,7 +2576,7 @@ There is a unix2dos also ^FTuvWk4b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725306676637,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2771,8 +2771,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "freedraw",
-			"version": 297,
-			"versionNonce": 1809794050,
+			"version": 298,
+			"versionNonce": 784941082,
 			"isDeleted": false,
 			"id": "1S-odOor2_SiVcNrz4NRm",
 			"fillStyle": "solid",
@@ -2783,7 +2783,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 230.09456471644125,
 			"y": -133.41843850207113,
-			"strokeColor": "#f08c00",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 120.4989013671875,
 			"height": 2.738616943359375,
@@ -2794,7 +2794,7 @@ There is a unix2dos also ^FTuvWk4b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725306676637,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2945,8 +2945,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 206,
-			"versionNonce": 933786910,
+			"version": 207,
+			"versionNonce": 1186431386,
 			"isDeleted": false,
 			"id": "g14qeqh1",
 			"fillStyle": "solid",
@@ -2957,7 +2957,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -62.332000732421875,
 			"y": -392.0132064819336,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 122.10795593261719,
 			"height": 35,
@@ -2979,7 +2979,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725306695973,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3047,8 +3047,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 406,
-			"versionNonce": 995631454,
+			"version": 407,
+			"versionNonce": 1005655686,
 			"isDeleted": false,
 			"id": "YLhhtOxi",
 			"fillStyle": "solid",
@@ -3059,7 +3059,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 259.9116516113281,
 			"y": -565.0229415893555,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 421.579833984375,
 			"height": 50,
@@ -3073,7 +3073,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725306485241,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3085,7 +3085,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "VARIABLE_NAME=\"Value\"\n$VARIABLE_NAME | ${VARIABLE_NAME}",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -3174,12 +3174,12 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "#!/usr/bin/python\n===================================\nNAME=\"value\"\n===================================\n$NAME | SomeTe${NAME}xt\n===================================\n$NAME=$(whoami)\n===================================\nhistory | gawk '/418/ || /419/ {print}'\n===================================\nhostname\n===================================\nTest\n    [ expression ]\n    $ [ -d ./file.txt ]\n    $ [ -f ./file.txt ]\n    $ [ -e ./file.txt ]\n    $ [ -s ./file.txt ]\n    $ [ -w ./file.txt ]\n    $ [ -r ./file.txt ]\n    $ [ -x ./file.txt ]\n    $ [ -z \"string\" ]\n    $ [ -n \"string\" ]\n    $ [ \"string1\" = | != \"string2\" ]\n    $ [ \"$VARIABLE\" = \"string\" ]\n    $ [ arg1 eq arg2 ]\n    $ [ arg1 ne arg2 ]\n    $ [ arg1 lt arg2 ]\n    $ [ arg1 le arg2 ]\n    $ [ arg1 gt arg2 ]\n    $ [ arg1 gearg2 ]\n===================================\nif [ Test ]\nthen\n...\nelseif\n...\nelse\n...\nfi\n===================================\nfor i in {1..10}; do ...; done\n===================================\n./file.sh parameter1 parameter2\necho $1 $2\n\n$@\n===================================\necho \"$?\"\n===================================\nread -p \"Message\" Variable\n===================================\n&&\n===================================\n||\n===================================\nexit 0\n===================================\nfunction function_name() { ... }\nfunction_name() { ... }\nfunction_name\n===================================\n#!/bin/bash\n/usr/bin/python -c 'print(\"message!\")'\n===================================\n===================================\n===================================\n===================================\n===================================",
 			"lineHeight": 1.25,
-			"baseline": 2404
+			"baseline": 2405
 		},
 		{
 			"type": "text",
-			"version": 597,
-			"versionNonce": 117369666,
+			"version": 598,
+			"versionNonce": 1289048474,
 			"isDeleted": false,
 			"id": "7cr8E3T4",
 			"fillStyle": "solid",
@@ -3190,7 +3190,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 185.05581665039062,
 			"y": -625.7082138061523,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 295.39990234375,
 			"height": 25,
@@ -3204,7 +3204,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725306488180,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3216,7 +3216,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "$VARIABLE_NAME=$(whoami)",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -3328,8 +3328,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 137,
-			"versionNonce": 1871574558,
+			"version": 138,
+			"versionNonce": 1470507014,
 			"isDeleted": false,
 			"id": "H6FQ0FDp",
 			"fillStyle": "solid",
@@ -3340,7 +3340,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 342.750874675349,
 			"y": -296.27198135816104,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 302.81976318359375,
 			"height": 25,
@@ -3354,7 +3354,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725307061022,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3366,7 +3366,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "It's a way to check conditions",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -3422,8 +3422,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 1021674078,
+			"version": 79,
+			"versionNonce": 1824309338,
 			"isDeleted": false,
 			"id": "W9kO1QCu",
 			"fillStyle": "solid",
@@ -3434,7 +3434,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 184.70842041860203,
 			"y": -241.71442452107578,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 68.85197448730469,
 			"height": 35,
@@ -3458,7 +3458,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725307055071,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3474,8 +3474,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "freedraw",
-			"version": 337,
-			"versionNonce": 267442818,
+			"version": 338,
+			"versionNonce": 1521584710,
 			"isDeleted": false,
 			"id": "0KSIMCHX3muZYgyk31mJp",
 			"fillStyle": "solid",
@@ -3486,7 +3486,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 192.57764003027341,
 			"y": -226.58515206013817,
-			"strokeColor": "#f08c00",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 63.29231770833326,
 			"height": 41.383504231770814,
@@ -3497,7 +3497,7 @@ There is a unix2dos also ^FTuvWk4b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725307055071,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4720,8 +4720,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 366,
-			"versionNonce": 1546319646,
+			"version": 367,
+			"versionNonce": 1653733766,
 			"isDeleted": false,
 			"id": "VuTLtLQk",
 			"fillStyle": "solid",
@@ -4732,7 +4732,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 347.1216721857679,
 			"y": 77.26383641419295,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 150.41592407226562,
 			"height": 35,
@@ -4750,7 +4750,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725307216159,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4818,8 +4818,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 362,
-			"versionNonce": 1882874718,
+			"version": 363,
+			"versionNonce": 629571226,
 			"isDeleted": false,
 			"id": "CSOX2aIA",
 			"fillStyle": "solid",
@@ -4830,7 +4830,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 532.4809170937849,
 			"y": 161.35788700888747,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 363.73980712890625,
 			"height": 25,
@@ -4844,7 +4844,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725307224107,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4856,7 +4856,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "read -p \"PROMPT\" VARIABLE_NAME",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -5052,7 +5052,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "$ binary parameter1 parameter2\n\naccess:\n    $ $1 | $@",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "arrow",
@@ -5308,8 +5308,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 42,
-			"versionNonce": 490375326,
+			"version": 43,
+			"versionNonce": 427291098,
 			"isDeleted": false,
 			"id": "A15vBkrn",
 			"fillStyle": "solid",
@@ -5320,7 +5320,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 451.4843100623691,
 			"y": -234.82425364643,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 203.4398193359375,
 			"height": 25,
@@ -5334,7 +5334,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725307058350,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5346,7 +5346,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "man test | help test",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -5440,7 +5440,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "ls /not/here\necho \"$?\"",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -5588,7 +5588,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "&& -> double ampersand will only execute\n if the previous command succeeds \n (exit with code 0)\n|| -> Double pipe will only execute if the\n previous command fails\n (exit with code different from  0)",
 			"lineHeight": 1.25,
-			"baseline": 142
+			"baseline": 143
 		},
 		{
 			"type": "arrow",
@@ -5786,7 +5786,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "semicolon does not perform exit status checking",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -5828,7 +5828,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "exit 0",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -5884,8 +5884,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 351,
-			"versionNonce": 1355741726,
+			"version": 353,
+			"versionNonce": 235273178,
 			"isDeleted": false,
 			"id": "6mSxNZA9",
 			"fillStyle": "solid",
@@ -5895,8 +5895,8 @@ There is a unix2dos also ^FTuvWk4b
 			"opacity": 100,
 			"angle": 0,
 			"x": -289.61735686019574,
-			"y": 392.3823803146731,
-			"strokeColor": "#1e1e1e",
+			"y": 390.9327294719578,
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 124.8519287109375,
 			"height": 35,
@@ -5926,7 +5926,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725308874175,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5942,8 +5942,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "arrow",
-			"version": 776,
-			"versionNonce": 592166594,
+			"version": 778,
+			"versionNonce": 245960070,
 			"isDeleted": false,
 			"id": "gKsoKrg8Ve3AUh_kb1Wtq",
 			"fillStyle": "solid",
@@ -5952,12 +5952,12 @@ There is a unix2dos also ^FTuvWk4b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -146.7003015883077,
-			"y": -118.58400944301067,
+			"x": -146.6782777769521,
+			"y": -118.58400944301064,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 76.0980724429593,
-			"height": 501.3604326472174,
+			"width": 76.10761395572484,
+			"height": 499.91078180450205,
 			"seed": 1400936501,
 			"groupIds": [],
 			"frameId": null,
@@ -5965,7 +5965,7 @@ There is a unix2dos also ^FTuvWk4b
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725308872499,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5987,15 +5987,15 @@ There is a unix2dos also ^FTuvWk4b
 					0
 				],
 				[
-					-76.0980724429593,
-					501.3604326472174
+					-76.10761395572484,
+					499.91078180450205
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 283,
-			"versionNonce": 1466304094,
+			"version": 284,
+			"versionNonce": 11177114,
 			"isDeleted": false,
 			"id": "2A1n1n9r",
 			"fillStyle": "solid",
@@ -6006,7 +6006,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -107.04301603988324,
 			"y": 517.4041088302981,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 39.47998046875,
 			"height": 25,
@@ -6020,7 +6020,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725309046060,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6032,12 +6032,12 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "DRY",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 825,
-			"versionNonce": 1051367042,
+			"version": 827,
+			"versionNonce": 863757318,
 			"isDeleted": false,
 			"id": "39ciLW-Pn-ZSicqWAkCss",
 			"fillStyle": "solid",
@@ -6046,12 +6046,12 @@ There is a unix2dos also ^FTuvWk4b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -161.24103022392887,
-			"y": 434.94173413247944,
+			"x": -162.13818145059787,
+			"y": 433.0208466357159,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 62.66191255795093,
-			"height": 66.50802899469369,
+			"width": 63.78333577643123,
+			"height": 68.42891649145724,
 			"seed": 2020356027,
 			"groupIds": [],
 			"frameId": null,
@@ -6059,7 +6059,7 @@ There is a unix2dos also ^FTuvWk4b
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725308872499,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6081,15 +6081,15 @@ There is a unix2dos also ^FTuvWk4b
 					0
 				],
 				[
-					62.66191255795093,
-					66.50802899469369
+					63.78333577643123,
+					68.42891649145724
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 383,
-			"versionNonce": 1204914846,
+			"version": 384,
+			"versionNonce": 47149382,
 			"isDeleted": false,
 			"id": "1o1Jp0mX",
 			"fillStyle": "solid",
@@ -6100,7 +6100,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -480.281403738102,
 			"y": 570.4701755722416,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 308.79974365234375,
 			"height": 50,
@@ -6114,7 +6114,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725309048284,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6126,12 +6126,12 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "function function_name() { ... }\nfunction-name() { ... }",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
-			"version": 869,
-			"versionNonce": 2144892482,
+			"version": 871,
+			"versionNonce": 225122950,
 			"isDeleted": false,
 			"id": "tKjVj84GSKz74-tW4XrxJ",
 			"fillStyle": "solid",
@@ -6140,12 +6140,12 @@ There is a unix2dos also ^FTuvWk4b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -246.74304256836717,
-			"y": 435.8218143661869,
+			"x": -246.61637026053842,
+			"y": 434.3721635234716,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 55.182266271330036,
-			"height": 118.67317199707031,
+			"width": 55.45003309331588,
+			"height": 120.12282283978561,
 			"seed": 2006642549,
 			"groupIds": [],
 			"frameId": null,
@@ -6153,7 +6153,7 @@ There is a unix2dos also ^FTuvWk4b
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725308872499,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6175,15 +6175,15 @@ There is a unix2dos also ^FTuvWk4b
 					0
 				],
 				[
-					-55.182266271330036,
-					118.67317199707031
+					-55.45003309331588,
+					120.12282283978561
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 389,
-			"versionNonce": 1623361246,
+			"version": 390,
+			"versionNonce": 1642519258,
 			"isDeleted": false,
 			"id": "RYcDbc87",
 			"fillStyle": "solid",
@@ -6194,7 +6194,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -713.0636150418129,
 			"y": 647.8613041122807,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 175.21986389160156,
 			"height": 50,
@@ -6208,7 +6208,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725309053806,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6220,12 +6220,12 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Calling a function:\n$ function_name",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
-			"version": 982,
-			"versionNonce": 1739873794,
+			"version": 983,
+			"versionNonce": 1467079110,
 			"isDeleted": false,
 			"id": "dGtvL-crvesjcyUnmZQl2",
 			"fillStyle": "solid",
@@ -6234,12 +6234,12 @@ There is a unix2dos also ^FTuvWk4b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -277.9394831936488,
-			"y": 435.61871988376504,
+			"x": -277.26989953561724,
+			"y": 434.16906904104974,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 325.26210693438816,
-			"height": 203.91951316409245,
+			"width": 325.9316905924197,
+			"height": 205.36916400680775,
 			"seed": 1576219643,
 			"groupIds": [],
 			"frameId": null,
@@ -6247,7 +6247,7 @@ There is a unix2dos also ^FTuvWk4b
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725308872499,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6269,19 +6269,19 @@ There is a unix2dos also ^FTuvWk4b
 					0
 				],
 				[
-					-245.7033554809766,
-					100.4156494140625
+					-246.37293913900817,
+					101.8653002567778
 				],
 				[
-					-325.26210693438816,
-					203.91951316409245
+					-325.9316905924197,
+					205.36916400680775
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 330,
-			"versionNonce": 1657404190,
+			"version": 331,
+			"versionNonce": 2077290458,
 			"isDeleted": false,
 			"id": "87XvkQmT",
 			"fillStyle": "solid",
@@ -6292,7 +6292,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -813.1493156126203,
 			"y": 299.5139768740132,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 516.8195190429688,
 			"height": 50,
@@ -6306,7 +6306,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725309618341,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6318,7 +6318,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "It's possible to call different binaries from a script\nusing the absolute path like: /usr/bin/python",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -6374,8 +6374,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 487,
-			"versionNonce": 1415112542,
+			"version": 488,
+			"versionNonce": 1168933274,
 			"isDeleted": false,
 			"id": "i24AHYs8",
 			"fillStyle": "solid",
@@ -6386,7 +6386,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -1082.476089061907,
 			"y": 458.7801309598985,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 269.4798583984375,
 			"height": 350,
@@ -6400,7 +6400,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725309601759,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6412,12 +6412,12 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "function hello() {\n    echo \"Hello $1\"\n}\nhello Raphael\n\n\nfunction hello() {\n    for NAME in $@\n    do\n        echo \"Hello $NAME\"\n    done\n}\n\nhello Raphael Bruce Peter",
 			"lineHeight": 1.25,
-			"baseline": 342
+			"baseline": 343
 		},
 		{
 			"type": "arrow",
-			"version": 1164,
-			"versionNonce": 1737639298,
+			"version": 1166,
+			"versionNonce": 2100207686,
 			"isDeleted": false,
 			"id": "ZsQOdRgrts6VybWFsyGSQ",
 			"fillStyle": "solid",
@@ -6426,12 +6426,12 @@ There is a unix2dos also ^FTuvWk4b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -293.58665483581694,
-			"y": 436.0298462759539,
+			"x": -293.4586804145608,
+			"y": 434.6377985309292,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 501.41648805909836,
-			"height": 162.8411810329029,
+			"width": 501.5444624803545,
+			"height": 163.93249417588584,
 			"seed": 2089231212,
 			"groupIds": [],
 			"frameId": null,
@@ -6439,7 +6439,7 @@ There is a unix2dos also ^FTuvWk4b
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725241692097,
+			"updated": 1725308872499,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6461,15 +6461,15 @@ There is a unix2dos also ^FTuvWk4b
 					0
 				],
 				[
-					-501.41648805909836,
-					162.8411810329029
+					-501.5444624803545,
+					163.93249417588584
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 1170230174,
+			"version": 102,
+			"versionNonce": 1636634970,
 			"isDeleted": false,
 			"id": "WN3Ax1pq",
 			"fillStyle": "solid",
@@ -6480,7 +6480,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 319.7888006977921,
 			"y": -32.76882517999388,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 149.03988647460938,
 			"height": 25,
@@ -6498,7 +6498,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692097,
+			"updated": 1725306607142,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6510,7 +6510,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Local variables",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -6566,8 +6566,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 355543006,
+			"version": 100,
+			"versionNonce": 1714270342,
 			"isDeleted": false,
 			"id": "6ejWC54T",
 			"fillStyle": "solid",
@@ -6578,7 +6578,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": 602.6236542836095,
 			"y": -13.209668609659388,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 227.3398895263672,
 			"height": 25,
@@ -6592,7 +6592,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692098,
+			"updated": 1725306609874,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6604,7 +6604,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "local VARIABLE_NAME",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -6698,7 +6698,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "basename /home/user/file.txt",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -6792,7 +6792,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "cp - mv - mkdir - rmdir",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -6886,7 +6886,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "chmod 744 file.txt",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -7000,7 +7000,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Wildcards",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -7042,7 +7042,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "It is a character or a string that\n is used to match file and directory names",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -7188,7 +7188,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Globbing is the act of expanding a wildcard\n pattern into the list of matching files and directories",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -7282,7 +7282,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "The two main wildcards are the * and ?",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -7388,7 +7388,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Character classes",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -7482,7 +7482,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "ca[nt]*",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -7576,7 +7576,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "[!aeiou]",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -7674,7 +7674,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Ranges",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -7768,7 +7768,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "[a-g]",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -7866,7 +7866,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Named character classes",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -7960,7 +7960,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "[:alpha:]\n[:alnum:]\n[:digit:]\n[:lower:]\n[:space:]\n[:upper:]",
 			"lineHeight": 1.25,
-			"baseline": 142
+			"baseline": 143
 		},
 		{
 			"type": "arrow",
@@ -8062,7 +8062,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Logging",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -8156,7 +8156,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Linux OS uses syslog standard for logging purposes",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -8262,7 +8262,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "syslog",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -8356,7 +8356,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Uses FACILITIES and SERVERITIES",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -8454,7 +8454,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Case",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -8548,7 +8548,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "/var/log/messages",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -8642,7 +8642,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "case \"$1\" in\n    [yY])\n        echo \"Yes\"\n    [nN])\n        echo \"No\"\n    *)\n        echo \"Others\"\nesac",
 			"lineHeight": 1.25,
-			"baseline": 192
+			"baseline": 193
 		},
 		{
 			"type": "arrow",
@@ -8736,7 +8736,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "logger -s -i -t my-script -p user.info \"Message\"",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -8825,7 +8825,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "bash -c 'command'\nbash -c 'case $1 in [yY]) echo \"Yes\";; [nN]) \"No\";; *) echo \"Others\";; esac' -- y\n\nfunction name { echo \"Hello\"; }; name; echo $?; \n\nfor n in {1..100}; do echo $(($n * 2)); done;",
 			"lineHeight": 1.25,
-			"baseline": 142
+			"baseline": 143
 		},
 		{
 			"type": "text",
@@ -8871,7 +8871,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Shift",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -8965,7 +8965,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "shift n",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -9123,7 +9123,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "Bash",
 			"lineHeight": 1.25,
-			"baseline": 46
+			"baseline": 45
 		},
 		{
 			"type": "text",
@@ -9211,7 +9211,7 @@ There is a unix2dos also ^FTuvWk4b
 			"containerId": null,
 			"originalText": "#!/bin/bash -xv\nor\nfile.sh set -x (enable)\nfile.sh set +x (disable)",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "arrow",
@@ -9375,8 +9375,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 355,
-			"versionNonce": 510657310,
+			"version": 356,
+			"versionNonce": 1303063942,
 			"isDeleted": false,
 			"id": "rb0d3p8t",
 			"fillStyle": "solid",
@@ -9387,7 +9387,7 @@ There is a unix2dos also ^FTuvWk4b
 			"angle": 0,
 			"x": -1314.627741777162,
 			"y": -454.28921324397015,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 204.87588500976562,
 			"height": 35,
@@ -9405,7 +9405,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692099,
+			"updated": 1725307777202,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -9421,8 +9421,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "text",
-			"version": 403,
-			"versionNonce": 1121699266,
+			"version": 405,
+			"versionNonce": 1315506842,
 			"isDeleted": false,
 			"id": "BmfhPHKJ",
 			"fillStyle": "solid",
@@ -9432,8 +9432,8 @@ There is a unix2dos also ^FTuvWk4b
 			"opacity": 100,
 			"angle": 0,
 			"x": -1186.4907389058449,
-			"y": -564.2241770851377,
-			"strokeColor": "#1e1e1e",
+			"y": -565.5947156574382,
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 23.0159912109375,
 			"height": 35,
@@ -9447,7 +9447,7 @@ There is a unix2dos also ^FTuvWk4b
 					"type": "arrow"
 				}
 			],
-			"updated": 1725241692099,
+			"updated": 1725307778978,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -9463,8 +9463,8 @@ There is a unix2dos also ^FTuvWk4b
 		},
 		{
 			"type": "arrow",
-			"version": 1469,
-			"versionNonce": 1040052062,
+			"version": 1471,
+			"versionNonce": 1459992902,
 			"isDeleted": false,
 			"id": "tBvJUruF6CXXAFqiEj9Zs",
 			"fillStyle": "solid",
@@ -9473,12 +9473,12 @@ There is a unix2dos also ^FTuvWk4b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1215.0271535162515,
+			"x": -1214.2190036666125,
 			"y": -463.42156149295124,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 24.98260022028626,
-			"height": 56.61955816998909,
+			"width": 24.589016177701524,
+			"height": 57.84024150698724,
 			"seed": 918853078,
 			"groupIds": [],
 			"frameId": null,
@@ -9486,7 +9486,7 @@ There is a unix2dos also ^FTuvWk4b
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725241692099,
+			"updated": 1725307767295,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9508,33 +9508,33 @@ There is a unix2dos also ^FTuvWk4b
 					0
 				],
 				[
-					24.98260022028626,
-					-56.61955816998909
+					24.589016177701524,
+					-57.84024150698724
 				]
 			]
 		},
 		{
-			"id": "MSs3ytmg",
 			"type": "text",
-			"x": -1723.5946750073133,
-			"y": 1074.8626214446094,
-			"width": 63.53196716308594,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 48,
+			"versionNonce": 480361858,
+			"isDeleted": false,
+			"id": "MSs3ytmg",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1723.5946750073133,
+			"y": 1074.8626214446094,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 63.53196716308594,
+			"height": 35,
+			"seed": 345821790,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 345821790,
-			"version": 48,
-			"versionNonce": 480361858,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "BgOI3xsIIPeDIum3XVFA2",
@@ -9548,39 +9548,39 @@ There is a unix2dos also ^FTuvWk4b
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"text": "While",
-			"rawText": "While",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "While",
+			"rawText": "While",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 25,
 			"containerId": null,
 			"originalText": "While",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 25
 		},
 		{
-			"id": "kUy8tXun",
 			"type": "text",
-			"x": -1842.4719697028431,
-			"y": 1227.456486104986,
-			"width": 910.4192504882812,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 227,
+			"versionNonce": 1166300062,
+			"isDeleted": false,
+			"id": "kUy8tXun",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1842.4719697028431,
+			"y": 1227.456486104986,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 910.4192504882812,
+			"height": 25,
+			"seed": 1470083074,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1470083074,
-			"version": 227,
-			"versionNonce": 1166300062,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "e0PsOx5Aqty7zDeFR6gIJ",
@@ -9590,56 +9590,45 @@ There is a unix2dos also ^FTuvWk4b
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"text": "FILE=$(ls -1 | head -1 | xargs realpath); while read -r LINE; do echo $LINE; done < $FILE",
-			"rawText": "FILE=$(ls -1 | head -1 | xargs realpath); while read -r LINE; do echo $LINE; done < $FILE",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "FILE=$(ls -1 | head -1 | xargs realpath); while read -r LINE; do echo $LINE; done < $FILE",
+			"rawText": "FILE=$(ls -1 | head -1 | xargs realpath); while read -r LINE; do echo $LINE; done < $FILE",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 17,
 			"containerId": null,
 			"originalText": "FILE=$(ls -1 | head -1 | xargs realpath); while read -r LINE; do echo $LINE; done < $FILE",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
-			"id": "BgOI3xsIIPeDIum3XVFA2",
 			"type": "arrow",
-			"x": -1756.4417317131092,
-			"y": 901.4575322928547,
-			"width": 55.05420306166707,
-			"height": 161.35208007758683,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 96,
+			"versionNonce": 38976834,
+			"isDeleted": false,
+			"id": "BgOI3xsIIPeDIum3XVFA2",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1756.4417317131092,
+			"y": 901.4575322928547,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 55.05420306166707,
+			"height": 161.35208007758683,
+			"seed": 1861565186,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1861565186,
-			"version": 96,
-			"versionNonce": 38976834,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					55.05420306166707,
-					161.35208007758683
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "u4R9ufOD",
 				"focus": 0.036067710498436344,
@@ -9650,48 +9639,48 @@ There is a unix2dos also ^FTuvWk4b
 				"focus": 0.013906996873083987,
 				"gap": 12.053009074167903
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "e0PsOx5Aqty7zDeFR6gIJ",
-			"type": "arrow",
-			"x": -1654.1906971038404,
-			"y": 1123.1761250591048,
-			"width": 264.8371486476062,
-			"height": 93.92339848111783,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 135656386,
-			"version": 311,
-			"versionNonce": 255078366,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1725241692099,
-			"link": null,
-			"locked": false,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					264.8371486476062,
-					93.92339848111783
+					55.05420306166707,
+					161.35208007758683
 				]
-			],
-			"lastCommittedPoint": null,
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 311,
+			"versionNonce": 255078366,
+			"isDeleted": false,
+			"id": "e0PsOx5Aqty7zDeFR6gIJ",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1654.1906971038404,
+			"y": 1123.1761250591048,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 264.8371486476062,
+			"height": 93.92339848111783,
+			"seed": 135656386,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1725241692099,
+			"link": null,
+			"locked": false,
 			"startBinding": {
 				"elementId": "MSs3ytmg",
 				"focus": 0.5922386482221252,
@@ -9702,31 +9691,42 @@ There is a unix2dos also ^FTuvWk4b
 				"focus": 0.12714472465312496,
 				"gap": 10.356962564763307
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					264.8371486476062,
+					93.92339848111783
+				]
+			]
 		},
 		{
-			"id": "A6vpjkvF",
 			"type": "text",
-			"x": -2153.3366180223293,
-			"y": 1016.3875975124695,
-			"width": 99.17990112304688,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1420029570,
+			"isDeleted": false,
+			"id": "A6vpjkvF",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2153.3366180223293,
+			"y": 1016.3875975124695,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 99.17990112304688,
+			"height": 25,
+			"seed": 1575798110,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1575798110,
-			"version": 17,
-			"versionNonce": 1420029570,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "Ss9pN358Gr-hbbtnSH3lS",
@@ -9752,56 +9752,45 @@ There is a unix2dos also ^FTuvWk4b
 			"updated": 1725241708321,
 			"link": null,
 			"locked": false,
-			"text": "File Types",
-			"rawText": "File Types",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "File Types",
+			"rawText": "File Types",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 17,
 			"containerId": null,
 			"originalText": "File Types",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
-			"id": "Ss9pN358Gr-hbbtnSH3lS",
 			"type": "arrow",
-			"x": -1838.8054961861512,
-			"y": 890.9670884829027,
-			"width": 206.74789952730566,
-			"height": 118.5615969503774,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 54,
+			"versionNonce": 119440414,
+			"isDeleted": false,
+			"id": "Ss9pN358Gr-hbbtnSH3lS",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1838.8054961861512,
+			"y": 890.9670884829027,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 206.74789952730566,
+			"height": 118.5615969503774,
+			"seed": 1918923842,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1918923842,
-			"version": 54,
-			"versionNonce": 119440414,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-206.74789952730566,
-					118.5615969503774
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "u4R9ufOD",
 				"focus": 0.10205414365680275,
@@ -9812,31 +9801,42 @@ There is a unix2dos also ^FTuvWk4b
 				"focus": 0.34228934408249506,
 				"gap": 8.603321185825507
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-206.74789952730566,
+					118.5615969503774
+				]
+			]
 		},
 		{
-			"id": "CAy7Nioh",
 			"type": "text",
-			"x": -2141.819196839009,
-			"y": 569.2707135337746,
-			"width": 340.1397705078125,
-			"height": 125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 322,
+			"versionNonce": 1662112962,
+			"isDeleted": false,
+			"id": "CAy7Nioh",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2141.819196839009,
+			"y": 569.2707135337746,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 340.1397705078125,
+			"height": 125,
+			"seed": 169851550,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 169851550,
-			"version": 322,
-			"versionNonce": 1662112962,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "YW1D2nnZH_9Tm1h8AolG4",
@@ -9846,56 +9846,45 @@ There is a unix2dos also ^FTuvWk4b
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"text": "For Linux and Unix systems the \ncontrol character to represent\na new line is a Line Feed. Windows:\nTwo characters: Carriage Return\nand a Line Feed.",
-			"rawText": "For Linux and Unix systems the \ncontrol character to represent\na new line is a Line Feed. Windows:\nTwo characters: Carriage Return\nand a Line Feed.",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "For Linux and Unix systems the \ncontrol character to represent\na new line is a Line Feed. Windows:\nTwo characters: Carriage Return\nand a Line Feed.",
+			"rawText": "For Linux and Unix systems the \ncontrol character to represent\na new line is a Line Feed. Windows:\nTwo characters: Carriage Return\nand a Line Feed.",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 117,
 			"containerId": null,
 			"originalText": "For Linux and Unix systems the \ncontrol character to represent\na new line is a Line Feed. Windows:\nTwo characters: Carriage Return\nand a Line Feed.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 118
 		},
 		{
-			"id": "YW1D2nnZH_9Tm1h8AolG4",
 			"type": "arrow",
-			"x": -2093.9228327379496,
-			"y": 1006.0445047113121,
-			"width": 46.48608205859318,
-			"height": 290.08338269718456,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 425,
+			"versionNonce": 1865699422,
+			"isDeleted": false,
+			"id": "YW1D2nnZH_9Tm1h8AolG4",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2093.9228327379496,
+			"y": 1006.0445047113121,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 46.48608205859318,
+			"height": 290.08338269718456,
+			"seed": 1843379038,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1843379038,
-			"version": 425,
-			"versionNonce": 1865699422,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					46.48608205859318,
-					-290.08338269718456
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "A6vpjkvF",
 				"focus": 0.12047281448223478,
@@ -9906,31 +9895,42 @@ There is a unix2dos also ^FTuvWk4b
 				"focus": 0.34536840767273685,
 				"gap": 21.69040848035297
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					46.48608205859318,
+					-290.08338269718456
+				]
+			]
 		},
 		{
-			"id": "aMAmXv7F",
 			"type": "text",
-			"x": -2565.256388598189,
-			"y": 634.6662989710561,
-			"width": 356.23968505859375,
-			"height": 100,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 325,
+			"versionNonce": 155053186,
+			"isDeleted": false,
+			"id": "aMAmXv7F",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2565.256388598189,
+			"y": 634.6662989710561,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 356.23968505859375,
+			"height": 100,
+			"seed": 1483606238,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1483606238,
-			"version": 325,
-			"versionNonce": 155053186,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "qQMl3csWJcYl8v-qRfCEQ",
@@ -9940,56 +9940,45 @@ There is a unix2dos also ^FTuvWk4b
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"text": "If run a file with carriage return\non a Linux system will generate the\nfollowing error: /bin/bash^M: No such\nfile or directory.",
-			"rawText": "If run a file with carriage return\non a Linux system will generate the\nfollowing error: /bin/bash^M: No such\nfile or directory.",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "If run a file with carriage return\non a Linux system will generate the\nfollowing error: /bin/bash^M: No such\nfile or directory.",
+			"rawText": "If run a file with carriage return\non a Linux system will generate the\nfollowing error: /bin/bash^M: No such\nfile or directory.",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 92,
 			"containerId": null,
 			"originalText": "If run a file with carriage return\non a Linux system will generate the\nfollowing error: /bin/bash^M: No such\nfile or directory.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 93
 		},
 		{
-			"id": "qQMl3csWJcYl8v-qRfCEQ",
 			"type": "arrow",
-			"x": -2142.41260912662,
-			"y": 1006.2331108214028,
-			"width": 85.94424203079188,
-			"height": 253.5479789315499,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 262,
+			"versionNonce": 591828126,
+			"isDeleted": false,
+			"id": "qQMl3csWJcYl8v-qRfCEQ",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2142.41260912662,
+			"y": 1006.2331108214028,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 85.94424203079188,
+			"height": 253.5479789315499,
+			"seed": 1841822850,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1841822850,
-			"version": 262,
-			"versionNonce": 591828126,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-85.94424203079188,
-					-253.5479789315499
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "A6vpjkvF",
 				"focus": -0.5756595438936979,
@@ -10000,31 +9989,42 @@ There is a unix2dos also ^FTuvWk4b
 				"focus": -0.695775239232952,
 				"gap": 18.01883291879676
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-85.94424203079188,
+					-253.5479789315499
+				]
+			]
 		},
 		{
-			"id": "zq8WRE71",
 			"type": "text",
-			"x": -2712.792632867157,
-			"y": 804.7079624541985,
-			"width": 366.89971923828125,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 156,
+			"versionNonce": 160500802,
+			"isDeleted": false,
+			"id": "zq8WRE71",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2712.792632867157,
+			"y": 804.7079624541985,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 366.89971923828125,
+			"height": 50,
+			"seed": 119605698,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 119605698,
-			"version": 156,
-			"versionNonce": 160500802,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "ISGtEF7UTmfKCAs_v_sS2",
@@ -10034,56 +10034,45 @@ There is a unix2dos also ^FTuvWk4b
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"text": "dos2unix remove carriage return.\nConverts a DOS file into a Unix one.",
-			"rawText": "dos2unix remove carriage return.\nConverts a DOS file into a Unix one.",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "dos2unix remove carriage return.\nConverts a DOS file into a Unix one.",
+			"rawText": "dos2unix remove carriage return.\nConverts a DOS file into a Unix one.",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 42,
 			"containerId": null,
 			"originalText": "dos2unix remove carriage return.\nConverts a DOS file into a Unix one.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 43
 		},
 		{
-			"id": "ISGtEF7UTmfKCAs_v_sS2",
 			"type": "arrow",
-			"x": -2162.408221164479,
-			"y": 1013.412694335372,
-			"width": 168.86274008397868,
-			"height": 156.28658344199823,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 288,
+			"versionNonce": 1560695006,
+			"isDeleted": false,
+			"id": "ISGtEF7UTmfKCAs_v_sS2",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2162.408221164479,
+			"y": 1013.412694335372,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 168.86274008397868,
+			"height": 156.28658344199823,
+			"seed": 274851742,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 274851742,
-			"version": 288,
-			"versionNonce": 1560695006,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1725241692099,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-168.86274008397868,
-					-156.28658344199823
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "A6vpjkvF",
 				"focus": -0.6647257388917214,
@@ -10094,31 +10083,42 @@ There is a unix2dos also ^FTuvWk4b
 				"focus": -0.8003711159348947,
 				"gap": 14.621952380417952
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-168.86274008397868,
+					-156.28658344199823
+				]
+			]
 		},
 		{
-			"id": "FTuvWk4b",
 			"type": "text",
-			"x": -2704.457129352978,
-			"y": 913.901403282221,
-			"width": 249.43978881835938,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 122,
+			"versionNonce": 736059970,
+			"isDeleted": false,
+			"id": "FTuvWk4b",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2704.457129352978,
+			"y": 913.901403282221,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 249.43978881835938,
+			"height": 25,
+			"seed": 1548248002,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1548248002,
-			"version": 122,
-			"versionNonce": 736059970,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "k0mCy5OVfez41lt3wA590",
@@ -10128,56 +10128,45 @@ There is a unix2dos also ^FTuvWk4b
 			"updated": 1725241721351,
 			"link": null,
 			"locked": false,
-			"text": "There is a unix2dos also",
-			"rawText": "There is a unix2dos also",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "There is a unix2dos also",
+			"rawText": "There is a unix2dos also",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 17,
 			"containerId": null,
 			"originalText": "There is a unix2dos also",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
-			"id": "k0mCy5OVfez41lt3wA590",
 			"type": "arrow",
-			"x": -2164.324616053184,
-			"y": 1030.4445593496716,
-			"width": 279.23516004206476,
-			"height": 100.38695844450604,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 166,
+			"versionNonce": 1937324482,
+			"isDeleted": false,
+			"id": "k0mCy5OVfez41lt3wA590",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2164.324616053184,
+			"y": 1030.4445593496716,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 279.23516004206476,
+			"height": 100.38695844450604,
+			"seed": 1926627806,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1926627806,
-			"version": 166,
-			"versionNonce": 1937324482,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1725241721352,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-279.23516004206476,
-					-100.38695844450604
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "A6vpjkvF",
 				"focus": -0.7681641601631324,
@@ -10188,18 +10177,29 @@ There is a unix2dos also ^FTuvWk4b
 				"focus": -0.7900659928739501,
 				"gap": 11.45756443936989
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-279.23516004206476,
+					-100.38695844450604
+				]
+			]
 		},
 		{
-			"id": "XisPt7kMk67df_8Z9p-_7",
-			"type": "freedraw",
-			"x": -2492.7385613388374,
-			"y": 951.4106396524785,
-			"width": 0.0001,
-			"height": 0.0001,
+			"id": "UnPK5EA7",
+			"type": "text",
+			"x": -1036.6439466733277,
+			"y": 50.76364669366592,
+			"width": 10,
+			"height": 25,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -10209,36 +10209,30 @@ There is a unix2dos also ^FTuvWk4b
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 197584386,
-			"version": 4,
-			"versionNonce": 434779138,
+			"seed": 347422406,
+			"version": 2,
+			"versionNonce": 1305564506,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1725241692099,
+			"updated": 1725311276743,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
@@ -10250,10 +10244,10 @@ There is a unix2dos also ^FTuvWk4b
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2768.0925936423014,
-		"scrollY": -416.95658258132784,
+		"scrollX": 2218.95163898102,
+		"scrollY": 466.95269946018027,
 		"zoom": {
-			"value": 1.0951762181270475
+			"value": 0.65
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

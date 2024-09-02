@@ -15,6 +15,13 @@ domain=your_domain
 
 ## How It Works
 
+When you specify the credentials file in a mount command (e.g., `mount -t cifs //server/share/mnt/point -o credentails=/etc/windows_credentials`), the CIFS driver reads the credentials from this file. So using this file, the mount command does not require you to specify credentials directly in the command line, helping automation process.
 
+The file should have restricted permissions (`0600`) so only root user can read it: 
+
+```bash
+sudo chown root:root /etc/windows_credentials
+sudo chmod 600 /etc/windows_credentials
+```
 
 #linux #os 
