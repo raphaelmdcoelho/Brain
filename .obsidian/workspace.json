@@ -23,22 +23,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/BASH/AWK/AWK.md",
+                "file": "Technology/OS/Linux/windows_credentails file.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d9505194b6cc79d6",
+            "id": "54b63931a9dbd1a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Technology/OS/Linux/windows_credentails file.md",
-                "mode": "source",
-                "source": false
+                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md"
               }
+            }
+          },
+          {
+            "id": "92cd752e900c9575",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/OS/Linux/windows_credentails file.md",
+                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/OS/Linux/windows_credentails file.md",
+                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/OS/Linux/windows_credentails file.md"
+                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md"
               }
             }
           },
@@ -183,54 +189,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1c52d2fc9b46fdc",
+  "active": "54b63931a9dbd1a2",
   "lastOpenFiles": [
-    "Technology/OS/Linux/Linux.md",
-    "Technology/OS/Linux/windows_credentails file.md",
-    "Technology/OS/Linux/Linux - Directory structure.md",
+    "Technology/Console/REPL.md",
+    "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
+    "Technology/Console/Console.md",
+    "Technology/Console/Command-line program.md",
+    "Technology/BASH/Bash functions.md",
+    "Technology/BASH/CommandLineInterfaceProgram/List of Command line Programs.md",
     "Excalidraw/Shell-Script-Summary.excalidraw.md",
-    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
+    "Technology/BASH/BASH Shortcuts.md",
+    "Technology/BASH/Reading Files.md",
+    "Technology/BASH/Navigating Directories.md",
+    "Knowledge/Technology/Computing/Shell/Content/Commands",
+    "Knowledge/Technology/Computing/Shell/Content/Permissions",
+    "Knowledge/Technology/Computing/Shell/Content/Conditions",
+    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible/Ansible.excalidraw.md",
+    "Technology/OS/Linux/windows_credentails file.md",
+    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible/Content/Untitled.md",
+    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible/Content/Images",
+    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible/Content",
+    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible",
+    "Knowledge/Technology/Computing/Tools/Infrastructure",
+    "Knowledge/Technology/Computing/Tools",
+    "Knowledge/Technology/Computing/Shell/Content/Functions.md",
+    "Knowledge/Technology/Computing/Shell/Content/End Of Options.md",
+    "Knowledge/Technology/Computing/Shell/Content/Shebang.md",
+    "Knowledge/Technology/Computing/Shell/Content/User Input.md",
+    "Knowledge/Technology/Computing/Shell/Content/Variables.md",
+    "Knowledge/Technology/Computing/Shell/Content/Test.md",
     "Pasted Image 20240828215201_008.png",
-    "Excalidraw/Drawing 2024-08-28 20.45.00.excalidraw.md",
+    "Knowledge/Technology/Computing/Shell/Content/Images/bash-infra.png",
+    "Knowledge/Technology/Computing/Shell/Content/Images",
+    "Knowledge/Technology/Computing/Shell/Content",
     "Technology/BASH/AWK/AWK.md",
-    "Technology/Container/Docker/Dockerfile/ADD.md",
-    "Technology/Frontend/RxJS/Creation/Operator - iif.md",
-    "Technology/BASH/Bash.md",
-    "Technology/BASH/AWK/Add awk result to a new file.md",
-    "Excalidraw/Study-August/Thinking-system.excalidraw.md",
-    "Pasted Image 20240805105051_790.png",
-    "Excalidraw/French.excalidraw.md",
-    "Excalidraw/GitHubActions.excalidraw.md",
-    "Excalidraw/Study-August/Azure_pipelines.excalidraw.md",
-    "Excalidraw/Study-August/Systemctl.excalidraw.md",
-    "Excalidraw/SQL-CTE-WITH.excalidraw.md",
-    "Excalidraw/Study-August",
-    "Language/French/French.md",
-    "Technology/GIT/GitHub/GitHub.md",
-    "Excalidraw/Drawing 2024-08-01 20.50.40.excalidraw.md",
-    "Excalidraw/DotNet-Auth.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Http-protocol.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/SpaceX_engines.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Pasted Image 20240805105051_790.png",
     "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
-    "Technology/BASH/AWK/Internationalization and Localization.md",
-    "Technology/BASH/AWK/In-Place Editing.md",
-    "Excalidraw/Vacation-2024-study/Ansible",
+    "Excalidraw/Vacation-2024-study/Math/Geometria.excalidraw.md",
+    "Excalidraw/Vacation-2024-study/Math/Trigonometry.excalidraw.md",
+    "Technology/OS/Linux/Linux.md",
+    "Technology/OS/Linux/Linux - Directory structure.md",
+    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
-    "Projects/Exam AZ-900",
-    "Technology/Container/k8s",
-    "Excalidraw/Vacation-2024-study/Math",
-    "Excalidraw/Vacation-2024-study/SQL",
     "Others/Icons/right-arrow-1.png",
-    "Others/Icons",
-    "Untitled",
-    "Others",
     "Pasted Image 20240722140700_086.png",
     "Excalidraw/Vacation-2024-study/az-900/images/cloud-responsibilities.png",
-    "Excalidraw/Vacation-2024-study/az-900/images",
     "Technology/DotNet/Auth/Images/roles.png",
     "Technology/DotNet/Auth/Images/id_card.png",
-    "Technology/Container/Docker/Pictures/Pasted image 20240708232754.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Projects/Posts/AWK/BrainStorm.canvas",

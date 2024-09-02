@@ -6,7 +6,7 @@
 * [[Power]]
 * [[Root]]
 * [[Calculus]]
-* [[Functions]]
+* [[Math/Functions/Functions]]
 * [[Trigonometry]]
 * [[Geometry]]
 
