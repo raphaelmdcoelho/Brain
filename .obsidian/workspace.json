@@ -33,11 +33,16 @@
             "id": "d9505194b6cc79d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technology/OS/Linux/windows_credentails file.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.51103591918945,
-    "collapsed": true
+    "width": 285.51103591918945
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -104,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Shell-Script-Summary.excalidraw.md",
+                "file": "Technology/OS/Linux/windows_credentails file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Shell-Script-Summary.excalidraw.md",
+                "file": "Technology/OS/Linux/windows_credentails file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Shell-Script-Summary.excalidraw.md"
+                "file": "Technology/OS/Linux/windows_credentails file.md"
               }
             }
           },
@@ -179,24 +183,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "878ddc0a5f4b3466",
+  "active": "c1c52d2fc9b46fdc",
   "lastOpenFiles": [
-    "Technology/BASH/AWK/AWK.md",
+    "Technology/OS/Linux/Linux.md",
+    "Technology/OS/Linux/windows_credentails file.md",
+    "Technology/OS/Linux/Linux - Directory structure.md",
     "Excalidraw/Shell-Script-Summary.excalidraw.md",
+    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
+    "Pasted Image 20240828215201_008.png",
+    "Excalidraw/Drawing 2024-08-28 20.45.00.excalidraw.md",
+    "Technology/BASH/AWK/AWK.md",
     "Technology/Container/Docker/Dockerfile/ADD.md",
     "Technology/Frontend/RxJS/Creation/Operator - iif.md",
     "Technology/BASH/Bash.md",
     "Technology/BASH/AWK/Add awk result to a new file.md",
     "Excalidraw/Study-August/Thinking-system.excalidraw.md",
     "Pasted Image 20240805105051_790.png",
-    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
     "Excalidraw/French.excalidraw.md",
     "Excalidraw/GitHubActions.excalidraw.md",
     "Excalidraw/Study-August/Azure_pipelines.excalidraw.md",
     "Excalidraw/Study-August/Systemctl.excalidraw.md",
     "Excalidraw/SQL-CTE-WITH.excalidraw.md",
     "Excalidraw/Study-August",
-    "Technology/OS/Linux/Linux.md",
     "Language/French/French.md",
     "Technology/GIT/GitHub/GitHub.md",
     "Excalidraw/Drawing 2024-08-01 20.50.40.excalidraw.md",
@@ -206,9 +214,6 @@
     "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
     "Technology/BASH/AWK/Internationalization and Localization.md",
     "Technology/BASH/AWK/In-Place Editing.md",
-    "Technology/BASH/AWK/Field Separators.md",
-    "Technology/BASH/AWK/Execute multiple blocks or files.md",
-    "Technology/BASH/AWK/Dynamic Regular Expressions.md",
     "Excalidraw/Vacation-2024-study/Ansible",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
@@ -226,7 +231,6 @@
     "Technology/DotNet/Auth/Images/roles.png",
     "Technology/DotNet/Auth/Images/id_card.png",
     "Technology/Container/Docker/Pictures/Pasted image 20240708232754.png",
-    "Technology/Container/Docker/Pictures/docker-port-mapping.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Projects/Posts/AWK/BrainStorm.canvas",
