@@ -7,6 +7,7 @@
 7. [[Linux Users]]
 8. [[Simbolical link]]
 9. [[Linux - Directory structure]]
+10. [[windows_credentails file]]
 
 ## Boards
 
