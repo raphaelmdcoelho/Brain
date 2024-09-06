@@ -1,4 +1,5 @@
-In Linux, you can run multiple commands in parallel using multiple operators and commands.
+
+On Linux, you can run multiple commands in parallel using multiple operators and commands.
 
 ### Using the & Operator
 
@@ -53,4 +54,5 @@ You can separate multiple commands and run them sequentially using the '&&' oper
 mkdir MyFile && cd MyFile
 ```
 
-#bash 
+
+#technology #computing #shell 
