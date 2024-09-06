@@ -1,3 +1,4 @@
+
 ```bash
 ls -a|--all
 ls -l # long form
@@ -13,4 +14,4 @@ pushd foo # go to foo sub-directory and add previous page to stack
 popd # go back to directory in stack saved by pushd
 ```
 
-#bash 
+#technology #computing #shell 

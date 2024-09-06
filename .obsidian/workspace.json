@@ -18,18 +18,6 @@
             }
           },
           {
-            "id": "444763650424db61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/OS/Linux/windows_credentails file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54b63931a9dbd1a2",
             "type": "leaf",
             "state": {
@@ -43,8 +31,22 @@
             "id": "92cd752e900c9575",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "444763650424db61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/OS/Linux/windows_credentails file.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -189,47 +191,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54b63931a9dbd1a2",
+  "active": "92cd752e900c9575",
   "lastOpenFiles": [
-    "Technology/Console/REPL.md",
+    "Knowledge/Technology/Computing/Shell/Content/Navigating Directories.md",
     "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
-    "Technology/Console/Console.md",
-    "Technology/Console/Command-line program.md",
-    "Technology/BASH/Bash functions.md",
-    "Technology/BASH/CommandLineInterfaceProgram/List of Command line Programs.md",
-    "Excalidraw/Shell-Script-Summary.excalidraw.md",
-    "Technology/BASH/BASH Shortcuts.md",
-    "Technology/BASH/Reading Files.md",
     "Technology/BASH/Navigating Directories.md",
+    "Technology/BASH/Environment Variable.md",
+    "Technology/BASH/dos2unix.md",
+    "Knowledge/Technology/Computing/Shell/Content/Variables.md",
+    "Knowledge/Technology/Computing/Shell/Content/Reading Files/Content/Tail.md",
+    "Knowledge/Technology/Computing/Shell/Content/Reading Files/Content/Head.md",
+    "Knowledge/Technology/Computing/Shell/Content/Reading Files/Content",
+    "Knowledge/Technology/Computing/Shell/Content/Conditions/Content/If.md",
+    "Knowledge/Technology/Computing/Shell/Content/Conditions/Content",
+    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Grep.md",
+    "Knowledge/Technology/Computing/Shell/Content/Reading Files",
+    "Technology/BASH/Reading Files.md",
+    "Technology/BASH/Test Command.md",
+    "Technology/BASH/grep.md",
+    "Knowledge/Technology/Computing/Shell/Content/Mount.md",
+    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
+    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Sleep.md",
+    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Images",
+    "Knowledge/Technology/Computing/Shell/Content/Commands/Content",
+    "Technology/BASH/Sleep.md",
+    "Knowledge/Technology/Computing/Shell/Content/Systemd-resolved.md",
+    "Knowledge/Technology/Computing/Shell/Content/Pipe.md",
+    "Knowledge/Technology/Computing/Shell/Content/Redirection.md",
+    "Knowledge/Technology/Computing/Shell/Content/Heredoc.md",
+    "Technology/BASH/Heredoc.md",
+    "Excalidraw/Shell-Script-Summary.excalidraw.md",
+    "Knowledge/Technology/Computing/Shell/Content/Chain Commands.md",
+    "Technology/OS/Linux/windows_credentails file.md",
+    "Technology/BASH/Arrays.md",
+    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/Images",
+    "Knowledge/Technology/Computing/Shell/Content/AWK/Content",
+    "Knowledge/Technology/Computing/Shell/Content/AWK",
     "Knowledge/Technology/Computing/Shell/Content/Commands",
     "Knowledge/Technology/Computing/Shell/Content/Permissions",
-    "Knowledge/Technology/Computing/Shell/Content/Conditions",
-    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible/Ansible.excalidraw.md",
-    "Technology/OS/Linux/windows_credentails file.md",
-    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible/Content/Untitled.md",
-    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible/Content/Images",
-    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible/Content",
-    "Knowledge/Technology/Computing/Tools/Infrastructure/Ansible",
-    "Knowledge/Technology/Computing/Tools/Infrastructure",
-    "Knowledge/Technology/Computing/Tools",
-    "Knowledge/Technology/Computing/Shell/Content/Functions.md",
-    "Knowledge/Technology/Computing/Shell/Content/End Of Options.md",
-    "Knowledge/Technology/Computing/Shell/Content/Shebang.md",
-    "Knowledge/Technology/Computing/Shell/Content/User Input.md",
-    "Knowledge/Technology/Computing/Shell/Content/Variables.md",
-    "Knowledge/Technology/Computing/Shell/Content/Test.md",
     "Pasted Image 20240828215201_008.png",
     "Knowledge/Technology/Computing/Shell/Content/Images/bash-infra.png",
-    "Knowledge/Technology/Computing/Shell/Content/Images",
-    "Knowledge/Technology/Computing/Shell/Content",
-    "Technology/BASH/AWK/AWK.md",
     "Excalidraw/Vacation-2024-study/Pasted Image 20240805105051_790.png",
-    "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Math/Geometria.excalidraw.md",
-    "Excalidraw/Vacation-2024-study/Math/Trigonometry.excalidraw.md",
-    "Technology/OS/Linux/Linux.md",
-    "Technology/OS/Linux/Linux - Directory structure.md",
-    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",
     "Excalidraw/Vacation-2024-study/k8s/k8s-logo.png",
     "Others/Icons/right-arrow-1.png",

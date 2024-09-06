@@ -36,6 +36,18 @@ function names {
 names Raphael Bruce Peter
 ```
 
+## Exit Statuses
+
+* Every command has a return status
+* The exit range is 0 to 255
+* Zero represents success
+
+**Printing return value**
+
+```bash
+ls /not/here
+echo "$?"
+```
 ## Summary
 
 ```bash

@@ -9,7 +9,7 @@
 
 ### Redirections
 
-With [[Redirection]] is possible to receive or send some information from/to stdin and stdout.
+With [[Technology/BASH/Redirection]] is possible to receive or send some information from/to stdin and stdout.
 
 <hr>
 
@@ -39,7 +39,7 @@ The [[While statment]] allows to iterate based on a condition.
 
 ### Pipe
 
-The [[Pipe]] allows to make a output of a command connects with e input of another one.
+The [[Technology/BASH/Pipe]] allows to make a output of a command connects with e input of another one.
 
 <hr>
 
@@ -51,7 +51,7 @@ To run [[Command Channing]] it's possible to use the & or && operators.
 
 ### Sleep
 
-Through the [[Sleep]] keyword is possible to stop a script by a given time.
+Through the [[Technology/BASH/Sleep]] keyword is possible to stop a script by a given time.
 
 <hr>
 
@@ -86,7 +86,7 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 ### Grep
 
-[[grep]] is a command line utility in Unix and Linux systems, used for finding a search patterns in the content of a given file.
+[[Technology/BASH/grep]] is a command line utility in Unix and Linux systems, used for finding a search patterns in the content of a given file.
 
 <hr>
 
@@ -174,7 +174,7 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 ### Navigating Directories
 
-* [[Navigating Directories]]
+* [[Technology/BASH/Navigating Directories]]
 
 <hr>
 
@@ -210,7 +210,7 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 ### Heredoc
 
-* [[Heredoc]]
+* [[Technology/BASH/Heredoc]]
 
 <hr>
 
