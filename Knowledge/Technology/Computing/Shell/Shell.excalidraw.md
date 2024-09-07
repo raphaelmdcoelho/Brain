@@ -138,6 +138,8 @@ Tail ^HnbQmYJU
 
 Head ^dhim8Lh8
 
+openssl ^ntK6lxVI
+
 
 # Embedded files
 fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
@@ -442,8 +444,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 861,
-			"versionNonce": 896828597,
+			"version": 885,
+			"versionNonce": 554191867,
 			"isDeleted": false,
 			"id": "FHa1HEff8a-63gmDM8245",
 			"fillStyle": "solid",
@@ -456,7 +458,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"y": -147.62857095335298,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 219.42890173400247,
+			"width": 187.47852331603372,
 			"height": 465.5933186345427,
 			"seed": 751061466,
 			"groupIds": [],
@@ -465,17 +467,17 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899291,
+			"updated": 1725588421347,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "A0XuXGBvhpQ6hcE1pstN7",
-				"focus": 0.04404871259934951,
+				"focus": 0.028367843621459617,
 				"gap": 12.79878870573809
 			},
 			"endBinding": {
 				"elementId": "ipIQevfS",
-				"focus": -0.5051007789943995,
+				"focus": -0.7793285140368403,
 				"gap": 12.44970321655262
 			},
 			"lastCommittedPoint": null,
@@ -487,8 +489,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					0
 				],
 				[
-					219.42890173400247,
-					-369.4022237542272
+					187.47852331603372,
+					-300.93695275813343
 				],
 				[
 					159.62331914362994,
@@ -540,8 +542,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 1063,
-			"versionNonce": 1992101301,
+			"version": 1065,
+			"versionNonce": 1363979637,
 			"isDeleted": false,
 			"id": "kl-7Paq2RARUtEHpw3lLx",
 			"fillStyle": "solid",
@@ -563,7 +565,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725588058400,
+			"updated": 1725588416792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1648,8 +1650,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 447,
-			"versionNonce": 620070229,
+			"version": 448,
+			"versionNonce": 1286337545,
 			"isDeleted": false,
 			"id": "rUwQVhoL",
 			"fillStyle": "solid",
@@ -1674,8 +1676,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587990397,
-			"link": null,
+			"updated": 1725675247553,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FAWK%2FAWK.excalidraw",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
@@ -2888,8 +2890,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 97,
-			"versionNonce": 1531635963,
+			"version": 98,
+			"versionNonce": 1502349799,
 			"isDeleted": false,
 			"id": "MfXA6Ce1",
 			"fillStyle": "solid",
@@ -2956,9 +2958,13 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				{
 					"id": "Lu95cvyvIxG8zV1Um31_n",
 					"type": "arrow"
+				},
+				{
+					"id": "AoKlD536HzesuyN2FdhRw",
+					"type": "arrow"
 				}
 			],
-			"updated": 1725587899292,
+			"updated": 1725668126489,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3936,8 +3942,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 183,
-			"versionNonce": 106232635,
+			"version": 185,
+			"versionNonce": 1811266855,
 			"isDeleted": false,
 			"id": "XopBAIRM",
 			"fillStyle": "solid",
@@ -3948,7 +3954,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -1108.222251505646,
 			"y": -203.02281250997783,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 55.187957763671875,
 			"height": 35,
@@ -3962,8 +3968,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899293,
-			"link": null,
+			"updated": 1725673568562,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FCommands%2FContent%2FDiff",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -3978,8 +3984,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 495,
-			"versionNonce": 1912056309,
+			"version": 496,
+			"versionNonce": 1795951335,
 			"isDeleted": false,
 			"id": "KLXsSnGGfVQbKhO72_cpQ",
 			"fillStyle": "solid",
@@ -3990,7 +3996,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -1233.7022910565138,
 			"y": -403.3964251947616,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 132.79042179009627,
 			"height": 191.29320879750537,
@@ -4001,7 +4007,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899293,
+			"updated": 1725673565395,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4316,8 +4322,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 207,
-			"versionNonce": 1895564731,
+			"version": 236,
+			"versionNonce": 460947495,
 			"isDeleted": false,
 			"id": "8OgKNfp8",
 			"fillStyle": "solid",
@@ -4326,9 +4332,9 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1524.5157278492109,
-			"y": -95.99227695794866,
-			"strokeColor": "#e03131",
+			"x": -1488.0009878589765,
+			"y": -132.50716953607366,
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 53.33998107910156,
 			"height": 35,
@@ -4342,8 +4348,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899293,
-			"link": null,
+			"updated": 1725674441688,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FCommands%2FContent%2FCurl",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -4358,8 +4364,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 653,
-			"versionNonce": 821856117,
+			"version": 708,
+			"versionNonce": 418832999,
 			"isDeleted": false,
 			"id": "XHZbQr9MhJjEzJ7OMgfuZ",
 			"fillStyle": "solid",
@@ -4368,12 +4374,12 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1296.3469960492089,
+			"x": -1295.37841639603,
 			"y": -400.07676912518514,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 195.8220242435001,
-			"height": 292.8685677842093,
+			"width": 161.17576524765354,
+			"height": 256.3536752060843,
 			"seed": 467418182,
 			"groupIds": [],
 			"frameId": null,
@@ -4381,7 +4387,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899293,
+			"updated": 1725674441688,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4403,15 +4409,15 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					0
 				],
 				[
-					-195.8220242435001,
-					292.8685677842093
+					-161.17576524765354,
+					256.3536752060843
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1351194203,
+			"version": 175,
+			"versionNonce": 1632379017,
 			"isDeleted": false,
 			"id": "tIeIO4in",
 			"fillStyle": "solid",
@@ -4420,9 +4426,9 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1109.815213870601,
-			"y": -311.80037706346127,
-			"strokeColor": "#e03131",
+			"x": -1112.097470950679,
+			"y": -307.23601549119564,
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 60.395965576171875,
 			"height": 35,
@@ -4436,8 +4442,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899293,
-			"link": null,
+			"updated": 1725673137153,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FCommands%2FContent%2FSort",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -4452,8 +4458,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 453,
-			"versionNonce": 122015957,
+			"version": 460,
+			"versionNonce": 372121511,
 			"isDeleted": false,
 			"id": "LQ8ghda8GKECVzLRhc7HD",
 			"fillStyle": "solid",
@@ -4462,12 +4468,12 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1217.1443515655653,
+			"x": -1218.280974671756,
 			"y": -405.2436680403489,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 111.61232753909417,
-			"height": 85.25681698535732,
+			"width": 111.92567955016716,
+			"height": 89.82117855762294,
 			"seed": 1143657946,
 			"groupIds": [],
 			"frameId": null,
@@ -4475,7 +4481,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899293,
+			"updated": 1725673139949,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4497,8 +4503,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					0
 				],
 				[
-					111.61232753909417,
-					85.25681698535732
+					111.92567955016716,
+					89.82117855762294
 				]
 			]
 		},
@@ -5574,8 +5580,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 59,
-			"versionNonce": 759035995,
+			"version": 61,
+			"versionNonce": 1289684647,
 			"isDeleted": false,
 			"id": "4ckR9uSG",
 			"fillStyle": "solid",
@@ -5586,7 +5592,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": 313.3481556626707,
 			"y": -956.0832638265919,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 89.4599609375,
 			"height": 35,
@@ -5600,8 +5606,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725588079437,
-			"link": null,
+			"updated": 1725674794610,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FArray",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -5616,8 +5622,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 483,
-			"versionNonce": 925090869,
+			"version": 484,
+			"versionNonce": 1223296969,
 			"isDeleted": false,
 			"id": "434FXScHQyCMrXo3RTkKT",
 			"fillStyle": "solid",
@@ -5628,7 +5634,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": 71.6056019517332,
 			"y": -126.25342706789161,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 342.83883910402085,
 			"height": 801.9236124772123,
@@ -5639,7 +5645,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725588085815,
+			"updated": 1725674776654,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7288,6 +7294,100 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					-50.20790100097656
 				]
 			]
+		},
+		{
+			"type": "text",
+			"version": 28,
+			"versionNonce": 1271004199,
+			"isDeleted": false,
+			"id": "ntK6lxVI",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1132.772182474659,
+			"y": -67.6718574834639,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 95.47994995117188,
+			"height": 35,
+			"seed": 1336010887,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "AoKlD536HzesuyN2FdhRw",
+					"type": "arrow"
+				}
+			],
+			"updated": 1725668126489,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "openssl",
+			"rawText": "openssl",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "openssl",
+			"lineHeight": 1.25,
+			"baseline": 25
+		},
+		{
+			"type": "arrow",
+			"version": 38,
+			"versionNonce": 257963271,
+			"isDeleted": false,
+			"id": "AoKlD536HzesuyN2FdhRw",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -903.9458478392423,
+			"y": 91.77622194361948,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 164.31681315104174,
+			"height": 119.28173828125,
+			"seed": 1694284201,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1725668126489,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "MfXA6Ce1",
+				"focus": 0.007603127773206912,
+				"gap": 12.624776379287823
+			},
+			"endBinding": {
+				"elementId": "ntK6lxVI",
+				"focus": 0.2011843568333493,
+				"gap": 5.166341145833371
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-164.31681315104174,
+					-119.28173828125
+				]
+			]
 		}
 	],
 	"appState": {
@@ -7305,8 +7405,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1908.259700785206,
-		"scrollY": 1491.435197479802,
+		"scrollX": 1986.994594584034,
+		"scrollY": 1501.5018402410324,
 		"zoom": {
 			"value": 0.4
 		},

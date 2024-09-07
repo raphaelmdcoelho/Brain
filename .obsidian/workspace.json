@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "54b63931a9dbd1a2",
+            "id": "92cd752e900c9575",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -28,12 +28,12 @@
             }
           },
           {
-            "id": "92cd752e900c9575",
+            "id": "668133f593cfd050",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md"
+                "file": "Knowledge/Technology/Computing/Shell/Content/AWK/AWK.excalidraw.md"
               }
             }
           },
@@ -48,9 +48,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2a28791f9a10072",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,42 +201,42 @@
   },
   "active": "92cd752e900c9575",
   "lastOpenFiles": [
-    "Knowledge/Technology/Computing/Shell/Content/Navigating Directories.md",
+    "Knowledge/Technology/Computing/Shell/Content/AWK/AWK.excalidraw.md",
+    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Commands.md",
+    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Built-in Variables.md",
+    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Concept.md",
     "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
-    "Technology/BASH/Navigating Directories.md",
-    "Technology/BASH/Environment Variable.md",
-    "Technology/BASH/dos2unix.md",
-    "Knowledge/Technology/Computing/Shell/Content/Variables.md",
-    "Knowledge/Technology/Computing/Shell/Content/Reading Files/Content/Tail.md",
-    "Knowledge/Technology/Computing/Shell/Content/Reading Files/Content/Head.md",
-    "Knowledge/Technology/Computing/Shell/Content/Reading Files/Content",
-    "Knowledge/Technology/Computing/Shell/Content/Conditions/Content/If.md",
-    "Knowledge/Technology/Computing/Shell/Content/Conditions/Content",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Grep.md",
-    "Knowledge/Technology/Computing/Shell/Content/Reading Files",
-    "Technology/BASH/Reading Files.md",
-    "Technology/BASH/Test Command.md",
-    "Technology/BASH/grep.md",
-    "Knowledge/Technology/Computing/Shell/Content/Mount.md",
-    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Sleep.md",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Images",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content",
-    "Technology/BASH/Sleep.md",
-    "Knowledge/Technology/Computing/Shell/Content/Systemd-resolved.md",
-    "Knowledge/Technology/Computing/Shell/Content/Pipe.md",
-    "Knowledge/Technology/Computing/Shell/Content/Redirection.md",
-    "Knowledge/Technology/Computing/Shell/Content/Heredoc.md",
-    "Technology/BASH/Heredoc.md",
-    "Excalidraw/Shell-Script-Summary.excalidraw.md",
-    "Knowledge/Technology/Computing/Shell/Content/Chain Commands.md",
+    "Technology/BASH/AWK/AWK.md",
+    "Technology/BASH/AWK/Built-in Variables.md",
+    "Technology/Computing/End-Of-File.md",
     "Technology/OS/Linux/windows_credentails file.md",
+    "Technology/BASH/Xargs/Xargs.md",
+    "Knowledge/Technology/Computing/Shell/Content/Array.md",
     "Technology/BASH/Arrays.md",
-    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/Images",
-    "Knowledge/Technology/Computing/Shell/Content/AWK/Content",
-    "Knowledge/Technology/Computing/Shell/Content/AWK",
-    "Knowledge/Technology/Computing/Shell/Content/Commands",
-    "Knowledge/Technology/Computing/Shell/Content/Permissions",
+    "Technology/BASH/Command History.md",
+    "Technology/BASH/Command Channing.md",
+    "Technology/BASH/BASH Shortcuts.md",
+    "Technology/BASH/clip.md",
+    "Technology/BASH/bash - curl.md",
+    "Technology/BASH/Bash - sort.md",
+    "Technology/BASH/grep.md",
+    "Technology/BASH/find.md",
+    "Knowledge/Technology/Database/Content",
+    "Knowledge/Technology/Database",
+    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Curl.md",
+    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Diff.md",
+    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Sort.md",
+    "Knowledge/Technology/Computing/Protocols/Content/HTTP.md",
+    "Knowledge/Technology/Computing/Shell/Content/Tools/Content/Openssl.md",
+    "Knowledge/Technology/Computing/Protocols/Content/TLS.md",
+    "Knowledge/Technology/Computing/Protocols/Content",
+    "Knowledge/Technology/Computing/Protocols",
+    "Knowledge/Technology/Computing/Shell/Content/Tools/Content",
+    "Knowledge/Technology/Computing/Shell/Content/Tools",
+    "Knowledge/Technology/Computing/AI/Content",
+    "Knowledge/Technology/Computing/AI",
+    "Knowledge/Technology/Computing/Shell/Content/Reading Files/Content",
+    "Knowledge/Technology/Computing/Shell/Content/Conditions/Content",
     "Pasted Image 20240828215201_008.png",
     "Knowledge/Technology/Computing/Shell/Content/Images/bash-infra.png",
     "Excalidraw/Vacation-2024-study/Pasted Image 20240805105051_790.png",
