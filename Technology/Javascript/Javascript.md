@@ -44,7 +44,7 @@ let obj = {
 
 - [[Object]]
 - [[String]]
-- [[Array]]
+- [[Technology/Javascript/Array/Array]]
 
 ### Methods
 
