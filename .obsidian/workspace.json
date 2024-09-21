@@ -8,27 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "878ddc0a5f4b3466",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Shell-Script-Summary.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "92cd752e900c9575",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "668133f593cfd050",
+            "id": "856b8cba0af0858a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -38,27 +18,18 @@
             }
           },
           {
-            "id": "444763650424db61",
+            "id": "dc7c7ef1e4b846d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/OS/Linux/windows_credentails file.md",
+                "file": "Knowledge/Technology/Computing/DotNet/Content/Concepts/PrimaryConstructor.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2a28791f9a10072",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.51103591918945
+    "width": 286.51103591918945
   },
   "right": {
     "id": "9c1f4293da1e1f7a",
@@ -124,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
+                "file": "Knowledge/Technology/Computing/Shell/Content/AWK/AWK.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
+                "file": "Knowledge/Technology/Computing/Shell/Content/AWK/AWK.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md"
+                "file": "Knowledge/Technology/Computing/Shell/Content/AWK/AWK.excalidraw.md"
               }
             }
           },
@@ -193,50 +164,50 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92cd752e900c9575",
+  "active": "856b8cba0af0858a",
   "lastOpenFiles": [
-    "Knowledge/Technology/Computing/Shell/Content/AWK/AWK.excalidraw.md",
     "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Commands.md",
     "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Built-in Variables.md",
-    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Concept.md",
+    "Technology/OS/Linux/SSH/SSH keys.md",
+    "Technology/OS/Linux/SSH/SSH - Agent.md",
+    "Technology/Computing/Protocols/SSH.md",
     "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
-    "Technology/BASH/AWK/AWK.md",
-    "Technology/BASH/AWK/Built-in Variables.md",
-    "Technology/Computing/End-Of-File.md",
-    "Technology/OS/Linux/windows_credentails file.md",
-    "Technology/BASH/Xargs/Xargs.md",
-    "Knowledge/Technology/Computing/Shell/Content/Array.md",
-    "Technology/BASH/Arrays.md",
-    "Technology/BASH/Command History.md",
-    "Technology/BASH/Command Channing.md",
-    "Technology/BASH/BASH Shortcuts.md",
-    "Technology/BASH/clip.md",
-    "Technology/BASH/bash - curl.md",
-    "Technology/BASH/Bash - sort.md",
-    "Technology/BASH/grep.md",
-    "Technology/BASH/find.md",
-    "Knowledge/Technology/Database/Content",
-    "Knowledge/Technology/Database",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Curl.md",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Diff.md",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Sort.md",
-    "Knowledge/Technology/Computing/Protocols/Content/HTTP.md",
-    "Knowledge/Technology/Computing/Shell/Content/Tools/Content/Openssl.md",
-    "Knowledge/Technology/Computing/Protocols/Content/TLS.md",
-    "Knowledge/Technology/Computing/Protocols/Content",
-    "Knowledge/Technology/Computing/Protocols",
-    "Knowledge/Technology/Computing/Shell/Content/Tools/Content",
-    "Knowledge/Technology/Computing/Shell/Content/Tools",
-    "Knowledge/Technology/Computing/AI/Content",
-    "Knowledge/Technology/Computing/AI",
-    "Knowledge/Technology/Computing/Shell/Content/Reading Files/Content",
-    "Knowledge/Technology/Computing/Shell/Content/Conditions/Content",
+    "Excalidraw/Vacation-2024-study/Match_exercices.excalidraw.md",
+    "Technology/OS/Linux/Linux.md",
+    "Technology/Others/Dot Files.md",
+    "Excalidraw/Vacation-2024-study/Ansible/Ansible.excalidraw.md",
+    "Excalidraw/TODO-Tarefa-EGL.excalidraw.md",
+    "Knowledge/Technology/Computing/Stream/Stream.excalidraw.md",
+    "Knowledge/Technology/Computing/DotNet/Content/Concepts/PrimaryConstructor.md",
+    "Knowledge/Technology/Computing/DotNet/Content/Concepts/LazyLoading/Lazy Initialization.md",
+    "Knowledge/Technology/Computing/Stream/Concept/Stream.md",
+    "Knowledge/Technology/Computing/DotNet/Content/Stream.md",
+    "Knowledge/Technology/Computing/DotNet/DotNet.excalidraw.md",
+    "Knowledge/Technology/Computing/Stream/Concept",
+    "Knowledge/Technology/Computing/DotNet/Content/HttpClient/IHttpClientFactory.md",
+    "Knowledge/Technology/Computing/Stream",
+    "Knowledge/Technology/Computing/Cache/InMemoryCache/MemoryCache/MemoryCache.excalidraw.md",
+    "Knowledge/Technology/Computing/DotNet/Content",
+    "Knowledge/Technology/Computing/DotNet/Content/Concepts/LazyLoading",
+    "Knowledge/Technology/Computing/DotNet/Content/Concepts",
+    "Knowledge/Technology/Computing/DotNet/Content/HttpClient",
+    "Knowledge/Technology/Computing/DotNet",
+    "Knowledge/Technology/Computing/Cache/InMemoryCache/MemoryCache/Content",
+    "Knowledge/Technology/Computing/Python/Content/Tools/Crewai/Content/Crews.md",
+    "Knowledge/Technology/Computing/Cache/InMemoryCache/MemoryCache",
+    "Knowledge/Technology/Computing/Cache/InMemoryCache",
+    "Knowledge/Technology/Computing/Python/Content/Tools/Crewai/Content/Tasks.md",
+    "Knowledge/Technology/Computing/Python/Content/Tools/Crewai/CrewAI.excalidraw.md",
+    "Knowledge/Technology/Computing/Python/Content/Tools/Crewai/Content/Agents.md",
+    "Knowledge/Technology/Computing/Python/Python.excalidraw.md",
+    "Knowledge/Technology/Computing/Python/Content/Virtual Environments.md",
+    "Knowledge/Technology/Computing/Python/Content/Tools/Crewai/CrewAI.md",
     "Pasted Image 20240828215201_008.png",
     "Knowledge/Technology/Computing/Shell/Content/Images/bash-infra.png",
     "Excalidraw/Vacation-2024-study/Pasted Image 20240805105051_790.png",
