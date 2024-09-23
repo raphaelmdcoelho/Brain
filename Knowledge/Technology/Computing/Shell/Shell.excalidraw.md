@@ -4992,8 +4992,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 191,
-			"versionNonce": 963237403,
+			"version": 193,
+			"versionNonce": 571397929,
 			"isDeleted": false,
 			"id": "oygaDz1q",
 			"fillStyle": "solid",
@@ -5004,7 +5004,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -1192.2473116067476,
 			"y": -222.79902058772223,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 48.27197265625,
 			"height": 35,
@@ -5018,8 +5018,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899293,
-			"link": null,
+			"updated": 1726924192465,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FSED%2FSed.excalidraw",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -5034,8 +5034,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 518,
-			"versionNonce": 1264217365,
+			"version": 519,
+			"versionNonce": 1236087431,
 			"isDeleted": false,
 			"id": "EZUHf5WBhnc2TavDRwQm3",
 			"fillStyle": "solid",
@@ -5046,7 +5046,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -1245.4566927997553,
 			"y": -400.33178364543096,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 60.514580113126044,
 			"height": 164.43440467126027,
@@ -5057,7 +5057,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899293,
+			"updated": 1726922914348,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7405,8 +7405,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1866.039241800831,
-		"scrollY": 1581.3779388738449,
+		"scrollX": 1888.2465782266122,
+		"scrollY": 1519.0018402410324,
 		"zoom": {
 			"value": 0.4
 		},
