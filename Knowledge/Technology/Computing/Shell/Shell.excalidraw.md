@@ -4364,8 +4364,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 708,
-			"versionNonce": 418832999,
+			"version": 710,
+			"versionNonce": 820756583,
 			"isDeleted": false,
 			"id": "XHZbQr9MhJjEzJ7OMgfuZ",
 			"fillStyle": "solid",
@@ -4387,17 +4387,17 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725674441688,
+			"updated": 1725676069820,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "fw21D9q0",
-				"focus": -0.042078972270714665,
+				"focus": -0.038854539355330536,
 				"gap": 13.721675505968392
 			},
 			"endBinding": {
 				"elementId": "8OgKNfp8",
-				"focus": -0.35244604451306405,
+				"focus": -0.3524460445130684,
 				"gap": 11.215924383027186
 			},
 			"lastCommittedPoint": null,
@@ -4992,8 +4992,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 191,
-			"versionNonce": 963237403,
+			"version": 193,
+			"versionNonce": 571397929,
 			"isDeleted": false,
 			"id": "oygaDz1q",
 			"fillStyle": "solid",
@@ -5004,7 +5004,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -1192.2473116067476,
 			"y": -222.79902058772223,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 48.27197265625,
 			"height": 35,
@@ -5018,8 +5018,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899293,
-			"link": null,
+			"updated": 1726924192465,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FSED%2FSed.excalidraw",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -5034,8 +5034,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 518,
-			"versionNonce": 1264217365,
+			"version": 519,
+			"versionNonce": 1236087431,
 			"isDeleted": false,
 			"id": "EZUHf5WBhnc2TavDRwQm3",
 			"fillStyle": "solid",
@@ -5046,7 +5046,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -1245.4566927997553,
 			"y": -400.33178364543096,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 60.514580113126044,
 			"height": 164.43440467126027,
@@ -5057,7 +5057,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899293,
+			"updated": 1726922914348,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6959,8 +6959,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 18,
-			"versionNonce": 1749184661,
+			"version": 20,
+			"versionNonce": 1602888054,
 			"isDeleted": false,
 			"id": "qO6vIX3N",
 			"fillStyle": "solid",
@@ -6971,7 +6971,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -955.2922998773154,
 			"y": -4.189023799765437,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 89.87994384765625,
 			"height": 35,
@@ -6985,8 +6985,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899294,
-			"link": null,
+			"updated": 1725729307248,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FPython%2FPython.excalidraw",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -7001,8 +7001,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 28,
-			"versionNonce": 130699067,
+			"version": 29,
+			"versionNonce": 160672618,
 			"isDeleted": false,
 			"id": "Lu95cvyvIxG8zV1Um31_n",
 			"fillStyle": "solid",
@@ -7013,7 +7013,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -850.3121363030966,
 			"y": 98.50903528226581,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 36.514892578125,
 			"height": 57.054443359375,
@@ -7024,7 +7024,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899294,
+			"updated": 1725729305311,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7405,8 +7405,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1986.994594584034,
-		"scrollY": 1501.5018402410324,
+		"scrollX": 1888.2465782266122,
+		"scrollY": 1519.0018402410324,
 		"zoom": {
 			"value": 0.4
 		},

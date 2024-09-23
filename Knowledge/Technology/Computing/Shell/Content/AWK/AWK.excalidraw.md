@@ -16,6 +16,14 @@ Commands ^dXQBgzgk
 
 Built-in Variables ^e1kd9d7j
 
+Quick reference
+
+* awk '' input
+* awk 'BEGIN {} command END{}' input
+* awk 'BEGIN {FS=","; RS=";"} $2~/^MA/ {print $1", "$2} END {print "End"}' filename
+* awk 'BEGIN {FS=","; RS=";"} $2~/state/ {print $1", "$2"} END {print {"End"}' state=$1 $2
+ ^KCBXyh8Z
+
 %%
 # Drawing
 ```json
@@ -26,8 +34,8 @@ Built-in Variables ^e1kd9d7j
 	"elements": [
 		{
 			"type": "text",
-			"version": 40,
-			"versionNonce": 1711273577,
+			"version": 41,
+			"versionNonce": 2017072423,
 			"isDeleted": false,
 			"id": "DeUpvS1Z",
 			"fillStyle": "solid",
@@ -58,9 +66,13 @@ Built-in Variables ^e1kd9d7j
 				{
 					"id": "b8AURl4e3zl9Xcx54jvcK",
 					"type": "arrow"
+				},
+				{
+					"id": "hWqrR8CNEBES26B6VsFTO",
+					"type": "arrow"
 				}
 			],
-			"updated": 1725675506793,
+			"updated": 1726922053118,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -355,6 +367,100 @@ Built-in Variables ^e1kd9d7j
 					-99.95936584472656
 				]
 			]
+		},
+		{
+			"id": "KCBXyh8Z",
+			"type": "text",
+			"x": -286.05782890319824,
+			"y": 68.28382730484009,
+			"width": 944.699462890625,
+			"height": 175,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 758167559,
+			"version": 336,
+			"versionNonce": 1014058663,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "hWqrR8CNEBES26B6VsFTO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1726922317744,
+			"link": null,
+			"locked": false,
+			"text": "Quick reference\n\n* awk '' input\n* awk 'BEGIN {} command END{}' input\n* awk 'BEGIN {FS=\",\"; RS=\";\"} $2~/^MA/ {print $1\", \"$2} END {print \"End\"}' filename\n* awk 'BEGIN {FS=\",\"; RS=\";\"} $2~/state/ {print $1\", \"$2\"} END {print {\"End\"}' state=$1 $2\n",
+			"rawText": "Quick reference\n\n* awk '' input\n* awk 'BEGIN {} command END{}' input\n* awk 'BEGIN {FS=\",\"; RS=\";\"} $2~/^MA/ {print $1\", \"$2} END {print \"End\"}' filename\n* awk 'BEGIN {FS=\",\"; RS=\";\"} $2~/state/ {print $1\", \"$2\"} END {print {\"End\"}' state=$1 $2\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 167,
+			"containerId": null,
+			"originalText": "Quick reference\n\n* awk '' input\n* awk 'BEGIN {} command END{}' input\n* awk 'BEGIN {FS=\",\"; RS=\";\"} $2~/^MA/ {print $1\", \"$2} END {print \"End\"}' filename\n* awk 'BEGIN {FS=\",\"; RS=\";\"} $2~/state/ {print $1\", \"$2\"} END {print {\"End\"}' state=$1 $2\n",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "hWqrR8CNEBES26B6VsFTO",
+			"type": "arrow",
+			"x": -100.15393718213241,
+			"y": 25.835325717926025,
+			"width": 17.77173212094911,
+			"height": 33.77621459960936,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1941231817,
+			"version": 687,
+			"versionNonce": 1949110503,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1726922317745,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					17.77173212094911,
+					33.77621459960936
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "DeUpvS1Z",
+				"focus": -0.35543890315721904,
+				"gap": 9.920034885406494
+			},
+			"endBinding": {
+				"elementId": "KCBXyh8Z",
+				"focus": -0.42067261520194904,
+				"gap": 8.672286987304688
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -372,10 +478,10 @@ Built-in Variables ^e1kd9d7j
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 470.19386100769043,
-		"scrollY": 294.4363226890564,
+		"scrollX": 303.0291140132134,
+		"scrollY": 229.9607882086379,
 		"zoom": {
-			"value": 2
+			"value": 1.5948098191096693
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
