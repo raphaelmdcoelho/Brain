@@ -6736,8 +6736,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 155,
-			"versionNonce": 1911141723,
+			"version": 158,
+			"versionNonce": 1797303703,
 			"isDeleted": false,
 			"id": "6FjZ3Sv6",
 			"fillStyle": "solid",
@@ -6747,7 +6747,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"opacity": 100,
 			"angle": 0,
 			"x": -921.4356714593466,
-			"y": -785.343343920161,
+			"y": -792.1898099846142,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#a5d8ff",
 			"width": 49.47596740722656,
@@ -6762,7 +6762,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899294,
+			"updated": 1727483905501,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6778,8 +6778,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 348,
-			"versionNonce": 1119560149,
+			"version": 351,
+			"versionNonce": 1745150647,
 			"isDeleted": false,
 			"id": "OlHoh_H3WMTkseP2eietY",
 			"fillStyle": "solid",
@@ -6793,7 +6793,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"strokeColor": "#e03131",
 			"backgroundColor": "#a5d8ff",
 			"width": 707.2911529541017,
-			"height": 665.2694962697801,
+			"height": 671.534931012746,
 			"seed": 200310918,
 			"groupIds": [],
 			"frameId": null,
@@ -6801,7 +6801,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899294,
+			"updated": 1727483905501,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6828,7 +6828,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				],
 				[
 					-707.2911529541017,
-					-665.2694962697801
+					-671.534931012746
 				]
 			]
 		},
@@ -7405,8 +7405,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1888.2465782266122,
-		"scrollY": 1519.0018402410324,
+		"scrollX": 1714.9697532754403,
+		"scrollY": 1638.4324585271652,
 		"zoom": {
 			"value": 0.4
 		},
