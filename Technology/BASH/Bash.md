@@ -192,7 +192,7 @@ It's possible to executes [[Arithmetic]] expressions and operations in command l
 
 ### CHMOD
 
-* [[chmod]]
+* [[Technology/OS/Linux/chmod]]
 
 <hr>
 
