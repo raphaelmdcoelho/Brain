@@ -1650,8 +1650,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 448,
-			"versionNonce": 1286337545,
+			"version": 449,
+			"versionNonce": 1206746491,
 			"isDeleted": false,
 			"id": "rUwQVhoL",
 			"fillStyle": "solid",
@@ -1662,7 +1662,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": 1195.6186125325999,
 			"y": -870.5748986265426,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 72.53997802734375,
 			"height": 45,
@@ -1676,7 +1676,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725675247553,
+			"updated": 1727663252356,
 			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FAWK%2FAWK.excalidraw",
 			"locked": false,
 			"fontSize": 36,
@@ -1692,8 +1692,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 1833,
-			"versionNonce": 544674043,
+			"version": 1834,
+			"versionNonce": 1353854229,
 			"isDeleted": false,
 			"id": "HwdBCLKhg90pdO9zxHPwc",
 			"fillStyle": "solid",
@@ -1704,7 +1704,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": 79.99740501721186,
 			"y": -69.96240084119268,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1106.4011544990494,
 			"height": 774.1003128292919,
@@ -1715,7 +1715,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725588139516,
+			"updated": 1727663255111,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2596,8 +2596,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 1074123195,
+			"version": 136,
+			"versionNonce": 1076793147,
 			"isDeleted": false,
 			"id": "k1FJ9pj1",
 			"fillStyle": "solid",
@@ -2608,7 +2608,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": 861.2403566382987,
 			"y": -101.6716533736759,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 81.03196716308594,
 			"height": 35,
@@ -2622,8 +2622,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587973230,
-			"link": null,
+			"updated": 1727663336219,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FShell%2FContent%2FUserManagement%2FContent%2Fchmod",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -2680,8 +2680,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 218,
-			"versionNonce": 880403035,
+			"version": 219,
+			"versionNonce": 1272222203,
 			"isDeleted": false,
 			"id": "UU6Lii_cmxw7Gmaf5ccla",
 			"fillStyle": "solid",
@@ -2692,7 +2692,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": 732.4870927874558,
 			"y": -63.24614675150134,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 123.71578811822167,
 			"height": 65.13063270336885,
@@ -2703,7 +2703,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587973230,
+			"updated": 1727663333593,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3032,8 +3032,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 118,
-			"versionNonce": 765071771,
+			"version": 119,
+			"versionNonce": 954776123,
 			"isDeleted": false,
 			"id": "hXDh465K",
 			"fillStyle": "solid",
@@ -3044,7 +3044,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -895.7261798433299,
 			"y": 278.2105221324314,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 89.6839599609375,
 			"height": 35,
@@ -3058,7 +3058,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899292,
+			"updated": 1727663288951,
 			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FTools%2FInfrastructure%2FAnsible%2FAnsible.excalidraw",
 			"locked": false,
 			"fontSize": 28,
@@ -3074,8 +3074,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 334,
-			"versionNonce": 503163285,
+			"version": 335,
+			"versionNonce": 869344309,
 			"isDeleted": false,
 			"id": "pKc4UfcFrInkIl2BNkg4Q",
 			"fillStyle": "solid",
@@ -3086,7 +3086,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -842.7984157911405,
 			"y": 160.829569751479,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 0.5728959418049726,
 			"height": 105.23809523809527,
@@ -3097,7 +3097,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899292,
+			"updated": 1727663286502,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3608,8 +3608,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 151,
-			"versionNonce": 1194647899,
+			"version": 153,
+			"versionNonce": 90857461,
 			"isDeleted": false,
 			"id": "fw21D9q0",
 			"fillStyle": "solid",
@@ -3674,7 +3674,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899292,
+			"updated": 1727663270346,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4604,8 +4604,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 244,
-			"versionNonce": 1609956251,
+			"version": 245,
+			"versionNonce": 1217439413,
 			"isDeleted": false,
 			"id": "dAiW7qia",
 			"fillStyle": "solid",
@@ -4616,7 +4616,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -1580.6637406585705,
 			"y": -213.29508495536436,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 59.55598449707031,
 			"height": 35,
@@ -4630,7 +4630,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899293,
+			"updated": 1727663273007,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4646,8 +4646,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 618,
-			"versionNonce": 1059938197,
+			"version": 619,
+			"versionNonce": 1382301045,
 			"isDeleted": false,
 			"id": "jpnM0FNB-wpae7izYklLQ",
 			"fillStyle": "solid",
@@ -4658,7 +4658,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -1324.0733873316974,
 			"y": -410.38550749555986,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 198.88590692136086,
 			"height": 186.24616818762604,
@@ -4669,7 +4669,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899293,
+			"updated": 1727663275247,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7405,8 +7405,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1714.9697532754403,
-		"scrollY": 1638.4324585271652,
+		"scrollX": 1899.8260154824716,
+		"scrollY": 1540.2988373113449,
 		"zoom": {
 			"value": 0.4
 		},
