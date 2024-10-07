@@ -8,99 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42b4c62d2855e219",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a8d2e272823cf120",
+            "id": "25d14c16e581d592",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Content/UserManagement/UserManagement.excalidraw.md"
+                "file": "Knowledge/Technology/Computing/Node/NodeJs.excalidraw.md"
               }
             }
           },
           {
-            "id": "3a68bb034ce565b9",
+            "id": "1d5c9cc8d8bf9a40",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Knowledge/Math/Content/Funcoes.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4121258abe68925e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Content/UserManagement/Content/chmod.md",
+                "file": "Knowledge/Languages/German/Content/Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c8c7711f2f84be0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Content/SSH/SSH.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "04afc6020167cb8f",
+            "id": "7ea58c5ed76654af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Eval.md",
+                "file": "Knowledge/Technology/Computing/Javascript/Content/Hoisting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "33c4d7af812df7c0",
+            "id": "d3a6a406ce409524",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Knowledge/Math/Math.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d0a42d2beaaba517",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Knowledge/Technology/Computing/HttpServers/Nginx.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e283ca4ce547bb80",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Content/AWK/AWK.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "10196205c6a99be6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Knowledge/Technology/Computing/Shell/Content/SED/Sed.excalidraw.md"
+                "file": "Knowledge/Technology/Computing/Javascript/Content/Promise.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Math/Math.excalidraw.md",
+                "file": "Knowledge/Technology/Computing/Javascript/Content/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Math/Math.excalidraw.md",
+                "file": "Knowledge/Technology/Computing/Javascript/Content/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Math/Math.excalidraw.md"
+                "file": "Knowledge/Technology/Computing/Javascript/Content/Promise.md"
               }
             }
           },
@@ -241,17 +205,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33c4d7af812df7c0",
+  "active": "d3a6a406ce409524",
   "lastOpenFiles": [
-    "Knowledge/Math/Math.excalidraw.md",
-    "Knowledge/Math/Content",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Eval.md",
-    "Knowledge/Math",
-    "Knowledge/Technology/Computing/Shell/Content/UserManagement/Content/chmod.md",
+    "Knowledge/Technology/Computing/Javascript/Content/Hoisting.md",
+    "Knowledge/Languages/German/Content/Vocabulary.md",
+    "Knowledge/Math/Content/Funcoes.excalidraw.md",
+    "Knowledge/Technology/Computing/Node/NodeJs.excalidraw.md",
+    "Knowledge/Technology/Computing/Javascript/Content/Promise.md",
+    "Knowledge/Technology/Computing/Javascript/Javascript.excalidraw.md",
+    "Knowledge/Technology/Computing/Git/Git.excalidraw.md",
     "Knowledge/Technology/Computing/Shell/Shell.excalidraw.md",
+    "Knowledge/Technology/Computing/Git/Content",
+    "Knowledge/Technology/Computing/Git",
+    "Knowledge/Technology/Computing/Javascript/Content",
+    "Knowledge/Technology/Computing/Javascript",
+    "Knowledge/Languages/German/German.excalidraw.md",
+    "Knowledge/Languages/German/Content/Untitled",
+    "Knowledge/Languages/German/Content",
+    "Knowledge/Languages/German",
+    "Knowledge/Languages",
+    "Knowledge/Math/Math.excalidraw.md",
+    "Knowledge/Math/Content/Produtos notáveis.excalidraw.md",
+    "Knowledge/Math/Content/Logaritmos.excalidraw.md",
+    "Knowledge/Math/Content/AlgebraLinear.excalidraw.md",
+    "Excalidraw/Frases.excalidraw.md",
+    "Knowledge/Technology/Computing/Node/Content",
+    "Knowledge/Technology/Computing/Node",
+    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Eval.md",
+    "Knowledge/Technology/Computing/Shell/Content/UserManagement/Content/chmod.md",
     "Knowledge/Technology/Computing/Database/Database.excalidraw.md",
     "Knowledge/Technology/Computing/Database/Content/SqlServer/Indexing.md",
-    "Knowledge/Technology/Computing/Database/Content/SqlServer",
     "Knowledge/Technology/Computing/HttpServers/Nginx.excalidraw.md",
     "Knowledge/Technology/Computing/Shell/Content/AWK/AWK.excalidraw.md",
     "Knowledge/Technology/Computing/Shell/Content/SED/Sed.excalidraw.md",
@@ -260,27 +243,9 @@
     "Knowledge/Technology/Computing/Shell/Content/UserManagement/Images/Linux permissions.png",
     "Knowledge/Technology/Computing/Shell/Content/UserManagement/Images/Permissions information.png",
     "Technology/OS/Linux/chmod.md",
-    "Knowledge/Technology/Computing/Shell/Content/UserManagement/Images",
-    "Knowledge/Technology/Computing/Shell/Content/UserManagement/Content",
     "Technology/OS/Linux/SSH/SSH - Agent.md",
     "Knowledge/Technology/Computing/Shell/Content/SSH/Content/SSH.md",
-    "Technology/OS/Linux/SSH/SSH keys.md",
-    "Technology/Computing/Protocols/SSH.md",
-    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Commands.md",
-    "Knowledge/Technology/Computing/Shell/Content/Variables.md",
-    "Knowledge/Technology/Computing/Shell/Content/Shebang.md",
-    "Knowledge/Technology/Computing/Shell/Content/End Of Options.md",
-    "Knowledge/Technology/Computing/Shell/Content/Array.md",
-    "Knowledge/Technology/Computing/Shell/Content/Tools/Content/Openssl.md",
-    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Built-in Variables.md",
-    "Knowledge/Technology/Computing/Shell/Content/AWK/Content/AWK Concept.md",
-    "Knowledge/Technology/Computing/Shell/Content/Commands/Content/Curl.md",
     "Knowledge/Technology/Computing/Shell/Content/Images/bash-infra.png",
-    "Knowledge/Technology/Computing/Shell/Content/SSH/Content",
-    "Knowledge/Technology/Computing/Shell/Content/SSH",
-    "Knowledge/Technology/Computing/Shell/Content/UserManagement",
-    "Knowledge/Technology/Computing/Patterns/Architectural",
-    "Knowledge/Technology/Computing/Patterns",
     "Pasted Image 20240828215201_008.png",
     "Excalidraw/Vacation-2024-study/Pasted Image 20240805105051_790.png",
     "Excalidraw/Vacation-2024-study/k8s/kcm.png",

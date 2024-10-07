@@ -5678,8 +5678,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 184013435,
+			"version": 86,
+			"versionNonce": 1599238639,
 			"isDeleted": false,
 			"id": "P2MNTw1v",
 			"fillStyle": "solid",
@@ -5690,7 +5690,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -994.0509637048323,
 			"y": 325.0597042452392,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 44.043975830078125,
 			"height": 35,
@@ -5704,8 +5704,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1725587899293,
-			"link": null,
+			"updated": 1728246319504,
+			"link": "obsidian://open?vault=Brain&file=Knowledge%2FTechnology%2FComputing%2FGit%2FGit.excalidraw",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
@@ -5720,8 +5720,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 229,
-			"versionNonce": 520152757,
+			"version": 234,
+			"versionNonce": 1253648513,
 			"isDeleted": false,
 			"id": "F5L6XUsCZYdLSL-468Vnd",
 			"fillStyle": "solid",
@@ -5732,7 +5732,7 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 			"angle": 0,
 			"x": -861.9198881853165,
 			"y": 155.16071434624934,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 86.78360052605785,
 			"height": 157.6484827424194,
@@ -5743,18 +5743,18 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1725587899293,
+			"updated": 1728246319504,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "MfXA6Ce1",
-				"focus": -0.1627362840470205,
+				"focus": -0.15990903111407254,
 				"gap": 5.759716023342037
 			},
 			"endBinding": {
 				"elementId": "P2MNTw1v",
-				"focus": 0.2194937127054771,
-				"gap": 12.319660533558363
+				"focus": 0.21949371270547818,
+				"gap": 12.25050715657045
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -7405,8 +7405,8 @@ fb81d2985ef14f97261da88677dc850539c935ea: [[bash-infra.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1899.8260154824716,
-		"scrollY": 1540.2988373113449,
+		"scrollX": 1981.9845237832528,
+		"scrollY": 1501.5018402410324,
 		"zoom": {
 			"value": 0.4
 		},
